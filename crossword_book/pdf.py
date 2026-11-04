@@ -9,6 +9,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import Paragraph
 from reportlab.lib.styles import ParagraphStyle
 from .frontmatter import opening_pages, thank_you_page, publication_details
+from .puzzle_titles import assign_puzzle_titles
 
 THEME_CELL_GRAY = 0.80  # 20% black, independent of color-to-grayscale conversion.
 
@@ -114,8 +115,18 @@ def plan_puzzle(puzzle):
     raise PageFitError('Clues cannot fit on one page at a readable size; shorten the clues or generate another grid')
 
 
+def fitted_heading(c,text,x,y,width,size,minimum):
+    measured=pdfmetrics.stringWidth(text,'BookBold',size)
+    actual=min(size,size*width/measured) if measured else size
+    if actual<minimum:
+        raise PageFitError('Puzzle title is too long; shorten it to fit the page heading')
+    c.setFont('BookBold',actual)
+    c.drawString(x,y,text)
+
+
 def write_pdf(book,path,title):
     register_fonts()
+    assign_puzzle_titles(book)
     c = canvas.Canvas(str(path),pagesize=letter,invariant=1)
     c.setTitle(title)
     c.setAuthor(publication_details(book)[0])
@@ -129,8 +140,9 @@ def write_pdf(book,path,title):
     opening_pages(c,book,title,draw_grid,footer)
     for puzzle in book['puzzles']:
         layout = plan_puzzle(puzzle)
-        c.setFont('BookBold',17)
-        c.drawString(42,744,f"Puzzle {puzzle['number']}: {puzzle['theme'].title()}")
+        difficulty=puzzle['difficulty'].title()
+        heading_width=528-pdfmetrics.stringWidth(difficulty,'Book',10)-18
+        fitted_heading(c,f"Puzzle {puzzle['number']}: {puzzle['title']}",42,744,heading_width,17,12)
         c.setFont('Book',10)
         c.drawRightString(570,744,puzzle['difficulty'].title())
         c.setFont('Book',8)
@@ -145,8 +157,7 @@ def write_pdf(book,path,title):
         c.drawString(54,744,'Solutions')
         for offset,puzzle in enumerate(book['puzzles'][start:start+4]):
             x,top = 54+(offset%2)*264,700-(offset//2)*320
-            c.setFont('BookBold',10)
-            c.drawString(x,top,f"{puzzle['number']}. {puzzle['theme'].title()}")
+            fitted_heading(c,f"{puzzle['number']}. {puzzle['title']}",x,top,230,10,8.5)
             rows,cols = len(puzzle['grid']),len(puzzle['grid'][0])
             cell = min(18,230/cols,270/rows)
             draw_grid(c,puzzle,x,top-16,cell,solution=True)

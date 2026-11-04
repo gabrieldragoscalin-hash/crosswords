@@ -9,6 +9,13 @@ puzzle and general English crossing fill. Choose dogs, cats, wildlife, animals,
 birds, or fish. The interior is **8.5 × 11 inches**, with numbered clues and
 solutions. No API key, online AI service, or runtime download is required.
 
+Every puzzle has a distinct theme-inspired title (for example, "Paws and Play"
+or "The Curious Cat"). Titles appear above the puzzle and its solution and are
+saved as `puzzles[].title` in `book.json`. They are unique within a book and
+reproducible with the seed, using a separate random stream so naming does not
+change the crossword fills. Longer books receive additional titles automatically.
+Existing saved titles are preserved when rendering a saved book again.
+
 Theme-answer squares have a light **20% black gray fill**, suitable for a
 black-and-white interior, and their clues are marked with an asterisk (`*`).
 The same shading appears in the solutions. Generic answers remain unshaded

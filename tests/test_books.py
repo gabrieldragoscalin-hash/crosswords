@@ -11,6 +11,7 @@ from reportlab.pdfgen import canvas
 from crossword_book.core import THEMES, LEVELS, generate, make_book, slots_for, is_connected
 from crossword_book.cli import main, normalize_theme
 from crossword_book.pdf import write_pdf, draw_grid, register_fonts, PageFitError
+from crossword_book.puzzle_titles import titles_for, assign_puzzle_titles
 
 
 class CrosswordTests(unittest.TestCase):
@@ -71,6 +72,27 @@ class CrosswordTests(unittest.TestCase):
             make_book(1,mode='expert')
         self.assertEqual(normalize_theme('wild life'),'wildlife')
 
+    def test_distinct_titles_for_every_theme_and_long_books(self):
+        for theme in THEMES:
+            with self.subTest(theme=theme):
+                titles=titles_for(theme,1000,42)
+                self.assertEqual(len(titles),1000)
+                self.assertEqual(len({title.casefold() for title in titles}),1000)
+                self.assertEqual(titles,titles_for(theme,1000,42))
+                self.assertNotEqual(titles[:50],titles_for(theme,50,43))
+                self.assertTrue(all(title.casefold()!=theme for title in titles))
+
+    def test_saved_book_titles_are_preserved_when_missing_titles_are_added(self):
+        book={'theme':'dogs','seed':42,'puzzles':[{'title':'Paws and Play'},{},{}]}
+        assign_puzzle_titles(book)
+        self.assertEqual(book['puzzles'][0]['title'],'Paws and Play')
+        self.assertEqual(len({p['title'] for p in book['puzzles']}),3)
+        original=[p['title'] for p in book['puzzles']]
+        assign_puzzle_titles(book)
+        self.assertEqual(original,[p['title'] for p in book['puzzles']])
+        with self.assertRaises(ValueError):
+            assign_puzzle_titles({'theme':'dogs','puzzles':[{'title':'My Puzzle'},{'title':'MY PUZZLE'}]})
+
     def test_cli_and_output_protection(self):
         with tempfile.TemporaryDirectory() as temporary:
             output=Path(temporary)/'dogs'
@@ -87,6 +109,7 @@ class CrosswordTests(unittest.TestCase):
             self.assertEqual(len(pdf.pages),7)
             self.assertEqual(book['publisher'],'Quickberry Books')
             self.assertEqual(book['copyright_year'],2026)
+            self.assertTrue(book['puzzles'][0]['title'])
             self.assertIn('DOG LOVERS CROSSWORDS',' '.join(pdf.pages[0].extract_text().split()))
             self.assertNotIn('LARGE PRINT',pdf.pages[0].extract_text())
             copyright_text=' '.join(pdf.pages[1].extract_text().split())
@@ -119,6 +142,7 @@ class CrosswordTests(unittest.TestCase):
             for puzzle,page in zip(book['puzzles'],pdf.pages[3:6]):
                 text=' '.join(page.extract_text().split())
                 self.assertIn(f"Puzzle {puzzle['number']}:",text)
+                self.assertIn(puzzle['title'],text)
                 self.assertIn('ACROSS',text)
                 self.assertIn('DOWN',text)
                 self.assertNotIn('(continued)',text)
@@ -127,6 +151,9 @@ class CrosswordTests(unittest.TestCase):
                     self.assertIn(' '.join(entry['clue'].split()),text)
                     if entry['themed']:
                         self.assertIn(f"*{entry['number']}.",text)
+            solution_text=' '.join(pdf.pages[6].extract_text().split())
+            for puzzle in book['puzzles']:
+                self.assertIn(puzzle['title'],solution_text)
 
     def test_theme_squares_use_only_neutral_gray_in_puzzles_and_solutions(self):
         register_fonts()

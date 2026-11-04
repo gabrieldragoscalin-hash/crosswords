@@ -275,4 +275,7 @@ def make_book(count=50, mode='incremental', theme='dogs', seed=1, progress=None)
                 break
         else:
             raise RuntimeError('Could not generate a unique puzzle that fits one page; try another seed or shorter clues')
-    return dict(seed=seed,mode=mode,theme=theme,themes=[theme],grid_style='fully_checked',puzzles=puzzles)
+    from .puzzle_titles import assign_puzzle_titles
+    book=dict(seed=seed,mode=mode,theme=theme,themes=[theme],grid_style='fully_checked',puzzles=puzzles)
+    assign_puzzle_titles(book)
+    return book
