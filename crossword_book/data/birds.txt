@@ -1,0 +1,24 @@
+ROBIN|Small bird often shown with a red breast|Bird name shared by European chats and American thrushes
+SPARROW|Small, common seed-eating bird|Familiar passerine often associated with house eaves
+SWALLOW|Small bird that catches insects in flight|Aerial insectivore of the family Hirundinidae
+SWIFT|Fast bird with long, narrow wings|Aerial specialist of the family Apodidae
+EAGLE|Large bird of prey|Raptor name associated with Aquila and Haliaeetus
+FALCON|Pointed-winged hunting bird|Raptor with a tomial tooth on its beak
+OSPREY|Bird of prey that catches fish|Pandion haliaetus
+OWL|Bird of prey often active at night|Raptor with a facial disk
+HERON|Long-legged bird that hunts in shallow water|Wading bird of the family Ardeidae
+EGRET|Usually white wading bird|Plumed heron once hunted for millinery
+CRANE|Tall bird with a long neck and legs|Long-legged bird of the family Gruidae
+STORK|Large wading bird linked with baby stories|Long-billed member of Ciconiidae
+PELICAN|Waterbird with a pouch under its bill|Pouch-billed member of Pelecanidae
+PUFFIN|Seabird with a colorful bill|Atlantic alcid nicknamed a sea parrot
+PENGUIN|Flightless seabird of the Southern Hemisphere|Diving bird of the family Spheniscidae
+OSTRICH|Largest living bird|Two-toed African ratite
+EMU|Large flightless Australian bird|Dromaius novaehollandiae
+KIWI|Small flightless bird from New Zealand|Nocturnal ratite with nostrils near its bill tip
+PARROT|Often colorful bird that may mimic speech|Zygodactyl bird with a strongly curved bill
+MACAW|Large, long-tailed parrot|Neotropical parrot with a bare facial patch
+TOUCAN|Tropical bird with a very large bill|Neotropical member of Ramphastidae
+KINGFISHER|Bird that dives to catch fish|Diving specialist of the family Alcedinidae
+WOODPECKER|Bird that taps on tree trunks|Tree-drilling member of Picidae
+NIGHTINGALE|Small bird famous for its beautiful song|Luscinia megarhynchos

@@ -1,0 +1,25 @@
+# ANSWER|easy clue|hard clue
+BEAGLE|Small hound with floppy ears|Hound associated with the fictional Snoopy
+POODLE|Curly-coated dog breed|Breed whose name comes from splashing in water
+COLLIE|Herding breed like Lassie|Scottish herder with rough and smooth varieties
+BOXER|Muscular dog named for a sport|German working breed with a short muzzle
+HUSKY|Thick-coated sled dog|Northern worker often seen with blue eyes
+CORGI|Short-legged Welsh herding dog|Welsh breed with Pembroke and Cardigan varieties
+DALMATIAN|White dog with black spots|Spotted carriage dog named for an Adriatic region
+TERRIER|Dog group bred to hunt vermin|Its group name derives from the Latin for earth
+RETRIEVER|Dog bred to bring back game|Gundog whose job begins after the shot
+SPANIEL|Floppy-eared flushing dog|Gundog group whose name suggests Spanish origins
+MASTIFF|Very large, heavy dog breed|Massive guardian with ancient roots
+GREYHOUND|Fast, slender racing dog|Sighthound famous for the double-suspension gallop
+DACHSHUND|Long-bodied dog with short legs|German breed whose name means badger dog
+CHIHUAHUA|Tiny breed named for a Mexican state|Small companion bearing the name of Mexico's largest state
+SAMOYED|Fluffy white northern dog|Smiling spitz named for Siberian peoples
+WHIPPET|Small, speedy dog like a greyhound|Slender British sighthound once called a poor man's racehorse
+PUPPY|A young dog|Canine in its earliest life stage
+KENNEL|A dog's shelter|Boarding establishment for canine guests
+LEASH|Strap used for walking a dog|A tether between handler and hound
+MUZZLE|A dog's nose-and-mouth area|Canine facial region also named by a bite-prevention device
+PAW|A dog's foot|Digit-bearing end of a canine limb
+FETCH|Game of bringing back a thrown ball|Retrieve on command
+HOWL|Long, loud cry made by a dog|Prolonged canine vocalization shared with wolves
+SCENT|Smell a tracking dog follows|An olfactory trail for a working hound

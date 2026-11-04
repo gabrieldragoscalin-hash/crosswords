@@ -1,0 +1,199 @@
+# Editorially written familiar fill clues; used in preference to dictionary glosses.
+AAA|Small battery size
+ABC|First three letters of the alphabet
+ABS|Stomach muscles, informally
+ADA|Computing pioneer Lovelace's first name
+ADD|Find the total of
+AGO|Before now
+ALE|A type of beer
+ALI|Boxing great Muhammad
+ALT|Keyboard key beside the space bar
+APR|Month before May, briefly
+ARE|Verb in "You ___ here"
+ARK|Noah's boat
+ATE|Had a meal
+BAM|Sound of a sudden impact
+BEN|Big ___, London's famous bell
+BOB|Move gently up and down
+BOO|Sound made to scare someone
+BOT|Automated computer program, briefly
+BRA|Supportive undergarment
+BUN|Small bread roll
+BUY|Purchase
+BYE|Informal farewell
+CAM|Short for a camera
+CDC|U.S. public health agency, briefly
+CEO|Company's top executive, briefly
+CHI|Greek letter after phi
+COD|Fish often served with chips
+COL|Military rank below general, briefly
+COW|Farm animal that moos
+COX|Steer a rowing crew
+CPU|Computer's main processor, briefly
+CUE|Signal to begin
+DEN|A wild animal's shelter
+DIG|Make a hole in the ground
+DIM|Not brightly lit
+DIP|Lower briefly into liquid
+DOC|Physician, informally
+DOE|A female deer
+DRY|Without moisture
+DUB|Give a nickname to
+DUG|Made a hole in the ground
+DUO|A group of two
+DVD|Disc used to store movies
+DYE|Change the color of fabric
+ELF|Small mythical being with pointed ears
+ESP|Supposed sixth sense, briefly
+FAX|Send a document over a phone line
+FBI|U.S. federal investigation agency, briefly
+FED|Gave food to
+FEW|Not many
+FIN|Fish's swimming appendage
+FRY|Cook in hot oil
+GDP|Measure of a nation's economic output, briefly
+GEL|Jellylike substance
+GEN|Generation, briefly
+GIN|Spirit flavored with juniper
+GMT|Time standard named for Greenwich, briefly
+GPA|Student's grade average, briefly
+HOG|A farm pig
+HUG|Put your arms around warmly
+HUM|Sing with your lips closed
+ILL|Not well
+IMF|International Monetary Fund, briefly
+INC|Company suffix meaning incorporated
+IRS|U.S. tax agency, briefly
+JET|A fast passenger plane
+KIN|Family members
+LAN|Computer network within a building, briefly
+LAY|Put down flat
+LEA|A grassy meadow
+LED|Guided the way
+LEE|Sheltered side away from the wind
+LET|Allow
+LIT|Set a candle burning
+LOW|Near the ground
+MAC|Apple computer, informally
+MAR|Spoil the appearance of
+MAX|Greatest amount, briefly
+MBA|Graduate business degree, briefly
+MED|___ school, where future doctors study
+MEG|___ Ryan, star of "You've Got Mail"
+MIL|A million, informally
+MIT|Cambridge technology university, briefly
+MIX|Blend together
+MOD|Game modification, briefly
+MOM|Mother, informally
+MON|Day after Sunday, briefly
+MRI|Hospital scan using a powerful magnet
+MRS|Married woman's title
+MUG|Large cup with a handle
+MUM|Mother, in Britain
+MVP|Award for a game's top player, briefly
+NAP|A short sleep
+OFF|Opposite of on
+OPT|Choose
+OUT|Opposite of in
+PAL|A close friend
+PAT|Touch gently with a flat hand
+PEP|Lively energy
+PHD|Research doctorate, briefly
+PHI|Greek letter before chi
+POD|A pea's container
+POE|Author of "The Raven"
+PUB|British drinking establishment
+PUT|Place in a position
+RAD|Excellent, in slang
+RAF|Britain's Royal Air Force, briefly
+RAW|Not cooked
+REF|Sports official, informally
+REP|Sales representative, briefly
+REV|Engine-turning unit, briefly
+REX|Latin word for king
+RIB|Bone protecting the chest
+RIO|Brazilian city famous for Carnival
+RIP|Tear apart
+ROM|Read-only computer memory, briefly
+RUB|Move a cloth back and forth over
+RUE|Feel regret about
+RUM|Spirit made from sugarcane
+RYE|Grain used in some dark breads
+SAC|A small pouch
+SAM|Uncle ___, symbol of the United States
+SAP|Liquid flowing through a tree
+SAT|Took a seat
+SAY|Speak aloud
+SEE|Use your eyes
+SEN|Member of the U.S. upper house, briefly
+SEP|Month after August, briefly
+SHY|Timid around strangers
+SIC|Editor's word meaning "as written"
+SKI|Glide down a snowy slope
+SOL|Note between fa and la
+SOY|Bean used to make tofu
+SPA|Place offering massages
+SUE|Take someone to court
+SUV|Roomy sports utility vehicle, briefly
+TAB|Restaurant bill
+TAD|A small amount
+TED|___ Lasso, TV soccer coach
+TOR|A rocky hilltop
+URL|Web address, briefly
+UTC|Coordinated Universal Time, briefly
+VAT|A large liquid-holding tank
+VIP|Special guest, briefly
+VOW|A solemn promise
+WAN|Pale and tired-looking
+WED|Get married
+WEE|Very small
+WHY|Question asking for a reason
+WON|Came first in a contest
+WOW|Exclamation of amazement
+YAY|Cheer of delight
+YEA|An affirmative vote
+ZIP|Fasten a jacket
+HAS|Possesses
+HAD|Possessed in the past
+WAS|Past tense of is
+DID|Performed in the past
+DOES|Performs
+GET|Receive
+GOT|Received
+MET|Came face to face with
+SIT|Take a seat
+RUN|Move faster than a walk
+RAN|Moved faster than a walk
+SAW|Cutting tool with teeth
+LIE|An untrue statement
+USE|Put to work
+VIA|By way of
+ERA|A period in history
+EON|An extremely long time
+IRE|Anger
+TEE|Small support for a golf ball
+SEA|A large body of salt water
+TEA|Hot drink brewed from leaves
+ACE|Playing card with a single symbol
+TOE|One of five digits on a foot
+EAR|Organ used to hear
+EYE|Organ used to see
+ARM|Limb between shoulder and hand
+LEG|Limb used for walking
+PEN|Tool used to write in ink
+INK|Liquid used in a pen
+ICE|Frozen water
+NUN|Woman belonging to a religious order
+MAP|Drawing that shows roads and places
+ACT|Perform on stage
+TOY|An object for a child to play with
+BASS|Low-pitched musical voice
+NOUN|Word naming a person, place, or thing
+SYRIA|Country whose capital is Damascus
+ASIA|Largest continent
+ANTI|Opposed to
+CLIP|Small fastener for holding papers together
+PACT|Agreement between two sides
+KISS|Touch with the lips affectionately
+SHOE|Footwear that covers the foot
+GAMES|Activities played for fun

@@ -1,0 +1,24 @@
+BADGER|Stocky burrowing mammal with a striped face|Mustelid that lives in a sett
+OTTER|Playful aquatic mammal|Semiaquatic mustelid with dense insulating fur
+BEAVER|Rodent that builds dams|Castor with an engineering reputation
+RACCOON|Masked mammal with a ringed tail|Dexterous procyonid native to the Americas
+FOX|Small wild canine with a bushy tail|Vulpine predator
+WOLF|Wild canine that lives in packs|Canis lupus
+COYOTE|Wild North American canine|Canis latrans, the prairie trickster
+BOBCAT|Wild cat with a short tail|Lynx rufus
+LYNX|Wild cat with tufted ears|Short-tailed feline with prominent ear tips
+MOOSE|Large deer with broad antlers|Largest living member of the deer family
+ELK|Large deer also called wapiti|Cervus canadensis
+BISON|Large, shaggy grazing mammal|Bovidae member emblematic of North American plains
+HEDGEHOG|Small mammal covered in spines|Spiny insectivore that curls into a defensive ball
+PORCUPINE|Rodent with sharp quills|Prickly rodent whose defensive hairs are modified spines
+SQUIRREL|Bushy-tailed nut-gathering rodent|Tree-dwelling sciurid often caching mast
+CHIPMUNK|Small striped ground squirrel|Cheek-pouched rodent with dorsal stripes
+MARMOT|Large ground squirrel|Alpine or burrowing member of Marmota
+HARE|Long-eared animal related to rabbits|Leporid whose young are called leverets
+WEASEL|Small, slender hunting mammal|Elongated mustelid of the genus Mustela
+MINK|Small semiaquatic mammal with glossy fur|Dark-coated mustelid adapted to waterside hunting
+HABITAT|Natural home of an animal|Ecological setting occupied by a species
+MIGRATION|Seasonal travel by animals|Regular movement between breeding and nonbreeding ranges
+NOCTURNAL|Active mainly at night|Having a chiefly dark-phase activity cycle
+CAMOUFLAGE|Coloring that helps an animal hide|Concealment through resemblance to surroundings

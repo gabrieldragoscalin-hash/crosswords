@@ -1,0 +1,24 @@
+SALMON|Fish famous for swimming upstream to breed|Anadromous fish often returning to natal rivers
+TROUT|Freshwater fish related to salmon|Salmonid often sought by fly anglers
+CARP|Common freshwater fish with barbels|Cyprinus carpio
+CATFISH|Fish with whiskerlike barbels|Member of the order Siluriformes
+PERCH|Freshwater fish with spiny dorsal fins|Fish of the genus Perca
+PIKE|Long freshwater predator with sharp teeth|Ambush predator of the genus Esox
+BASS|Popular game fish with largemouth varieties|Angler's target whose name is shared by a low voice
+COD|Marine fish often used in fish and chips|Gadus species with a chin barbel
+HADDOCK|Cod relative with a dark side spot|Melanogrammus aeglefinus
+HERRING|Small sea fish that swims in large schools|Clupeid traditionally preserved as kippers
+SARDINE|Small oily fish often sold in tins|Small clupeid named for a Mediterranean island
+ANCHOVY|Small salty fish often used on pizza|Engraulid commonly cured for a savory topping
+MACKEREL|Striped, oily sea fish|Streamlined scombrid often bearing wavy dorsal markings
+TUNA|Large ocean fish often sold canned|Fast-swimming scombrid of the tribe Thunnini
+SWORDFISH|Ocean fish with a long, flat bill|Xiphias gladius
+MARLIN|Large game fish with a spearlike bill|Billfish whose name appears in Hemingway's fishing tale
+SAILFISH|Fish with a sail-shaped dorsal fin|Billfish of the genus Istiophorus
+HALIBUT|Large flatfish with both eyes on one side|Large right-eyed flatfish prized as food
+FLOUNDER|Flatfish that lives near the seabed|Bottom-dwelling fish that undergoes eye migration
+SEAHORSE|Small fish with a horse-shaped head|Hippocampus male that broods embryos in a pouch
+CLOWNFISH|Orange-and-white fish living among anemones|Anemone-associated fish of the subfamily Amphiprioninae
+GOLDFISH|Common orange pet fish|Domesticated Carassius auratus
+GUPPY|Small live-bearing aquarium fish|Poecilia reticulata
+STURGEON|Large fish known for producing caviar|Scute-bearing fish of the family Acipenseridae

@@ -1,0 +1,24 @@
+ELEPHANT|Huge mammal with a trunk|Proboscidean with continuously growing incisors
+GIRAFFE|Tall animal with a very long neck|Tallest living terrestrial animal
+ZEBRA|African animal with black-and-white stripes|Striped equid
+LION|Big cat whose males have manes|Panthera leo
+TIGER|Large cat with dark stripes|Largest living cat species
+LEOPARD|Spotted big cat that climbs trees|Rosette-marked Panthera pardus
+CHEETAH|Fastest land animal|Acinonyx jubatus
+RHINOCEROS|Large mammal with a horn on its nose|Odd-toed ungulate bearing nasal keratin horns
+HIPPOPOTAMUS|Large African mammal that rests in water|Its Greek-derived name means river horse
+GORILLA|Largest living ape|Great ape with western and eastern species
+CHIMPANZEE|African ape closely related to humans|Great ape of the genus Pan
+ORANGUTAN|Long-armed reddish ape|Great ape whose Malay name means person of the forest
+LEMUR|Primate native to Madagascar|Strepsirrhine associated with Madagascar
+KOALA|Australian tree-dweller that eats eucalyptus|Arboreal marsupial often mistaken for a bear
+KANGAROO|Australian animal that hops|Large macropod with powerful hind limbs
+WOMBAT|Stocky Australian burrowing marsupial|Marsupial famous for cube-shaped droppings
+PLATYPUS|Egg-laying mammal with a ducklike bill|Venomous-spurred Australian monotreme
+ARMADILLO|Mammal with a protective armored shell|New World mammal clad in osteoderms
+ANTEATER|Long-snouted mammal that eats ants|Toothless specialist feeding on social insects
+SLOTH|Slow-moving tree mammal|Arboreal folivore with two-toed and three-toed forms
+MEERKAT|Small mongoose that stands watch|Social sentinel of the Kalahari
+HYENA|African carnivore known for a laughing call|Bone-crushing carnivore of the family Hyaenidae
+PANGOLIN|Scaly mammal that eats ants|Mammal of the order Pholidota
+OKAPI|Forest animal related to the giraffe|Striped-legged giraffid of the Congo

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "animal-crossword-books"
+version = "0.2.0"
+description = "Fully checked, single-theme printable crossword books"
+requires-python = ">=3.10"
+dependencies = ["reportlab>=4.0,<5"]
+
+[project.optional-dependencies]
+test = ["pypdf>=5,<7"]
+
+[project.scripts]
+crossword-book = "crossword_book.cli:main"
+
+[tool.setuptools.package-data]
+crossword_book = ["data/*.txt", "data/*.json"]

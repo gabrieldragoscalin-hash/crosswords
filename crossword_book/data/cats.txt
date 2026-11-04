@@ -1,0 +1,46 @@
+TABBY|Cat with a striped or blotched coat|Feline coat pattern often bearing a forehead M
+SIAMESE|Cat breed with dark ears and blue eyes|Pointed breed originating in Thailand
+PERSIAN|Long-haired, flat-faced cat breed|Luxuriantly coated breed named for modern Iran's former name
+RAGDOLL|Large, gentle cat with blue eyes|Pointed breed named for its relaxed handling response
+BENGAL|Spotted domestic cat breed|Domestic breed developed with Asian leopard cat ancestry
+SPHYNX|Cat breed known for little hair|Canadian breed bearing an Egyptian-sounding name
+BURMESE|Sleek cat breed from Southeast Asia|Breed associated with the foundation cat Wong Mau
+ABYSSINIAN|Slender cat with a ticked coat|Breed with an Ethiopian-sounding name and agouti hairs
+KITTEN|A young cat|Juvenile member of Felis catus
+WHISKERS|Long sensing hairs on a cat's face|Facial vibrissae
+PURR|Soft rumbling sound made by a cat|Low feline vocalization often associated with contentment
+MEOW|A familiar cat call|Human-directed feline solicitation sound
+CLAWS|Sharp hooks on a cat's toes|Retractile keratin tools on feline digits
+LITTER|Material in a cat's indoor toilet|Absorbent substrate for a feline tray
+CATNIP|Plant that excites many cats|Nepeta cataria, familiarly
+FELINE|Relating to cats|Of the family Felidae
+CALICO|Cat with a three-color coat|Coat pattern typically combining white, orange, and black
+TOM|An adult male cat|An unneutered male feline, familiarly
+QUEEN|A breeding female cat|Female feline sharing a title with a monarch
+TAIL|Long appendage behind a cat|Feline balancing appendage with a caudal skeleton
+GROOM|Clean the fur with the tongue|Maintain a coat using a papilla-covered tongue
+NAP|Short daytime sleep|Brief feline repose
+POUNCE|Jump suddenly onto prey|Spring from concealment onto a target
+SCRATCH|Mark a surface with claws|Leave claw marks while stretching or scent marking
+MOUSE|Small rodent a cat may chase|Small murid that can become feline prey
+LASER|Light-pointer toy many cats chase|Coherent-light source used in some feline play sessions
+TREATS|Small food rewards given to a cat|Palatable extras offered as feline reinforcement
+KITTY|Affectionate name for a cat|Informal diminutive for a feline companion
+CHASE|Run after a toy or prey|Pursue a moving target in feline play or hunting
+STALK|Creep quietly toward prey|Approach quarry with stealth before a pounce
+PERCH|High resting place a cat may enjoy|Elevated vantage point favored by many felines
+SLEEP|Activity that takes up much of a cat's day|Recurrent resting state occupying much feline time
+TUXEDO|Black-and-white cat coat pattern|Bicolor feline pattern resembling formal evening wear
+TORTIE|Nickname for a tortoiseshell cat|Familiar term for a mottled orange-and-dark feline
+BIRMAN|Long-haired cat breed with white paws|Sacred Cat of Burma with contrasting white gloves
+SOMALI|Long-haired relative of the Abyssinian cat|Ticked-coat feline breed named for an African country
+KORAT|Silvery-blue cat breed from Thailand|Thai good-luck breed with a heart-shaped face
+TOYGER|Domestic cat breed with tigerlike stripes|Striped feline breed whose name blends toy and tiger
+OCICAT|Spotted cat breed named after a wild feline|Domestic spotted breed with no ocelot ancestry
+BALINESE|Long-haired relative of the Siamese cat|Pointed breed named for dancers on an Indonesian island
+SIBERIAN|Thick-coated cat breed from Russia|Russian forest cat with a triple coat
+HAIRBALL|Clump of swallowed fur a cat may bring up|Feline trichobezoar
+CARRIER|Portable container for taking a cat to the vet|Enclosed transport used for a feline passenger
+CATFLAP|Small pet door for a feline|Hinged opening permitting independent feline entry
+CATTREE|Climbing furniture made for indoor cats|Multilevel feline structure combining perches and scratching areas
+LITTERBOX|Indoor toilet tray for a cat|Container holding absorbent substrate for feline elimination
