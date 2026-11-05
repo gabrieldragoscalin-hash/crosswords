@@ -5,19 +5,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import Paragraph
 
 DEFAULT_PUBLISHER = 'Quickberry Books'
-TITLES = {
-    'dogs': 'Dog Lovers Crosswords', 'cats': 'Cat Lovers Crosswords',
-    'wildlife': 'Wildlife Crosswords', 'animals': 'Animal Lovers Crosswords',
-    'birds': 'Bird Lovers Crosswords', 'fish': 'Fish Lovers Crosswords',
-}
-SUBTITLES = {
-    'dogs': 'Tail-wagging fun, one clue at a time.',
-    'cats': 'Purr-fect puzzles for curious minds.',
-    'wildlife': 'Explore the wild, one clue at a time.',
-    'animals': 'A world of animals, one clue at a time.',
-    'birds': 'Let your curiosity take flight.',
-    'fish': 'Dive into a fresh crossword challenge.',
-}
+from .themes import TITLES, SUBTITLES, MOTIFS
 
 
 def publication_details(book):
@@ -32,16 +20,48 @@ def motif(c, theme, x, y, size=18):
     c.scale(size/20,size/20)
     c.setFillGray(0)
     c.setStrokeGray(0)
-    if theme == 'fish':
+    kind=MOTIFS[theme]
+    if kind == 'fish':
         c.ellipse(-8,-4,6,4,fill=1,stroke=0)
         p=c.beginPath(); p.moveTo(4,0); p.lineTo(11,5); p.lineTo(11,-5); p.close()
         c.drawPath(p,fill=1,stroke=0)
         c.setFillGray(1); c.circle(-4,1,0.8,fill=1,stroke=0)
-    elif theme == 'birds':
+    elif kind == 'feather':
         p=c.beginPath(); p.moveTo(-7,-7)
         p.curveTo(-6,6,2,12,8,9); p.curveTo(11,1,4,-6,-7,-7); p.close()
         c.drawPath(p,fill=1,stroke=0)
         c.setStrokeGray(1); c.setLineWidth(.7); c.line(-5,-5,6,7)
+    elif kind == 'plant':
+        c.setLineWidth(1.2);c.line(0,-9,0,5)
+        for side in (-1,1):
+            p=c.beginPath();p.moveTo(0,-1)
+            p.curveTo(side*10,0,side*10,8,side*3,9)
+            p.curveTo(side*1,7,side*1,3,0,-1);p.close()
+            c.drawPath(p,fill=1,stroke=0)
+    elif kind == 'whisk':
+        c.setLineWidth(1.2);c.ellipse(-5,0,5,10,fill=0,stroke=1)
+        c.line(0,-9,0,0)
+        for side in (-1,1):
+            p=c.beginPath();p.moveTo(0,0);p.curveTo(side*3,3,side*3,7,0,10)
+            c.drawPath(p,fill=0,stroke=1)
+    elif kind == 'compass':
+        c.setLineWidth(1);c.circle(0,0,9,fill=0,stroke=1)
+        p=c.beginPath();p.moveTo(0,8);p.lineTo(3,0);p.lineTo(0,-8);p.lineTo(-3,0);p.close()
+        c.drawPath(p,fill=1,stroke=0)
+        c.setFillGray(1)
+        p=c.beginPath();p.moveTo(0,0);p.lineTo(0,-7);p.lineTo(-2.5,0);p.close()
+        c.drawPath(p,fill=1,stroke=0)
+    elif kind == 'planet':
+        c.rotate(-20);c.circle(0,0,6,fill=1,stroke=0)
+        c.setLineWidth(1.5);c.ellipse(-11,-3,11,3,fill=0,stroke=1)
+        c.circle(-9,8,1,fill=1,stroke=0)
+    elif kind == 'snowflake':
+        c.setLineWidth(1.1)
+        for angle in (0,60,120):
+            c.saveState();c.rotate(angle);c.line(-9,0,9,0)
+            for side in (-1,1):
+                c.line(side*6,0,side*4,2);c.line(side*6,0,side*4,-2)
+            c.restoreState()
     else:
         for tx,ty,rx,ry in [(-7,3,2.4,3.0),(-2.7,7,2.3,3.1),(2.7,7,2.3,3.1),(7,3,2.4,3.0)]:
             c.ellipse(tx-rx,ty-ry,tx+rx,ty+ry,fill=1,stroke=0)

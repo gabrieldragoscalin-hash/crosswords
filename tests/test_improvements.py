@@ -145,7 +145,7 @@ class DesktopTests(unittest.TestCase):
             root=tk.Tk();app=BookApp(root);root.withdraw()
             errors=[]
             with patch('crossword_book.gui.messagebox.showerror',side_effect=lambda *a,**k:errors.append(a)):
-                for name,value in {'theme':'fish','difficulty':'medium','edition':'large-print','count':'1','seed':'42','series':'Desktop Demo','history':str(Path(d)/'history.sqlite3'),'output':d}.items():app.values[name].set(value)
+                for name,value in {'theme':'baking','difficulty':'medium','edition':'large-print','count':'1','seed':'42','series':'Desktop Demo','history':str(Path(d)/'history.sqlite3'),'output':d}.items():app.values[name].set(value)
                 ticks=[]
                 root.after(1,lambda:ticks.append('responsive'))
                 app.start();deadline=time.monotonic()+30
@@ -153,13 +153,13 @@ class DesktopTests(unittest.TestCase):
                 self.assertFalse(app.busy);self.assertFalse(errors);self.assertTrue(ticks)
                 self.assertTrue((app.last_output/'book.pdf').is_file())
                 saved=json.loads((app.last_output/'book.json').read_text())
-                self.assertEqual((saved['theme'],saved['edition'],saved['volume']),('fish','large-print',1))
+                self.assertEqual((saved['theme'],saved['edition'],saved['volume']),('baking','large-print',1))
                 app.values['count'].set('50');app.start();root.after(10,app.cancel)
                 deadline=time.monotonic()+30
                 while app.busy and time.monotonic()<deadline:root.update();time.sleep(.01)
                 self.assertFalse(app.busy);self.assertFalse(errors)
                 self.assertIn('Cancelled',app.status.get())
-                with SeriesSession(Path(d)/'history.sqlite3','Desktop Demo','fish') as history:self.assertEqual(history.volume,2)
+                with SeriesSession(Path(d)/'history.sqlite3','Desktop Demo','baking') as history:self.assertEqual(history.volume,2)
                 app.close()
 
 

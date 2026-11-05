@@ -8,7 +8,7 @@ import hashlib
 from pathlib import Path
 import random
 
-THEMES = ('dogs', 'cats', 'wildlife', 'animals', 'birds', 'fish')
+from .themes import THEMES
 LEVELS = {'easy': (9, 3.5), 'normal': (11, 3.2), 'hard': (13, 2.8)}
 DATA = Path(__file__).parent / 'data'
 EDITIONS = ('standard', 'large-print')
@@ -26,7 +26,7 @@ class Entry:
     hard: str
 
 
-@lru_cache(maxsize=6)
+@lru_cache(maxsize=len(THEMES))
 def load_entries(theme):
     if theme not in THEMES:
         raise ValueError('Unknown theme')
@@ -119,7 +119,7 @@ class Vocabulary:
             self.theme_masks[length] = theme_mask
 
 
-@lru_cache(maxsize=36)
+@lru_cache(maxsize=len(THEMES)*len(LEVELS)*len(EDITIONS))
 def vocabulary(theme, level, edition='standard'):
     return Vocabulary(theme, level, edition)
 

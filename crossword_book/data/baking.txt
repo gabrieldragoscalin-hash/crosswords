@@ -1,0 +1,127 @@
+FLOUR|Powder made by milling grain|Main structural ingredient in many baked goods
+SUGAR|Sweet crystals used in baking|Sucrose commonly added for sweetness and browning
+BUTTER|Dairy fat used in cakes and pastry|Churned cream used for flavor and tender texture
+MARGARINE|Spread sometimes used instead of butter|Fat emulsion used as a baking substitute
+SHORTENING|Solid fat used to make tender pastry|Baking fat that limits gluten development
+MILK|Dairy liquid used in many batters|Liquid ingredient supplying water, protein, and lactose
+CREAM|Rich dairy ingredient used in fillings|High-fat portion of milk used in baking and whipping
+EGG|Ingredient that helps bind many mixtures|Ingredient that contributes structure, richness, and emulsification
+YOLK|Yellow part of an egg|Fat-rich portion of an egg containing emulsifiers
+WHITE|Clear part of an egg before cooking|Albumen that can be whipped into a foam
+YEAST|Living ingredient that makes bread rise|Microorganism producing gas during dough fermentation
+STARTER|Fermented mixture used to begin sourdough|Culture maintained to inoculate a new batch of dough
+SOURDOUGH|Bread made with a fermented starter|Naturally leavened bread using yeasts and lactic acid bacteria
+GLUTEN|Stretchy protein network in wheat dough|Network formed when wheat proteins hydrate and are worked
+STARCH|Carbohydrate that thickens many fillings|Plant carbohydrate that gelatinizes when heated with water
+SALT|Seasoning that balances sweetness in baking|Ingredient that also affects yeast activity and dough strength
+COCOA|Chocolate-flavored powder|Powder from roasted cacao solids
+CHOCOLATE|Sweet or bitter ingredient made from cacao|Cacao product containing cocoa solids and cocoa butter
+VANILLA|Popular flavoring from an orchid pod|Orchid-pod flavoring rich in vanillin
+CINNAMON|Warm spice often used in sweet rolls|Spice made from the inner bark of Cinnamomum
+NUTMEG|Spice often grated into baked goods|Seed spice from Myristica fragrans
+GINGER|Spicy root used in biscuits and cakes|Aromatic rhizome used fresh, dried, or ground
+CLOVE|Strong spice shaped like a tiny nail|Dried flower bud used as a warm baking spice
+CARDAMOM|Aromatic spice often used in sweet breads|Seed spice commonly enclosed in small fragrant pods
+ALLSPICE|Spice whose flavor suggests several warm spices|Dried berry of Pimenta dioica
+ANISE|Licoricelike flavoring seed|Aromatic seed of Pimpinella anisum
+HONEY|Sweet liquid made by bees|Natural sweetener whose moisture affects baked goods
+MOLASSES|Dark syrup used in gingerbread|Thick syrup remaining after sugar extraction
+TREACLE|British name for certain sugar syrups|Sweet syrup used in traditional British baking
+SYRUP|Thick sweet liquid|Concentrated sugar solution used in fillings and finishes
+MAPLE|Tree whose syrup flavors some baked goods|Sweet syrup source used in glazes and pastries
+ALMOND|Nut often ground into baking flour|Seed used to make marzipan and frangipane
+WALNUT|Wrinkled nut used in cakes and brownies|Juglans seed often chopped into baked goods
+PECAN|Nut featured in a traditional sweet pie|Hickory relative used in rich pie fillings
+HAZELNUT|Nut often paired with chocolate|Corylus seed used in pralines and pastries
+PISTACHIO|Green nut used in pastries|Seed used in baklava and many sweet fillings
+PEANUT|Legume used in cookies and spreads|Groundnut used in baking despite its nutlike name
+COCONUT|Tropical ingredient used shredded or flaked|Palm fruit whose dried flesh flavors baked goods
+RAISIN|Dried grape used in baking|Dried fruit common in buns and fruitcakes
+CURRANT|Small dried fruit used in some buns|Small raisin or Ribes berry used in baking
+DATE|Sweet fruit often used in sticky cakes|Palm fruit used to sweeten loaves and fillings
+FIG|Soft fruit used fresh or dried in baking|Ficus fruit used in tarts and filled biscuits
+LEMON|Citrus fruit used for zest and curd|Acidic citrus flavoring common in cakes and pies
+ORANGE|Citrus fruit often paired with chocolate|Fruit whose zest and juice flavor baked goods
+ZEST|Colorful outer peel used for flavor|Aromatic outer layer of citrus rind
+APPLE|Fruit used in pies and strudels|Pome commonly baked under a pastry crust
+PEAR|Fruit used in tarts and poached desserts|Pome often paired with almond pastry fillings
+BERRY|Small fruit used in muffins and pies|Fruit category common in baked fillings
+CHERRY|Stone fruit used in pies|Prunus fruit often baked under a lattice crust
+PEACH|Fuzzy stone fruit used in cobblers|Summer fruit commonly baked beneath a biscuit topping
+PLUM|Stone fruit used in cakes and tarts|Prunus fruit common in late-summer baking
+BANANA|Fruit used in a popular quick bread|Fruit that adds moisture to a sweet loaf
+PUMPKIN|Squash used in spiced pies|Winter squash commonly combined with warm baking spices
+DOUGH|Thick mixture shaped before baking|Workable mixture of flour and liquid
+BATTER|Pourable mixture used for cakes and pancakes|Fluid mixture less stiff than a bread dough
+KNEAD|Work dough by folding and pressing|Develop dough structure through repeated manipulation
+FOLD|Gently combine mixtures without losing much air|Incorporate ingredients using a lifting motion
+WHISK|Tool used to beat and aerate mixtures|Wire utensil used to disperse ingredients or trap air
+SIFT|Pass dry ingredients through a fine mesh|Remove lumps and aerate powders before mixing
+SIEVE|Mesh tool used to sift ingredients|Utensil used to separate particles by size
+STIR|Mix with a circular motion|Combine ingredients without deliberate aeration
+BEAT|Mix vigorously to smooth or aerate|Work a mixture rapidly with a spoon, whisk, or mixer
+CREAMING|Beating butter and sugar together|Mixing method that traps air in fat and sugar
+RUB|Work fat into flour with the fingertips|Combine fat and dry ingredients to make crumbs
+ROLL|Flatten dough with a cylindrical tool|Reduce dough thickness using a rolling pin
+PROOF|Let yeast dough rise|Allow fermentation before baking
+RISE|Increase in volume before or during baking|Expansion caused by fermentation or trapped gas
+FERMENT|Undergo a change caused by microorganisms|Convert sugars through yeast or bacterial activity
+SCORE|Cut shallow lines in a loaf before baking|Slash the dough surface to control expansion
+DOCK|Prick pastry before baking|Pierce dough to reduce bubbling
+BLIND|Word before baking an empty pastry shell|Describes baking pastry before adding its filling
+PREHEAT|Warm the oven before putting food in|Bring an oven to the intended baking temperature
+BAKE|Cook using the heat of an oven|Cook by surrounding food with dry heat
+COOL|Let baked food lose heat|Rest baked goods before slicing or decorating
+GLAZE|Thin coating that adds shine or sweetness|Finish applied to the surface of a baked item
+ICING|Sweet coating for a cake|Sugar-based finish for cakes and biscuits
+FROSTING|Thick sweet topping for a cake|Spreadable decorative coating for baked goods
+GANACHE|Mixture of chocolate and cream|Chocolate emulsion used as a glaze or filling
+FONDANT|Smooth sugar covering used on cakes|Sugar paste or confectionery icing
+MERINGUE|Sweet mixture of whipped egg whites|Sugar-stabilized egg-white foam
+CUSTARD|Sweet mixture thickened with eggs|Egg-thickened dairy filling or dessert
+CURD|Tangy fruit-and-egg spread|Citrus filling thickened with eggs and butter
+JAM|Fruit preserve used in cakes and tarts|Cooked fruit-and-sugar filling
+CARAMEL|Sugar browned by heating|Flavoring formed by heating sugar until it changes color
+PRALINE|Confection made with nuts and cooked sugar|Nut-and-caramel preparation used in pastry
+MARZIPAN|Sweet paste made with ground almonds|Almond-and-sugar modeling confection
+FRANGIPANE|Almond-flavored pastry filling|Rich almond cream commonly baked inside a tart
+CRUMBLE|Baked fruit topped with loose crumbs|Dessert with a flour, fat, and sugar topping
+COBBLER|Fruit dessert with a dough topping|Baked fruit covered with biscuits or batter
+PIE|Baked dish with a pastry crust|Filled baked dish with a pastry base or covering
+TART|Open pastry with a sweet or savory filling|Shallow filled pastry usually without a top crust
+QUICHE|Savory tart with an egg filling|Open pastry filled with a savory custard
+CAKE|Sweet baked mixture often served in slices|Aerated baked confection made from a batter
+CUPCAKE|Small cake baked in an individual cup|Single-serving cake often decorated with frosting
+MUFFIN|Small quick bread baked in a cup-shaped mold|Individual quick bread made by stirring wet ingredients into dry
+COOKIE|Small sweet baked treat|Individual sweet biscuit, in American usage
+BISCUIT|Crisp sweet bake or soft American quick bread|Bake whose meaning differs across the Atlantic
+BROWNIE|Dense chocolate square|Rich chocolate bar cookie
+BLONDIE|Brownie-like square without cocoa in the base|Butterscotch-flavored bar cookie
+SCONE|Small quick bread often served with tea|Lightly sweetened bake commonly raised with baking powder
+BUN|Small bread roll|Individual yeast-raised or sweet bread
+BAGEL|Ring-shaped bread boiled before baking|Chewy bread made by boiling dough before oven baking
+BAGUETTE|Long narrow French loaf|French bread distinguished by its elongated shape
+BRIOCHE|Rich bread made with eggs and butter|Enriched French yeast bread
+CHALLAH|Braided enriched bread|Traditional Jewish bread commonly served on the Sabbath
+FOCACCIA|Flat Italian bread often topped with oil|Dimpled yeast bread commonly flavored with olive oil
+CIABATTA|Italian loaf with an open crumb|Italian bread whose name means slipper
+CROISSANT|Flaky crescent-shaped pastry|Laminated yeast pastry made with layers of butter
+STRUDEL|Rolled pastry enclosing a filling|Central European pastry made with stretched dough
+ECLAIR|Long pastry filled with cream|Oblong choux pastry commonly finished with icing
+PROFITEROLE|Small filled choux pastry|Cream-filled choux bun often served with chocolate sauce
+MACARON|Almond meringue sandwich cookie|French confection with two almond shells and a filling
+MACAROON|Small sweet cookie often made with coconut|Chewy bake distinct from a French macaron
+PAVLOVA|Meringue dessert topped with fruit and cream|Dessert with a crisp shell and soft meringue center
+SHORTBREAD|Rich, crumbly butter biscuit|Biscuit traditionally made with flour, butter, and sugar
+GINGERBREAD|Spiced bake used for holiday houses|Bake flavored with ginger and often molasses
+CHEESECAKE|Dessert with a sweet cheese filling|Cream-cheese or curd-cheese dessert on a base
+ROLLINGPIN|Cylindrical tool used to flatten dough|Hand tool for reducing dough thickness
+MIXER|Machine used to beat or knead ingredients|Powered appliance fitted with beaters or a dough hook
+SPATULA|Tool used to scrape bowls or spread icing|Flexible or flat utensil used in baking
+LADLE|Deep spoon used to portion liquids|Scoop used to transfer batter or fillings
+PAN|Container used to bake food|Oven vessel for holding dough or batter
+TIN|British term for a baking pan|Metal mold used for cakes or loaves
+OVEN|Enclosed appliance used for baking|Heated chamber that surrounds food with dry heat
+RACK|Wire support used for cooling bakes|Open support that lets air circulate around baked goods
+CRUST|Outer layer of a baked loaf or pie|Surface that firms and browns during baking
+CRUMB|Interior texture of a baked loaf or cake|Internal structure formed by a bake's air cells

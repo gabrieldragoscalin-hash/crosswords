@@ -1,0 +1,138 @@
+CHRISTMAS|Holiday celebrated on December 25|Christian festival commemorating the birth of Jesus
+ADVENT|Season leading up to Christmas|Preparatory season in many Western Christian calendars
+NOEL|Word often used to mean Christmas|Festive word derived from French for Christmas
+YULE|Traditional word for the Christmas season|Midwinter festival name later associated with Christmas
+YULETIDE|Traditional word for the festive season|Season surrounding the celebration of Yule
+HOLIDAY|Special day or festive break|Day set aside from ordinary work for celebration
+SEASON|Period of the year associated with a celebration|Word following festive or holiday
+FESTIVE|Full of holiday cheer|Suited to a celebration or festival
+MERRY|Cheerful word in a Christmas greeting|Joyful adjective often paired with Christmas
+CHEER|Warm happiness associated with the holidays|Festive gladness or encouragement
+JOY|Great happiness|Feeling celebrated in many Christmas songs and greetings
+PEACE|Calm or freedom from conflict|Ideal often expressed in Christmas messages
+HOPE|Expectation of something good|Feeling commonly included in seasonal wishes
+LOVE|Deep affection|Sentiment associated with giving and togetherness
+FAMILY|Relatives gathering for the holidays|People connected by kinship or close household bonds
+FRIEND|Person invited to share festive time|Companion who may receive a seasonal greeting
+GATHER|Come together for a celebration|Assemble for a shared holiday occasion
+REUNION|Meeting again with family or friends|Gathering after a period apart
+WELCOME|Warm greeting to a guest|Expression of hospitality at a holiday gathering
+TRADITION|Custom passed down over time|Practice repeated across generations or celebrations
+CUSTOM|Habit shared by a group or community|Established practice within a culture
+CELEBRATE|Mark an occasion with joyful activities|Observe a special event with festivities
+FEAST|Large meal for a special occasion|Celebratory banquet
+DINNER|Main meal shared at a holiday gathering|Formal or principal meal of the day
+BANQUET|Large formal meal|Elaborate feast for many guests
+TABLE|Furniture set for a Christmas meal|Surface around which festive diners gather
+NAPKIN|Cloth or paper used during a meal|Table linen placed beside a diner's setting
+CRACKER|Paper tube pulled at some Christmas meals|British festive novelty containing a snap and small gifts
+CROWN|Paper headwear found in some Christmas crackers|Festive hat traditionally included in a table cracker
+TOAST|Short spoken wish before raising a glass|Ceremonial expression of goodwill at a celebration
+CIDER|Apple drink sometimes served warm|Fruit drink often spiced for winter gatherings
+COCOA|Hot chocolate drink for a cold evening|Warm chocolate beverage made from powdered cacao solids
+EGGNOG|Rich festive drink made with eggs and milk|Creamy holiday beverage often flavored with nutmeg
+PUNCH|Shared party drink served from a bowl|Mixed beverage prepared for a festive gathering
+MULL|Warm a drink with spices|Heat cider or wine gently with aromatic flavorings
+NUTMEG|Spice often sprinkled on eggnog|Warm seed spice used in festive drinks and baking
+CINNAMON|Spice used in many Christmas bakes|Aromatic bark spice common in winter recipes
+CLOVE|Strong spice used in festive drinks|Dried flower bud used to flavor mulled beverages
+GINGER|Spice used in a popular holiday biscuit|Aromatic rhizome flavoring gingerbread
+ORANGE|Citrus fruit used in pomanders and decorations|Fruit traditionally paired with cloves at Christmastime
+POMANDER|Fragrant orange studded with cloves|Scented ornament used in seasonal decoration
+COOKIE|Small sweet bake left out in some Santa traditions|Individual baked treat common at Christmas
+BISCUIT|British word for a crisp sweet bake|Treat often decorated with festive icing
+GINGERBREAD|Spiced bake used to make decorative houses|Holiday bake commonly flavored with ginger and molasses
+ICING|Sweet coating used to decorate Christmas cookies|Sugar-based finish for festive baking
+FROSTING|Thick topping spread on a holiday cake|Sweet decorative coating for cakes and biscuits
+FRUITCAKE|Rich cake filled with dried fruit|Dense festive bake often matured before serving
+PUDDING|Traditional steamed British Christmas dessert|Rich festive dessert commonly made with dried fruit
+MINCEMEAT|Fruit-and-spice filling used in mince pies|Sweet preserve used in traditional Christmas pastry
+MINCEPIE|Small festive pastry with a spiced fruit filling|Individual Christmas tart filled with mincemeat
+STOLLEN|German fruit bread served at Christmas|Yeasted festive loaf often dusted with icing sugar
+PANETTONE|Tall Italian Christmas bread|Sweet enriched loaf traditionally associated with Milan
+TURKEY|Large bird commonly served at Christmas dinner|Festive roast common in Britain and North America
+GOOSE|Bird used in a traditional Christmas roast|Waterfowl associated with older European festive menus
+HAM|Cured pork served at some Christmas meals|Festive roast often finished with a sweet glaze
+GRAVY|Sauce served with a roast dinner|Meat-based sauce made from cooking juices
+STUFFING|Seasoned mixture served with roast poultry|Savory preparation placed in or alongside a bird
+SPROUTS|Small green vegetables common in British Christmas dinners|Miniature cabbage heads served at some festive dinners
+CRANBERRY|Tart red fruit used in a festive sauce|Berry often served with turkey
+CHESTNUT|Nut associated with winter roasting|Edible seed traditionally roasted over a fire
+WALNUT|Nut often included in Christmas bowls|Wrinkled seed served in festive nut assortments
+ALMOND|Nut used in marzipan|Seed central to many European Christmas sweets
+MARZIPAN|Sweet almond paste used on Christmas cakes|Almond-and-sugar confection used beneath icing
+CANDYCANE|Hook-shaped peppermint sweet|Striped confection associated with Christmas
+SWEET|Candy or other sugary treat|Confection often shared during the festive season
+TREE|Central evergreen decoration in many homes|Christmas display often hung with lights and ornaments
+FIR|Evergreen tree often chosen for Christmas|Conifer of the genus Abies
+SPRUCE|Conifer sometimes used as a Christmas tree|Evergreen of the genus Picea
+PINE|Needled tree used in some festive greenery|Conifer with needles usually grouped in bundles
+EVERGREEN|Plant that retains its leaves through winter|Tree or shrub whose foliage persists year-round
+HOLLY|Plant with prickly leaves and red berries|Festive greenery of the genus Ilex
+IVY|Climbing plant paired with holly in a carol|Evergreen climber used in traditional decorations
+MISTLETOE|Greenery linked with a festive kissing custom|Parasitic plant traditionally hung at Christmas
+WREATH|Ring-shaped decoration hung on a door|Circular arrangement of festive greenery
+GARLAND|Long decorative strand of greenery|Festoon draped along a mantel or railing
+TINSEL|Shiny strands used on Christmas trees|Metallic-looking decorative strips
+BAUBLE|Round ornament hung on a tree|Small decorative Christmas-tree globe
+ORNAMENT|Decoration placed on a Christmas tree|Decorative object used in a festive display
+LIGHTS|Glowing decorations strung on a tree|Illuminations used in seasonal displays
+CANDLE|Wax light used in festive decoration|Wick-bearing light source associated with Advent displays
+LANTERN|Portable light with a protective enclosure|Decorative housing for a candle or lamp
+STAR|Pointed decoration often placed atop a tree|Celestial symbol associated with the Nativity story
+ANGEL|Winged figure used as a tree topper|Heavenly messenger in Christian Nativity tradition
+BELL|Ringing object common in Christmas songs|Metal percussion object associated with festive chimes
+CHIME|Musical ringing sound|Resonant note produced by a bell
+RIBBON|Decorative strip tied around a gift|Narrow fabric used for festive bows and wrapping
+BOW|Looped knot used to decorate a present|Ribbon ornament made with folded loops
+PAPER|Material used to wrap presents|Decorative sheets used to conceal gifts
+WRAP|Cover a present before giving it|Enclose a gift in decorative material
+PARCEL|Wrapped package|Bundle prepared for delivery or gifting
+PRESENT|Gift given to someone|Item offered as a token of affection or celebration
+GIFT|Something given without payment|Present exchanged during the festive season
+TAG|Small label on a present|Marker identifying a gift's sender or recipient
+CARD|Written Christmas greeting|Printed or handmade seasonal message
+STOCKING|Long sock hung for small presents|Gift-holding decoration traditionally hung near a fireplace
+MANTEL|Shelf above a fireplace|Place where stockings may be hung
+HEARTH|Floor area in front of a fireplace|Home's fireside area associated with warmth
+FIREPLACE|Built-in place for an indoor fire|Hearth structure often featured in Christmas scenes
+CHIMNEY|Passage carrying smoke out of a building|Traditional entry route for Santa in popular stories
+SANTA|Jolly gift-giver in Christmas folklore|Short name for the red-suited Christmas visitor
+CLAUS|Surname used for Santa|Name following Santa in a familiar Christmas figure's title
+NICHOLAS|Saint associated with Christmas gift-giving|Historical saint whose traditions helped shape Santa folklore
+ELF|Small helper in Santa stories|Folkloric worker in the Christmas workshop
+WORKSHOP|Place where Santa's helpers make toys|Traditional toy-making setting in Christmas folklore
+TOY|Plaything often given as a gift|Object made chiefly for children's play
+SLEIGH|Vehicle drawn across snow in Santa stories|Runner-equipped conveyance associated with Christmas Eve
+REINDEER|Animal said to pull Santa's sleigh|Northern deer featured in Christmas folklore
+NORTHPOLE|Traditional home of Santa in popular stories|Arctic location associated with Santa's workshop
+SNOW|Frozen flakes common in winter Christmas scenes|Precipitation forming a familiar festive landscape
+SNOWFLAKE|Single ice crystal falling from a cloud|Sixfold winter symbol used in Christmas decoration
+SNOWMAN|Figure built from packed snow|Winter character often given a scarf and carrot nose
+FROST|Thin coating of ice crystals|Wintry surface covering often shown on festive cards
+WINTER|Season associated with Christmas in the Northern Hemisphere|Cold season in many traditional Christmas settings
+MITTEN|Warm hand covering with one section for four fingers|Winter glove with a separate thumb
+SCARF|Long piece of fabric worn around the neck|Winter accessory often shown on snowmen
+SKATE|Glide over ice on blades|Winter activity sometimes featured in festive outings
+CAROL|Song sung at Christmas|Traditional seasonal song, often with a religious subject
+CHOIR|Group that may sing Christmas music|Organized body of singers in a seasonal service
+SING|Make music with the voice|Perform a carol vocally
+VERSE|Section of a Christmas song|Stanza of a carol or poem
+CHORUS|Repeated section of a song|Refrain sung between verses
+MELODY|Tune of a song|Sequence of notes forming a musical line
+NATIVITY|Story or scene of Jesus's birth|Christian representation of the birth at Bethlehem
+MANGER|Feeding trough in the Nativity story|Infant bed in traditional accounts of Jesus's birth
+STABLE|Building shown in many Nativity scenes|Traditional animal shelter associated with the manger
+MARY|Mother of Jesus in Christian tradition|Central maternal figure in the Nativity story
+JOSEPH|Mary's husband in the Nativity story|Carpenter associated with the Holy Family
+JESUS|Child at the center of the Christian Christmas story|Figure whose birth Christmas commemorates
+BETHLEHEM|Traditional birthplace of Jesus|Judean town central to Christian Nativity accounts
+SHEPHERD|Person tending sheep in the Nativity story|One of the field workers visited by angels in Luke's account
+MAGI|Visitors bringing gifts in the Nativity story|Wise men in Matthew's account
+GOLD|One of the gifts brought by the Magi|Precious metal named among the traditional Nativity gifts
+MYRRH|Fragrant resin named in the Nativity gifts|Aromatic substance traditionally given alongside gold
+EPIPHANY|Christian feast associated with the visit of the Magi|Festival observed on January 6 in many Western churches
+TWELFTH|Word before Night in a traditional Christmas celebration|Ordinal linked with the end of the Twelve Days
+BOXING|Word before Day for December 26|Name beginning a holiday observed after Christmas in Britain
+NUTCRACKER|Tool, figure, and famous Christmas-season ballet|Tchaikovsky ballet centered on a child's festive gift
+SCROOGE|Miser who changes in A Christmas Carol|Dickens character visited by Christmas spirits

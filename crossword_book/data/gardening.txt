@@ -1,0 +1,123 @@
+SEED|Tiny beginning of many plants|Embryonic plant enclosed in a protective coat
+SOIL|Material plants grow in|Root-supporting mixture of minerals and organic matter
+LOAM|Rich soil with a balanced texture|Soil combining sand, silt, and clay
+CLAY|Fine soil that becomes sticky when wet|Soil fraction with the smallest mineral particles
+SAND|Gritty material that helps soil drain|Coarse mineral fraction of soil
+SILT|Fine sediment found in some soils|Soil fraction between sand and clay in particle size
+COMPOST|Decayed material added to enrich soil|Decomposed organic matter used as a soil amendment
+MULCH|Covering spread around plants|Surface layer that conserves moisture and limits weeds
+HUMUS|Dark organic material in soil|Well-decomposed organic component of soil
+PEAT|Partly decayed material from bogs|Organic material formed in waterlogged conditions
+MANURE|Animal waste used as fertilizer|Livestock-derived organic soil amendment
+POTASH|Potassium-rich plant fertilizer|Traditional name for several potassium fertilizer salts
+NITROGEN|Nutrient that supports leafy growth|Element represented by N on fertilizer labels
+PHOSPHORUS|Plant nutrient associated with roots and flowers|Element represented by P on fertilizer labels
+POTASSIUM|Plant nutrient that supports many growth processes|Element represented by K on fertilizer labels
+FERTILIZER|Material added to feed plants|Product supplying essential plant nutrients
+WATER|Liquid needed by garden plants|Resource taken up by roots for growth and photosynthesis
+DRAINAGE|Movement of excess water out of soil|Removal of surplus water from the root zone
+IRRIGATION|Artificial watering of plants|Controlled supply of water to cultivated land
+MIST|Fine spray of water|Gentle application of very small water droplets
+HOSE|Flexible tube used for watering|Garden conduit attached to a tap
+SPRINKLER|Device that sprays water over plants|Watering device that distributes droplets over an area
+NOZZLE|Hose attachment that controls the spray|Outlet fitting used to shape water flow
+TROWEL|Small hand tool for digging|Short-bladed planting and potting tool
+SPADE|Tool for digging and cutting soil|Flat-bladed implement used to turn earth
+SHOVEL|Tool used to scoop loose soil|Implement for lifting and moving bulk material
+FORK|Pronged garden tool|Tined implement used to loosen soil or turn compost
+RAKE|Tool used to gather leaves|Toothed implement for leveling soil or collecting debris
+HOE|Long-handled tool for loosening soil|Blade-on-a-handle implement used to cultivate and weed
+PRUNER|Tool used to trim small branches|Hand cutting tool for selective stem removal
+SHEARS|Large scissors for garden trimming|Paired-blade tool used to shape hedges or cut growth
+LOPPER|Long-handled tool for cutting branches|Leveraged pruning tool for thicker stems
+DIBBER|Pointed tool for making planting holes|Peglike implement for seed or transplant holes
+GLOVES|Hand coverings worn while gardening|Protective wear for handling soil and thorny plants
+POT|Container used to grow a plant|Movable vessel for a plant and its growing medium
+PLANTER|Decorative container for plants|Vessel designed to hold growing plants
+TRAY|Shallow container for starting seeds|Flat nursery container used to hold cells or pots
+LABEL|Marker showing a plant's name|Identification tag placed beside a specimen
+STAKE|Support driven into the soil|Upright support used to secure a growing stem
+TRELLIS|Framework for climbing plants|Open lattice that supports vines and climbers
+ARBOR|Garden structure that supports climbing plants|Shaded framework often marking a garden entrance
+PERGOLA|Open-roofed garden structure|Walkway shelter formed by uprights and crossbeams
+GREENHOUSE|Glass-covered building for growing plants|Enclosed structure that shelters plants and retains warmth
+CLOCHE|Small cover placed over a plant|Bell-shaped shelter used to protect tender growth
+COLDFRAME|Sheltered box used to protect young plants|Low enclosed growing space with a transparent lid
+BORDER|Planted strip along a garden edge|Linear bed of ornamental plants
+BED|Prepared area used for growing plants|Cultivated plot separated from surrounding paths
+PLOT|Small area of land used for gardening|Defined piece of ground devoted to cultivation
+PATH|Walkway through a garden|Route separating beds or planting areas
+LAWN|Area of closely cut grass|Managed turf grown as a garden surface
+TURF|Grass and the soil held by its roots|Surface layer used to establish an instant lawn
+HEDGE|Row of shrubs forming a boundary|Living barrier maintained by planting and pruning
+SHRUB|Woody plant smaller than most trees|Plant with several persistent woody stems
+TREE|Tall woody plant with a main trunk|Long-lived plant typically supported by a single bole
+VINE|Plant with long climbing or trailing stems|Flexible-stemmed plant that uses external support
+CLIMBER|Plant that grows upward using support|Plant that ascends by twining, tendrils, or clinging roots
+FERN|Plant with fronds instead of flowers|Spore-producing vascular plant with divided foliage
+MOSS|Small green plant forming soft cushions|Nonvascular plant commonly growing in damp places
+HERB|Plant used for flavor, fragrance, or other purposes|Plant grown for useful leaves or soft growth
+ANNUAL|Plant that completes its life in one growing season|Plant completing its life cycle within one year
+BIENNIAL|Plant with a two-year life cycle|Plant usually flowering in its second growing season
+PERENNIAL|Plant that lives for more than two years|Plant that persists across multiple growing seasons
+BULB|Underground plant storage structure|Storage organ made largely of fleshy leaf bases
+CORM|Solid underground storage stem|Swollen stem base found in plants such as crocuses
+TUBER|Swollen underground plant part|Storage structure exemplified by a potato
+RHIZOME|Horizontal underground stem|Stem that spreads below ground and produces new shoots
+ROOT|Plant part that takes up water from soil|Anchoring organ that absorbs water and minerals
+STEM|Plant part that supports leaves and flowers|Main axis bearing buds, leaves, and reproductive growth
+LEAF|Usually green part that captures light|Principal photosynthetic organ of many plants
+BUD|Unopened shoot or flower|Undeveloped growth enclosed by protective scales or leaves
+BLOOM|An open flower|Flower at the stage of full opening
+PETAL|Often colorful part of a flower|Member of a flower's corolla
+SEPAL|Leaflike part protecting a flower bud|Member of a flower's calyx
+STAMEN|Pollen-producing part of a flower|Male floral organ made of anther and filament
+PISTIL|Seed-bearing structure of a flower|Floral structure comprising stigma, style, and ovary
+POLLEN|Fine grains produced by many flowers|Grains carrying male reproductive cells in seed plants
+NECTAR|Sweet liquid produced by flowers|Sugary floral secretion that attracts pollinators
+GERMINATE|Begin to grow from a seed|Resume embryonic growth under suitable conditions
+SPROUT|New shoot emerging from a seed|Young growth arising after germination
+SEEDLING|Young plant grown from seed|Juvenile plant following germination
+CUTTING|Plant piece used to grow another plant|Stem, leaf, or root section used in propagation
+GRAFT|Join parts of two plants|Unite a scion with a compatible rootstock
+PRUNE|Trim selected plant growth|Remove chosen shoots or branches to manage a plant
+SOW|Place seeds in soil|Begin a crop by distributing or planting seed
+WEED|Unwanted plant in a cultivated area|Plant growing where it is not wanted
+HARVEST|Gather a crop when ready|Collect mature produce from cultivated plants
+TRANSPLANT|Move a plant to a new growing place|Reestablish a plant in another site or container
+THIN|Remove crowded seedlings|Reduce plant density to improve spacing
+HARDEN|Gradually prepare young plants for outdoor conditions|Acclimate tender growth before transplanting outdoors
+ROSE|Garden flower known for thorns and fragrance|Flowering shrub of the genus Rosa
+TULIP|Spring flower grown from a bulb|Cup-flowered member of the lily family
+DAFFODIL|Spring flower with a trumpetlike center|Narcissus commonly grown from bulbs
+IRIS|Flower named for a rainbow goddess|Rhizomatous or bulbous plant with falls and standards
+DAHLIA|Garden flower with many colorful forms|Tuberous-rooted ornamental native to the Americas
+ZINNIA|Bright annual flower often grown from seed|Mexican-origin ornamental in the daisy family
+ASTER|Daisy-like garden flower|Star-named flowering plant in the daisy family
+COSMOS|Airy annual flower with delicate foliage|Ornamental genus with pink, white, or yellow flower heads
+LUPIN|Garden flower with tall spikes|Nitrogen-fixing legume with upright flower clusters
+PEONY|Garden plant with large showy flowers|Long-lived ornamental with often fragrant blossoms
+SALVIA|Flowering relative of culinary sage|Mint-family genus that includes culinary sage
+LAVENDER|Fragrant plant with purple flower spikes|Aromatic mint-family shrub of Lavandula
+ROSEMARY|Woody herb with narrow aromatic leaves|Mediterranean herb now classified in Salvia
+THYME|Low-growing aromatic cooking herb|Small-leaved herb of the genus Thymus
+BASIL|Tender herb used in pesto|Aromatic member of the genus Ocimum
+PARSLEY|Leafy herb often used as a garnish|Culinary biennial of the carrot family
+CHIVES|Mild onion-flavored herb|Allium grown for its slender edible leaves
+MINT|Fragrant herb that can spread quickly|Aromatic plant commonly propagated by runners
+SAGE|Gray-green herb used in cooking|Salvia officinalis
+DILL|Feathery herb used in pickling|Anethum graveolens
+FENNEL|Aromatic plant with feathery leaves|Foeniculum vulgare
+TOMATO|Common garden crop with juicy fruits|Edible-fruited plant of the nightshade family
+CARROT|Root vegetable often colored orange|Cultivated taproot of Daucus carota
+LETTUCE|Leafy crop commonly used in salads|Lactuca sativa
+RADISH|Quick-growing root crop with a peppery taste|Edible root commonly grown from Raphanus sativus
+PEPPER|Garden crop with sweet or hot fruits|Capsicum grown for its edible fruits
+BEAN|Garden legume grown in pods|Crop whose seeds develop inside a leguminous pod
+PEA|Round green seed grown in a pod|Edible seed of Pisum sativum
+KALE|Leafy green with curled or flat leaves|Nonheading cabbage grown for foliage
+ONION|Bulb vegetable with layered leaves|Allium cepa
+GARLIC|Strong-flavored bulb divided into cloves|Allium sativum
+BEET|Root crop often colored deep red|Cultivated Beta vulgaris
+CHARD|Leafy vegetable with colorful stalks|Leaf beet grown for foliage rather than a swollen root
+LEEK|Mild allium with a thick white stalk|Allium crop grown for its blanched leaf bases

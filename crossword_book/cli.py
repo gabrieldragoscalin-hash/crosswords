@@ -3,13 +3,14 @@ import argparse
 from pathlib import Path
 import re
 import sqlite3
-from .core import THEMES
+from .themes import THEMES, ALIASES
 from .errors import GenerationCancelled
 from .service import BookOptions,generate_book
 
 
 def normalize_theme(value):
     normalized=re.sub(r'[\s_-]+','',value.lower())
+    normalized=ALIASES.get(normalized,normalized)
     if normalized not in THEMES:
         raise argparse.ArgumentTypeError('Choose one of: '+', '.join(THEMES))
     return normalized

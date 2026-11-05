@@ -1,9 +1,9 @@
 # Quickberry Books crossword generator
 
 Generate English, single-theme crossword book interiors at **8.5 × 11 inches**.
-Choose **dogs, cats, wildlife, animals, birds, or fish**, and easy, medium/normal,
-hard, or incremental difficulty. Every white square belongs to both an Across
-and a Down answer. Grids are connected, with symmetric blocks and no answers
+Choose **dogs, cats, wildlife, animals, birds, fish, gardening, baking, travel,
+space, or Christmas**, and easy, medium/normal, hard, or incremental difficulty.
+Every white square belongs to both an Across and a Down answer. Grids are connected, with symmetric blocks and no answers
 shorter than three letters.
 
 ## Install
@@ -85,7 +85,7 @@ common crossing words. Answers never repeat within a single puzzle, and exact
 grids cannot repeat within a book. Use `--allow-repeats` to disable the across-
 puzzle preference when you explicitly want unrestricted fill.
 
-There are **613 theme entries**, at least 100 per theme, each with two clue
+There are **1,265 theme entries across 11 themes**, at least 100 per theme, each with two clue
 styles. The general bank includes **over 1,300 editorial clue overrides**. The
 remaining dictionary clues are normalized into concise phrases; overlong or
 unsuitable definitions are filtered out instead of cut off. General clues are
@@ -166,6 +166,27 @@ Each output folder contains:
 - `wordlists/<theme>-easy.txt`, `<theme>-hard.txt`, and `used-answers.txt` in
   `ANSWER|clue` format.
 - `licenses/`: dictionary source attribution and license texts.
+
+## New reader niches
+
+Five additional themes are available in both the desktop menu and terminal:
+
+| Theme | Book focus | Example |
+| --- | --- | --- |
+| `gardening` | Plants, growing methods, tools, and garden crops | `python crosswordgenerator.py gardening easy 50` |
+| `baking` | Ingredients, baking methods, breads, and pastries | `python crosswordgenerator.py baking medium 50` |
+| `travel` | Journeys, destinations, capitals, and geography | `python crosswordgenerator.py travel incremental 50` |
+| `space` | Astronomy, stars, planets, and spaceflight | `python crosswordgenerator.py space hard 50` |
+| `christmas` | Festive traditions, decorations, foods, and Nativity | `python crosswordgenerator.py christmas easy 50` |
+
+`astronomy` aliases `space`; `geography` and quoted `"travel and geography"`
+alias `travel`; `xmas` aliases `christmas`. Add `--edition large-print` or a
+`--series` name just as with the original themes. Each new theme has 120+ clue
+pairs, 50 named puzzle titles plus additional generated titles, a book title and
+subtitle, and its own grayscale vector motif.
+
+See [THEME_NICHES.md](THEME_NICHES.md) for the intended audiences and seasonal
+positioning. Current KDP sales and competition have not been verified.
 
 ## Editing content
 

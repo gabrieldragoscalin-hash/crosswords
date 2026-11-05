@@ -1,0 +1,136 @@
+SUN|Star at the center of our solar system|G-type star around which Earth orbits
+MOON|Earth's natural satellite|Earth's principal natural companion
+EARTH|Our home planet|Third planet from the Sun
+MERCURY|Planet closest to the Sun|Smallest of the eight recognized planets
+VENUS|Second planet from the Sun|Planet with a dense carbon-dioxide atmosphere and retrograde spin
+MARS|Planet often called the Red Planet|Terrestrial planet with the volcano Olympus Mons
+JUPITER|Largest planet in our solar system|Gas giant orbited by the Galilean moons
+SATURN|Planet famous for its bright rings|Gas giant whose large moon Titan has a thick atmosphere
+URANUS|Ice giant that rotates on its side|Seventh planet from the Sun
+NEPTUNE|Outermost of the eight planets|Blue ice giant orbited by Triton
+PLUTO|Dwarf planet once counted as the ninth planet|Kuiper Belt dwarf planet orbited by Charon
+CERES|Dwarf planet in the asteroid belt|Largest body in the main belt between Mars and Jupiter
+ERIS|Distant dwarf planet named for a goddess of discord|Scattered-disc dwarf planet discovered in 2005
+HAUMEA|Elongated dwarf planet beyond Neptune|Rapidly rotating dwarf planet named for a Hawaiian goddess
+MAKEMAKE|Dwarf planet named for a Rapa Nui deity|Large Kuiper Belt object discovered in 2005
+EUROPA|Icy moon of Jupiter|Galilean moon thought to have a subsurface ocean
+GANYMEDE|Largest moon in the solar system|Jovian moon larger than Mercury
+CALLISTO|Heavily cratered moon of Jupiter|Outermost of Jupiter's four Galilean moons
+TITAN|Large moon of Saturn with a thick atmosphere|Saturnian moon with lakes of liquid hydrocarbons
+RHEA|One of Saturn's large icy moons|Saturn's second-largest moon
+DIONE|Icy moon of Saturn with bright surface cliffs|Saturnian moon discovered by Cassini in 1684
+IAPETUS|Moon of Saturn with sharply contrasting sides|Saturnian moon famous for a dark leading hemisphere
+ENCELADUS|Saturn moon that sprays icy material into space|Icy satellite with south-polar water plumes
+TRITON|Largest moon of Neptune|Large retrograde satellite likely captured from the Kuiper Belt
+CHARON|Largest moon of Pluto|Plutonian companion discovered by James Christy
+PHOBOS|Larger of Mars's two moons|Martian moon whose name means fear
+DEIMOS|Smaller of Mars's two moons|Outer Martian moon whose name means terror
+STAR|Glowing ball of gas seen in the night sky|Self-luminous sphere powered mainly by nuclear fusion
+PLANET|Large world that orbits a star|Solar-system body that has cleared its orbital neighborhood
+COMET|Icy body that may develop a tail near the Sun|Small body whose volatile material escapes when heated
+ASTEROID|Rocky body orbiting the Sun|Small solar-system body common between Mars and Jupiter
+METEOR|Streak of light made by a small object in the atmosphere|Luminous trail produced during atmospheric entry
+METEORITE|Space rock that reaches the ground|Extraterrestrial material surviving passage through an atmosphere
+METEOROID|Small rocky object traveling through space|Small natural body before it becomes a meteor
+BOLIDE|Very bright meteor|Brilliant atmospheric fireball
+NEBULA|Cloud of gas and dust in space|Interstellar cloud that may form or surround stars
+GALAXY|Huge collection of stars|Gravitationally bound system of stars, gas, dust, and dark matter
+COSMOS|The universe considered as a whole|Ordered universe, from a Greek term
+UNIVERSE|All of space and its contents|Totality of space, time, matter, and energy
+ORBIT|Path followed around a planet or star|Gravitational trajectory around another body
+GRAVITY|Force that attracts objects with mass|Interaction governing planetary orbits and falling bodies
+MASS|Measure of the amount of matter in a body|Property determining inertia and gravitational interaction
+INERTIA|Tendency to keep the same state of motion|Resistance to a change in velocity
+VACUUM|Region containing very little matter|Space at pressure far below atmospheric pressure
+PLASMA|Hot gas containing charged particles|Ionized state of matter found in stars
+FUSION|Process that powers most stars|Joining of light atomic nuclei with energy release
+PHOTON|Particle of light|Quantum of electromagnetic radiation
+SPECTRUM|Spread of light into its component colors|Distribution of electromagnetic radiation by wavelength
+REDSHIFT|Shift of light toward longer wavelengths|Spectral displacement associated with recession or expansion
+PARALLAX|Apparent shift used to measure nearby star distances|Change in apparent position seen from different viewpoints
+TRANSIT|Passage of one celestial body in front of another|Crossing of a smaller body across a larger body's apparent disk
+ECLIPSE|Event in which one body blocks another's light|Astronomical obscuration caused by alignment and shadow
+UMBRA|Darkest part of a shadow|Region of complete shadow during an eclipse
+PENUMBRA|Lighter outer part of a shadow|Region of partial shadow around an umbra
+PHASE|Changing visible shape of the Moon|Apparent illuminated fraction of a celestial disk
+CRESCENT|Thin curved shape of the Moon|Lunar appearance between new and quarter phases
+GIBBOUS|Describing a Moon more than half lit|Lunar phase with an illuminated fraction greater than one half
+LUNAR|Relating to the Moon|Pertaining to Earth's natural satellite
+SOLAR|Relating to the Sun|Pertaining to our central star
+SOLSTICE|Time when the Sun reaches its yearly northern or southern limit|Annual extreme of the Sun's apparent declination
+EQUINOX|Time when day and night are nearly equal|Seasonal crossing of the celestial equator by the Sun
+ZODIAC|Band of sky containing the Sun's yearly path|Belt centered on the ecliptic and associated with constellations
+ECLIPTIC|Apparent yearly path of the Sun|Plane of Earth's orbit projected onto the sky
+ZENITH|Point directly overhead|Sky point ninety degrees above the horizon
+NADIR|Point directly below an observer|Celestial direction opposite the zenith
+HORIZON|Apparent boundary between Earth and sky|Great circle separating the visible and hidden sky
+AZIMUTH|Direction measured around the horizon|Horizontal angular coordinate usually measured from north
+ALTITUDE|Angular height above the horizon|Vertical angle of a celestial object relative to the horizon
+AURORA|Colored glow sometimes seen near Earth's poles|Upper-atmosphere light caused by charged-particle interactions
+SUNSPOT|Dark patch on the Sun's visible surface|Cooler magnetic region of the solar photosphere
+CORONA|Sun's outer atmosphere|Hot outer solar layer visible during a total eclipse
+FLARE|Sudden burst of energy from a star|Brief intense brightening associated with magnetic activity
+QUASAR|Extremely bright center of a distant galaxy|Luminous active galactic nucleus powered by accretion
+PULSAR|Rapidly flashing collapsed star|Rotating neutron star whose beams sweep past Earth
+MAGNETAR|Neutron star with an exceptionally strong magnetic field|Highly magnetized compact stellar remnant
+SUPERNOVA|Powerful stellar explosion|Event marking some stellar deaths with immense brightening
+NOVA|Star system that suddenly brightens and then fades|Outburst often caused by material on a white dwarf
+DWARF|Word used for several classes of small stars|Stellar descriptor shared by red, white, and brown objects
+GIANT|Word used for a greatly expanded star|Evolved stellar class larger than main-sequence stars
+CLUSTER|Group of stars formed or held together|Stellar grouping described as open or globular
+SIRIUS|Brightest star in Earth's night sky|Alpha Canis Majoris
+POLARIS|Star close to the north celestial pole|Alpha Ursae Minoris
+VEGA|Bright star in the constellation Lyra|Alpha Lyrae
+RIGEL|Bright blue-white star in Orion|Beta Orionis
+DENEB|Bright star in the constellation Cygnus|Alpha Cygni
+ALTAIR|Bright star in the constellation Aquila|Alpha Aquilae
+ANTARES|Reddish star in the constellation Scorpius|Alpha Scorpii
+ARCTURUS|Bright orange star in Bootes|Alpha Bootis
+CAPELLA|Bright star system in Auriga|Alpha Aurigae
+ALDEBARAN|Orange star in the constellation Taurus|Alpha Tauri, seen near the Hyades
+BETELGEUSE|Red supergiant in Orion|Alpha Orionis
+PLEIADES|Star cluster also called the Seven Sisters|Nearby open cluster in Taurus
+HYADES|Nearby star cluster in Taurus|Open cluster forming part of the Bull's face
+ORION|Constellation known as the Hunter|Prominent constellation with a three-star belt
+LYRA|Constellation named for a musical instrument|Small constellation containing Vega
+CYGNUS|Constellation known as the Swan|Northern constellation containing Deneb
+DRACO|Constellation known as the Dragon|Winding northern constellation near the celestial pole
+PEGASUS|Constellation named for a winged horse|Northern constellation associated with a Great Square
+ANDROMEDA|Constellation sharing its name with a nearby galaxy|Northern constellation named for a mythological princess
+CASSIOPEIA|Constellation with a familiar W shape|Northern constellation named for a mythological queen
+AQUILA|Constellation known as the Eagle|Equatorial constellation containing Altair
+PERSEUS|Constellation named for a mythological hero|Northern constellation containing the Double Cluster
+AURIGA|Constellation known as the Charioteer|Northern constellation containing Capella
+CARINA|Constellation named for a ship's keel|Southern constellation containing Canopus
+VELA|Constellation named for a ship's sails|Southern remnant of the former constellation Argo Navis
+LEO|Constellation known as the Lion|Zodiac constellation containing Regulus
+TAURUS|Constellation known as the Bull|Zodiac constellation containing Aldebaran
+ROCKET|Vehicle propelled by expelled gas|Launch vehicle that works even in a vacuum
+BOOSTER|Rocket stage providing extra launch thrust|Auxiliary propulsion stage used early in ascent
+CAPSULE|Enclosed spacecraft compartment for a crew|Compact crew vehicle often designed for reentry
+MODULE|Section of a spacecraft|Self-contained unit of a space vehicle or station
+AIRLOCK|Chamber used to enter or leave a spacecraft|Compartment allowing transfer between different pressures
+SPACESUIT|Protective clothing worn outside a spacecraft|Pressurized garment supporting an astronaut in space
+ASTRONAUT|Person trained for spaceflight|Space traveler in NASA's terminology
+COSMONAUT|Russian term for a space traveler|Crew member in the Russian spaceflight tradition
+ROVER|Vehicle that travels across another world's surface|Mobile robotic explorer used on planetary terrain
+LANDER|Spacecraft designed to touch down on a surface|Vehicle that descends to and rests on another body
+ORBITER|Spacecraft designed to circle another body|Exploration vehicle remaining in an orbital trajectory
+PROBE|Uncrewed spacecraft sent to explore|Robotic craft gathering measurements beyond Earth
+PAYLOAD|Useful cargo carried by a rocket|Mission equipment carried by a launch vehicle
+SATELLITE|Object that travels around a larger body|Natural or artificial body in orbit
+TELESCOPE|Instrument used to view distant celestial objects|Light-collecting instrument used in astronomy
+LAUNCH|Send a spacecraft into flight|Begin a spacecraft's powered ascent
+DOCK|Join one spacecraft to another|Connect space vehicles through a mating interface
+REENTRY|Return through a planet's atmosphere|Atmospheric passage following an orbital or space trajectory
+APOLLO|NASA program that landed people on the Moon|United States lunar exploration program of the 1960s and 1970s
+GEMINI|NASA crewed program between Mercury and Apollo|Two-person spacecraft program used to practice orbital operations
+VOYAGER|NASA probe series exploring the outer solar system|Twin spacecraft launched in 1977
+PIONEER|Name shared by early American space probes|Probe series including the first spacecraft to Jupiter
+SPUTNIK|First artificial satellite of Earth|Soviet satellite launched in 1957
+HUBBLE|Space telescope named for an American astronomer|Observatory placed in Earth orbit in 1990
+WEBB|Space telescope launched in 2021|Infrared observatory deployed near the Sun-Earth L2 point
+KEPLER|Space telescope that searched for planets|Planet-finding mission named for an orbital-law astronomer
+GALILEO|Astronomer who observed four large moons of Jupiter|Italian scientist who advanced telescopic astronomy
+NEWTON|Scientist associated with universal gravitation|English scientist who formulated laws of motion and gravity
+COPERNICUS|Astronomer associated with a Sun-centered model|Polish astronomer who developed a heliocentric system

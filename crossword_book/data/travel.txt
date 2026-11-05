@@ -1,0 +1,128 @@
+PASSPORT|Official document used for international travel|Government-issued identity document for crossing borders
+VISA|Permission to enter some countries|Entry authorization granted by a destination country
+TICKET|Proof of a paid journey or admission|Travel document confirming a transport reservation
+LUGGAGE|Bags taken on a journey|Collected personal baggage
+SUITCASE|Large bag used for travel|Portable case for clothing and other journey essentials
+BACKPACK|Bag carried on the back|Travel pack supported by shoulder straps
+DUFFEL|Soft cylindrical travel bag|Flexible carryall commonly closed with a zipper
+ITINERARY|Plan listing stops on a journey|Scheduled route and activities of a trip
+MAP|Drawing showing places and routes|Scaled representation of a geographic area
+ATLAS|Book of maps|Collection of geographic charts
+COMPASS|Tool used to find direction|Navigation instrument with a magnetic needle
+GUIDE|Person or book helping travelers explore|Source of local information and directions
+TOUR|Journey visiting several places|Organized excursion around selected sights
+TRIP|A journey|Travel from one place and back or onward
+VOYAGE|Long journey, especially by sea|Extended passage by water or through distant regions
+CRUISE|Leisure journey aboard a ship|Voyage with accommodation and scheduled ports
+FLIGHT|Journey by air|Trip aboard an aircraft
+AIRPORT|Place where passenger planes arrive and depart|Transport hub with runways and terminals
+TERMINAL|Airport or station building for travelers|Facility handling passengers at the ends of routes
+GATE|Airport departure point|Boarding access assigned to a flight
+BOARDING|Getting onto a plane, train, or ship|Passenger entry before departure
+CHECKIN|Arrival procedure at an airport or hotel|Registration step before travel or a stay
+BAGGAGE|Bags carried while traveling|Personal luggage accompanying a passenger
+CUSTOMS|Border service checking imported goods|Authority inspecting goods entering a country
+TRANSIT|Passing through a place while traveling|Movement between destinations, often via a connection
+LAYOVER|Break between connecting flights|Scheduled wait at an intermediate airport
+ARRIVAL|Reaching a destination|The coming-in stage of a journey
+DEPARTURE|Leaving for a journey|The outgoing stage of travel
+PLATFORM|Railway area beside a track|Raised station surface for boarding trains
+STATION|Place where trains or buses stop|Transport facility serving a route
+RAILWAY|System of tracks used by trains|Permanent way for rail transport
+TRAIN|Connected railway carriages|Rail vehicle used for passenger or freight journeys
+TRAM|Rail vehicle commonly running on city streets|Urban rail vehicle often sharing roads
+METRO|Urban rapid-transit railway|City rail network often partly underground
+SUBWAY|Underground urban railway|Rapid-transit system known as the Underground in London
+BUS|Large road vehicle carrying passengers|Scheduled road passenger transport
+COACH|Bus used for longer journeys|Long-distance passenger vehicle with forward-facing seats
+TAXI|Vehicle hired for a passenger journey|Car available for individual paid transport
+FERRY|Boat carrying travelers across water|Vessel serving a regular crossing
+LINER|Large passenger ship|Ship operating on an established ocean route
+CABIN|Small room aboard a ship or aircraft|Enclosed passenger or sleeping space
+BERTH|Sleeping place on a train or ship|Assigned bunk on an overnight journey
+DECK|Floor level aboard a ship|Horizontal working or passenger surface of a vessel
+PORT|Harbor where ships stop|Coastal facility handling vessels and passengers
+MARINA|Harbor for smaller leisure boats|Sheltered berthing facility for yachts and pleasure craft
+HOTEL|Building offering rooms to travelers|Commercial lodging establishment
+HOSTEL|Budget lodging often with shared rooms|Accommodation commonly offering dormitory beds
+MOTEL|Roadside lodging for motorists|Hotel traditionally designed around access by car
+INN|Small lodging establishment|Traditional place offering accommodation and food
+RESORT|Destination offering leisure accommodation|Holiday complex with lodging and recreational facilities
+LODGE|Small hotel or holiday accommodation|Lodging often associated with a rural or natural setting
+CHALET|Alpine-style holiday house|Wooden mountain dwelling used for accommodation
+VILLA|Detached holiday home|Country or vacation residence often rented for stays
+CAMPSITE|Place set aside for tents or caravans|Designated area for overnight outdoor accommodation
+TENT|Portable fabric shelter|Temporary sleeping enclosure used while camping
+CARAVAN|Wheeled holiday accommodation|Trailer used as a movable place to stay
+CAMPER|Person or vehicle used for camping|Outdoor traveler or vehicle equipped for overnight stays
+BOOKING|Reservation for travel or accommodation|Arrangement securing a place, room, or service
+RESERVE|Arrange to keep a room or place available|Book in advance
+CHECKOUT|Hotel departure procedure|Settlement and departure at the end of a stay
+CONCIERGE|Hotel employee who helps guests|Guest-services specialist arranging local assistance
+LOBBY|Public entrance area of a hotel|Reception space near a building's main entrance
+SUITE|Set of connected hotel rooms|Accommodation comprising multiple rooms
+BALCONY|Raised outdoor platform attached to a room|Exterior platform reached from an upper-level room
+VIEW|Scene visible from a place|Outlook that may influence a room's appeal
+ROUTE|Path taken on a journey|Course followed between destinations
+DETOUR|Alternative route around an obstruction|Deviation from a planned travel path
+JOURNEY|Travel from one place to another|The act or course of traveling between locations
+EXCURSION|Short pleasure trip|Organized outing away from a main base
+DAYTRIP|Outing completed without an overnight stay|Journey returning to its starting point the same day
+EXPLORER|Person who investigates unfamiliar places|Traveler venturing into little-known regions
+TOURIST|Person visiting for pleasure|Temporary visitor traveling primarily for leisure
+VISITOR|Person spending time in another place|Guest at a destination or attraction
+SOUVENIR|Item kept as a reminder of a trip|Memento purchased or collected while traveling
+POSTCARD|Picture card sent from a destination|Unenclosed illustrated message often mailed by travelers
+CURRENCY|Money used in a country|Locally accepted system of monetary units
+EXCHANGE|Convert money from one currency to another|Transaction replacing one monetary denomination with another
+BUDGET|Planned amount available for a trip|Spending limit for travel and accommodation
+FARE|Price of a journey|Charge for transport
+TOLL|Fee charged for using a road or bridge|Payment required to pass a transport point
+TIP|Small extra payment for service|Gratuity offered to a travel or hospitality worker
+BEACH|Sandy or pebbly shore|Coastal strip popular for seaside holidays
+COAST|Land beside the sea|Boundary zone between land and ocean
+ISLAND|Land surrounded by water|Geographic area enclosed by water on all sides
+PENINSULA|Land projecting into water|Landform connected to a mainland along one side
+BAY|Broad coastal inlet|Recess in a shoreline partly enclosed by land
+CAPE|Point of land extending into water|Promontory projecting into a sea or lake
+FJORD|Long sea inlet between steep cliffs|Glacially carved coastal inlet
+GLACIER|Large mass of moving ice|Persistent body of compacted snow that flows slowly
+CANYON|Deep valley with steep sides|Erosion-carved gorge often cut by a river
+DESERT|Very dry region|Landscape receiving little precipitation
+OASIS|Green place with water in a desert|Fertile desert site sustained by a water source
+VOLCANO|Mountain that can release lava|Vent through which magma and gases reach the surface
+SUMMIT|Highest point of a mountain|Topographic peak
+VALLEY|Low land between hills or mountains|Elongated depression often occupied by a river
+DELTA|Landform at the mouth of some rivers|Sediment deposit where a river divides before entering water
+REEF|Ridge of rock or coral near the water's surface|Submerged coastal structure supporting marine habitats
+LAGOON|Shallow water separated from the sea|Coastal basin behind a barrier or reef
+PARIS|Capital of France|European capital on the Seine
+LONDON|Capital of the United Kingdom|Capital through which the Thames flows
+ROME|Capital of Italy|European city containing the Colosseum
+MADRID|Capital of Spain|Iberian capital home to the Prado
+LISBON|Capital of Portugal|Atlantic-facing capital on the Tagus
+ATHENS|Capital of Greece|Capital overlooked by the Acropolis
+VIENNA|Capital of Austria|Danube city associated with imperial palaces and music
+BERLIN|Capital of Germany|European capital known for the Brandenburg Gate
+PRAGUE|Capital of Czechia|Capital crossed by the Vltava
+WARSAW|Capital of Poland|European capital on the Vistula
+OSLO|Capital of Norway|Scandinavian capital at the head of a namesake fjord
+STOCKHOLM|Capital of Sweden|Nordic capital spread across an archipelago
+HELSINKI|Capital of Finland|Baltic capital on the Gulf of Finland
+DUBLIN|Capital of Ireland|Capital crossed by the Liffey
+TOKYO|Capital of Japan|Japanese metropolis on Honshu
+SEOUL|Capital of South Korea|South Korean capital on the Han River
+CAIRO|Capital of Egypt|Nile metropolis near the Giza pyramids
+NAIROBI|Capital of Kenya|East African capital near a namesake national park
+OTTAWA|Capital of Canada|Canadian capital in Ontario
+LIMA|Capital of Peru|Pacific-facing South American capital
+QUITO|Capital of Ecuador|High-altitude capital close to the equator
+CANBERRA|Capital of Australia|Planned capital between Sydney and Melbourne
+FRANCE|Country whose capital is Paris|European nation associated with the Eiffel Tower
+ITALY|Country whose capital is Rome|Boot-shaped European peninsula
+SPAIN|Country whose capital is Madrid|Iberian nation sharing a peninsula with Portugal
+GREECE|Country whose capital is Athens|Mediterranean nation with many Aegean islands
+JAPAN|Country whose capital is Tokyo|East Asian archipelago including Honshu and Hokkaido
+CANADA|Country whose capital is Ottawa|North American country with ten provinces
+EGYPT|Country whose capital is Cairo|North African nation associated with the ancient pyramids
+KENYA|Country whose capital is Nairobi|East African nation known for savanna wildlife
