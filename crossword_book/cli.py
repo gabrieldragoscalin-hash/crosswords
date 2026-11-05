@@ -24,7 +24,7 @@ def main(argv=None):
     parser.add_argument('--seed',type=int)
     parser.add_argument('--title')
     parser.add_argument('--subtitle')
-    parser.add_argument('--publisher',default='Quickberry Books')
+    parser.add_argument('--publisher',default='Quirckberry Books')
     parser.add_argument('--copyright-year',type=int)
     parser.add_argument('--edition',choices=['standard','large-print'],default='standard')
     parser.add_argument('--allow-repeats',action='store_true',help='disable preference for unused answers')

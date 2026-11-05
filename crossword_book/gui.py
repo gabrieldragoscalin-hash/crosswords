@@ -19,7 +19,7 @@ from .service import BookOptions, generate_book
 class BookApp:
     def __init__(self,root):
         self.root=root
-        root.title('Quickberry Books - Crossword Generator')
+        root.title('Quirckberry Books - Crossword Generator')
         root.geometry('760x780');root.minsize(700,730)
         style=ttk.Style(root)
         if sys.platform!='win32' and 'clam' in style.theme_names():style.theme_use('clam')
@@ -28,7 +28,7 @@ class BookApp:
         self.events=queue.Queue();self.cancel_event=threading.Event()
         self.busy=False;self.last_output=None;self.closing=False
         defaults={'theme':'dogs','difficulty':'easy','count':'50','edition':'standard',
-                  'publisher':'Quickberry Books','year':str(datetime.now().year),
+                  'publisher':'Quirckberry Books','year':str(datetime.now().year),
                   'seed':'','title':'','subtitle':'','series':'',
                   'history':str(Path('.crossword-series/history.sqlite3').resolve()),
                   'output':str(Path('dist').resolve())}

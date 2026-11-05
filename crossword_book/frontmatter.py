@@ -4,7 +4,7 @@ from xml.sax.saxutils import escape
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import Paragraph
 
-DEFAULT_PUBLISHER = 'Quickberry Books'
+DEFAULT_PUBLISHER = 'Quirckberry Books'
 from .themes import TITLES, SUBTITLES, MOTIFS
 
 

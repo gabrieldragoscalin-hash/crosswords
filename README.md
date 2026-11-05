@@ -1,4 +1,4 @@
-# Quickberry Books crossword generator
+# Quirckberry Books crossword generator
 
 Generate English, single-theme crossword book interiors at **8.5 × 11 inches**.
 Choose **dogs, cats, wildlife, animals, birds, fish, gardening, baking, travel,
@@ -127,7 +127,7 @@ prevents two simultaneous jobs from taking the same volume number.
 ### Publishing details
 
 ```sh
-python crosswordgenerator.py dogs incremental 50 --seed 42 --title "Dog Crossword Adventures" --publisher "Quickberry Books" --copyright-year 2026 --output dist/my-dog-book
+python crosswordgenerator.py dogs incremental 50 --seed 42 --title "Dog Crossword Adventures" --publisher "Quirckberry Books" --copyright-year 2026 --output dist/my-dog-book
 ```
 
 Other options: `--subtitle`, `--edition`, `--series`, and `--history`.
