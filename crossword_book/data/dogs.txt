@@ -23,3 +23,79 @@ PAW|A dog's foot|Digit-bearing end of a canine limb
 FETCH|Game of bringing back a thrown ball|Retrieve on command
 HOWL|Long, loud cry made by a dog|Prolonged canine vocalization shared with wolves
 SCENT|Smell a tracking dog follows|An olfactory trail for a working hound
+AFGHAN|Long-haired hound from Afghanistan|Silky-coated sighthound from Kabul's country
+AKITA|Powerful Japanese dog breed|Japanese spitz named for a prefecture
+BASENJI|African dog known for yodeling|Barkless hound from Central Africa
+BASSET|Low-slung hound with long ears|French-named hound built close to the ground
+BORZOI|Tall Russian sighthound|Russian wolfhound with a flowing coat
+BULLDOG|Stocky dog with a wrinkled face|Short-muzzled breed emblematic of Britain
+CAIRN|Small Scottish terrier|Terrier breed played by Toto in The Wizard of Oz
+CARDIGAN|Welsh corgi with a long tail|Older of the two Welsh corgi breeds
+CHOW|Fluffy Chinese dog with a blue-black tongue|Chinese spitz with a lionlike mane
+COCKER|Small spaniel with long ears|Spaniel named for the woodcock
+DOBERMAN|Sleek German guard dog|Pinscher named for a German tax collector
+HAVANESE|Small silky-coated Cuban dog|Cuba's national dog breed
+HOUND|Dog bred to track or chase game|Scent or sight specialist in the canine world
+KEESHOND|Fluffy Dutch spitz dog|Dutch barge dog with spectaclelike facial markings
+MALTESE|Small white companion dog|Silky-coated toy breed named for Malta
+MUTT|Dog of mixed ancestry|Canine without a single-breed pedigree
+NEWFOUNDLAND|Large swimming dog from Canada|Canadian working breed with webbed feet
+PAPILLON|Toy dog with butterfly-shaped ears|Its French breed name means butterfly
+PEKINGESE|Small, long-haired Chinese dog|Toy breed once kept at China's imperial court
+PEMBROKE|Short-tailed type of Welsh corgi|Welsh herder favored by Queen Elizabeth II
+PINSCHER|Dog breed group with German roots|German breed name shared by miniature and Doberman types
+POINTER|Hunting dog that signals hidden game|Gundog that freezes to indicate quarry
+POMERANIAN|Tiny, fluffy spitz dog|Toy spitz named for a Baltic region
+PUG|Small dog with a curled tail and flat face|Wrinkled toy breed of Chinese origin
+SALUKI|Slender, swift Middle Eastern hound|Ancient sighthound also called the Persian greyhound
+SCHNAUZER|Dog with bushy eyebrows and a beard|German breed whose name refers to its snout
+SCOTTIE|Short-legged Scottish terrier|Terrier familiar from a Monopoly playing piece
+SETTER|Bird dog that locates game|Gundog group with English, Irish, and Gordon varieties
+SHELTIE|Small herding dog resembling a collie|Shetland sheepdog, familiarly
+SHIBA|Small Japanese spitz dog|Japanese breed whose name is often followed by Inu
+SPRINGER|Spaniel bred to flush birds|Spaniel whose name describes startling game into flight
+VIZSLA|Rust-colored Hungarian hunting dog|Hungarian pointer with a golden-rust coat
+WEIMARANER|Sleek gray German hunting dog|German gundog nicknamed the gray ghost
+WHISKER|A sensitive hair on a dog's muzzle|Canine facial vibrissa
+BARK|A dog's short, sharp call|Typical canine alarm vocalization
+BONE|Hard chew often associated with dogs|Cartoon canine's favorite buried treasure
+COLLAR|Band worn around a dog's neck|Support for an identification tag and leash
+CRATE|Enclosure used to transport or rest a dog|Portable canine den used in training
+HEEL|Walk close beside the handler|Command for staying alongside a trainer
+SIT|Command to lower the hindquarters|Basic obedience cue before stay
+STAY|Command to remain in place|Obedience cue for holding position
+TREAT|Small food reward for a dog|Edible reinforcement during canine training
+TRAINER|Person who teaches a dog commands|Professional who develops canine behaviors
+GROOMER|Person who trims and cleans dog coats|Canine coat-care professional
+HARNESS|Walking straps fitted around a dog's body|Alternative to attaching a leash at the neck
+AGILITY|Dog sport with jumps and tunnels|Canine obstacle-course competition
+OBEDIENCE|Training in following commands|Canine discipline judged on precise responses
+PEDIGREE|Record of a dog's ancestors|Documented canine lineage
+CANINE|A dog, or relating to dogs|Member of the dog family
+WHELP|A newborn puppy|Give birth to pups, or one of those pups
+LITTER|Group of puppies born together|Offspring from one canine pregnancy
+PACK|Group of dogs traveling together|Social group of canids
+TAIL|Appendage a happy dog may wag|Canine caudal appendage
+JOWL|Loose flesh beside a dog's mouth|Pendant cheek tissue in some breeds
+SNOUT|Projecting nose-and-mouth area|Elongated muzzle of a canid
+WOOF|Written version of a dog's bark|Comic-strip canine utterance
+YELP|Short, sharp cry from a dog|Brief canine cry of alarm or pain
+GROWL|Low warning sound made by a dog|Low-pitched canine warning
+DIG|Make a hole with paws|Excavate with forefeet, as a terrier may
+WAG|Move the tail from side to side|Canine tail action often linked to excitement
+RESCUE|Save a dog from danger or neglect|Animal-welfare effort that places dogs in new homes
+SHELTER|Place housing dogs awaiting adoption|Temporary home for unclaimed companion animals
+ADOPT|Give a homeless dog a permanent home|Bring a rescue animal into one's household
+FOSTER|Care for a dog until adoption|Provide a temporary home for a rescue canine
+MICROCHIP|Tiny implanted identification device|Scannable identifier placed under a pet's skin
+VETERINARIAN|Doctor who treats dogs and other animals|Professional practitioner of animal medicine
+VET|Animal doctor, briefly|Canine clinician, informally
+KIBBLE|Dry pieces of dog food|Pelleted food poured into a pet bowl
+TOY|Object used in a dog's play|Ball or squeaker for canine enrichment
+BALL|Round toy often used for fetch|Spherical target in a retrieving game
+FRISBEE|Flying disc a dog may catch|Disc used in canine catching competitions
+LICK|Touch with the tongue|Canine grooming or greeting action
+PANT|Breathe rapidly with the mouth open|Canine cooling behavior
+PAWS|A dog's feet|Canine weight-bearing extremities
+CHEW|Bite repeatedly on a toy or treat|Gnaw with the jaws, as a puppy may
+TRACKER|Dog trained to follow a scent trail|Canine specialist in following ground scent

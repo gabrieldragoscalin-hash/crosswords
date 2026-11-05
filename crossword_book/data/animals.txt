@@ -22,3 +22,79 @@ MEERKAT|Small mongoose that stands watch|Social sentinel of the Kalahari
 HYENA|African carnivore known for a laughing call|Bone-crushing carnivore of the family Hyaenidae
 PANGOLIN|Scaly mammal that eats ants|Mammal of the order Pholidota
 OKAPI|Forest animal related to the giraffe|Striped-legged giraffid of the Congo
+HORSE|Large animal commonly ridden|Domesticated equine
+PONY|Small type of horse|Equine usually under a breed-dependent height limit
+DONKEY|Long-eared relative of the horse|Domestic ass used as a pack animal
+MULE|Hybrid of a donkey and a horse|Offspring of a male donkey and a female horse
+COW|Farm animal that produces milk|Adult female bovine
+BULL|Adult male cattle animal|Intact male bovine
+OX|Cattle animal trained for work|Draft bovine, traditionally castrated
+YAK|Shaggy mountain bovine|High-altitude grazer of the Tibetan Plateau
+BUFFALO|Large bovine with broad horns|Bovid name used for African and Asian grazers
+SHEEP|Farm animal raised for wool|Domestic ovine
+GOAT|Hoofed farm animal with a beard|Domestic caprine
+PIG|Farm animal with a rounded snout|Domestic swine
+CAMEL|Desert mammal with one or two humps|Camelid adapted to arid environments
+LLAMA|South American pack animal|Domesticated Andean camelid
+ALPACA|South American animal raised for soft fleece|Fiber-producing Andean camelid
+VICUNA|Small wild relative of the alpaca|Andean camelid with exceptionally fine wool
+GUANACO|Wild South American relative of the llama|Wild camelid of southern South America
+DEER|Hoofed animal often seen with antlers|Ruminant of the family Cervidae
+MOOSE|Largest member of the deer family|Broad-antlered cervid called elk in Europe
+BISON|Shaggy grazer of the North American plains|Large bovine with a pronounced shoulder hump
+GAZELLE|Small antelope that runs swiftly|Slender grazer of African and Asian grasslands
+IMPALA|African antelope known for high leaps|Savanna bovid of the genus Aepyceros
+GNU|African antelope also called a wildebeest|Bearded grazer of the genus Connochaetes
+IBEX|Wild goat with long curved horns|Mountain caprine with ridged horns
+BADGER|Stocky burrowing mammal|Mustelid that lives in a sett
+OTTER|Aquatic mammal with a sleek body|Semiaquatic mustelid with dense insulating fur
+BEAVER|Rodent famous for building dams|Large semiaquatic rodent of the genus Castor
+RACCOON|Masked mammal with a ringed tail|Dexterous New World procyonid
+FOX|Small wild dog with a bushy tail|Vulpine canid
+WOLF|Wild canine that lives in packs|Canis lupus
+BEAR|Large mammal with thick fur and strong claws|Member of the family Ursidae
+PANDA|Black-and-white bear that eats bamboo|Bamboo specialist native to China
+RABBIT|Small mammal with long ears|Leporid whose young are born in a nest
+HARE|Long-legged relative of the rabbit|Leporid whose young are called leverets
+MOUSE|Small rodent with a long thin tail|Small murid often found near human dwellings
+RAT|Rodent larger than a typical house mouse|Rodent commonly placed in the genus Rattus
+HAMSTER|Small pet rodent with cheek pouches|Food-storing burrowing rodent
+GERBIL|Small desert rodent|Long-tailed rodent adapted to dry habitats
+SQUIRREL|Bushy-tailed tree rodent|Tree-dwelling sciurid that often caches nuts
+CHIPMUNK|Small striped rodent|Cheek-pouched ground squirrel
+HEDGEHOG|Small mammal with a spiny coat|Insectivore that curls into a defensive ball
+PORCUPINE|Rodent covered in sharp quills|Rodent protected by modified defensive hairs
+FERRET|Slender pet related to the polecat|Domesticated mustelid
+WEASEL|Small, long-bodied predator|Slender mustelid of the genus Mustela
+SKUNK|Mammal with a strong-smelling defensive spray|Member of the family Mephitidae
+TAPIR|Hoofed mammal with a short flexible snout|Odd-toed ungulate with a small proboscis
+HYRAX|Small mammal resembling a large guinea pig|Rock-dwelling relative of elephants and sirenians
+AARDVARK|African mammal that eats termites|Burrowing mammal whose name means earth pig
+AARDWOLF|Striped African mammal that eats termites|Small insect-eating member of the hyena family
+MONKEY|Primate usually having a long tail|Simiiform primate outside the ape group
+GIBBON|Small ape with very long arms|Brachiating ape of Southeast Asian forests
+BABOON|Large monkey with a doglike muzzle|Old World monkey of the genus Papio
+MANDRILL|Monkey with a brightly colored face|Largest living monkey species
+MARMOSET|Tiny South American monkey|Small claw-bearing New World primate
+TAMARIN|Small New World monkey|Callitrichid often recognized by whiskers or a mane
+TARSIER|Small primate with enormous eyes|Nocturnal haplorhine of Southeast Asia
+LORIS|Slow-moving primate of Asia|Nocturnal strepsirrhine with a deliberate gait
+GALAGO|Small African primate also called a bush baby|Leaping nocturnal strepsirrhine
+CROCODILE|Large reptile with armored skin|Aquatic predator of the family Crocodylidae
+ALLIGATOR|Broad-snouted relative of the crocodile|Crocodilian with a U-shaped snout
+CAIMAN|Tropical American relative of the alligator|New World crocodilian of Caimaninae
+LIZARD|Scaly reptile with a long tail|Squamate usually bearing four limbs
+GECKO|Small lizard with gripping toe pads|Often nocturnal lizard of the infraorder Gekkota
+IGUANA|Large plant-eating lizard|Crested lizard native to tropical America
+CHAMELEON|Lizard known for changing color|Lizard with turreted eyes and a projectile tongue
+SKINK|Smooth-scaled lizard|Lizard of the family Scincidae
+SNAKE|Long reptile without legs|Limbless squamate of the suborder Serpentes
+PYTHON|Large snake that squeezes its prey|Nonvenomous constrictor of Pythonidae
+COBRA|Snake known for spreading a neck hood|Elapid with expandable neck ribs
+BOA|Thick-bodied constricting snake|New World constrictor of the genus Boa
+TURTLE|Reptile with a protective shell|Shelled reptile of the order Testudines
+TORTOISE|Land-dwelling shelled reptile|Terrestrial turtle of the family Testudinidae
+FROG|Tailless amphibian that leaps|Adult anuran with powerful hind limbs
+TOAD|Usually squat, warty-skinned amphibian|Common name for many short-legged anurans
+NEWT|Small amphibian resembling a lizard|Semiaquatic salamander of Pleurodelinae
+SALAMANDER|Long-bodied amphibian with a tail|Amphibian of the order Caudata

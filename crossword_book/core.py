@@ -1,15 +1,22 @@
 """Fully checked blocked crosswords, filled with a bounded constraint solver."""
-from collections import deque
+from collections import deque, Counter
 from dataclasses import dataclass
 from functools import lru_cache
 from itertools import combinations
 import json
+import hashlib
 from pathlib import Path
 import random
 
 THEMES = ('dogs', 'cats', 'wildlife', 'animals', 'birds', 'fish')
 LEVELS = {'easy': (9, 3.5), 'normal': (11, 3.2), 'hard': (13, 2.8)}
 DATA = Path(__file__).parent / 'data'
+EDITIONS = ('standard', 'large-print')
+
+
+def grid_signature(grid):
+    return hashlib.sha256(json.dumps(grid,separators=(',',':')).encode()).hexdigest()
+
 
 
 @dataclass(frozen=True)
@@ -84,12 +91,14 @@ def make_pattern(size, rng):
 
 
 class Vocabulary:
-    def __init__(self, theme, level):
+    def __init__(self, theme, level, edition='standard'):
+        from .clues import fill_records
         self.themed = {e.answer:e for e in load_entries(theme)}
-        records = json.loads((DATA/'fill.json').read_text())['entries']
+        records = fill_records()
         floor = LEVELS[level][1]
         self.clues = {w:record[0] for w,record in records.items()
-                      if record[1] >= floor and (level!='easy' or record[2]>0)}
+                      if record[1] >= floor and (level!='easy' or record[2]>0)
+                      and (edition!='large-print' or len(record[0])<=52)}
         self.frequency = {w:record[1] for w,record in records.items() if w in self.clues}
         self.clues.update({w:e.easy for w,e in self.themed.items()})
         self.frequency.update({w:5.0 for w in self.themed})
@@ -110,12 +119,14 @@ class Vocabulary:
             self.theme_masks[length] = theme_mask
 
 
-@lru_cache(maxsize=18)
-def vocabulary(theme, level):
-    return Vocabulary(theme, level)
+@lru_cache(maxsize=36)
+def vocabulary(theme, level, edition='standard'):
+    return Vocabulary(theme, level, edition)
 
 
-def fill_pattern(pattern, vocab, rng, node_limit=200):
+def fill_pattern(pattern, vocab, rng, node_limit=200, word_usage=None, cancel=None, fresh_theme_preference=True):
+    from .errors import check_cancel
+    usage=word_usage or {}
     slots = slots_for(pattern)
     lengths = [len(cells) for _,cells in slots]
     if any(n<3 or not vocab.words.get(n) for n in lengths):
@@ -140,7 +151,13 @@ def fill_pattern(pattern, vocab, rng, node_limit=200):
                for i,j in pairs]
     anchor_a,anchor_b = rng.choices(pairs,weights=weights,k=1)[0]
     for i in (anchor_a,anchor_b):
-        domains[i] &= vocab.theme_masks[lengths[i]]
+        allowed=vocab.theme_masks[lengths[i]]
+        if usage and fresh_theme_preference and rng.random()<.8:
+            words=vocab.words[lengths[i]]
+            indices=[k for k,w in enumerate(words) if allowed & (1<<k)]
+            least=min(usage.get(words[k],0) for k in indices)
+            allowed=sum(1<<k for k in indices if usage.get(words[k],0)==least)
+        domains[i] &= allowed
 
     def propagate(ds, queue):
         while queue:
@@ -177,6 +194,7 @@ def fill_pattern(pattern, vocab, rng, node_limit=200):
 
     def search(ds):
         nonlocal nodes
+        check_cancel(cancel)
         nodes += 1
         if nodes > node_limit:
             return None
@@ -190,7 +208,9 @@ def fill_pattern(pattern, vocab, rng, node_limit=200):
             bits.append(bit)
             domain ^= bit
         # Prefer familiar fill while allowing reproducible variation.
-        scored = [(bit, rng.random()+1/(1+k*.06)) for k,bit in enumerate(bits)]
+        scored = [(bit, rng.random()+1/(1+k*.06)
+                   -4*usage.get(vocab.words[lengths[i]][bit.bit_length()-1],0))
+                  for k,bit in enumerate(bits)]
         scored.sort(key=lambda item:-item[1])
         for bit,_ in scored:
             child = ds[:]
@@ -210,17 +230,26 @@ def fill_pattern(pattern, vocab, rng, node_limit=200):
             for (direction,cells),domain in zip(slots,result)]
 
 
-def generate(theme, difficulty, rng):
-    if theme not in THEMES or difficulty not in LEVELS:
+def generate(theme, difficulty, rng, edition='standard', word_usage=None, cancel=None):
+    from .errors import check_cancel
+    if theme not in THEMES or difficulty not in LEVELS or edition not in EDITIONS:
         raise ValueError('Unknown theme or difficulty')
-    vocab = vocabulary(theme,difficulty)
-    size = LEVELS[difficulty][0]
+    vocab = vocabulary(theme,difficulty,edition)
+    size = 8 if edition=='large-print' else LEVELS[difficulty][0]
+    # A long series must still be fillable after common crossing words are used.
+    # Relax the preference after unsuccessful patterns; exact grids stay excluded.
+    relaxed_usage={w:.15*n/(1+n) for w,n in (word_usage or {}).items()}
     for attempt in range(1000):
+        check_cancel(cancel)
         pattern = make_pattern(size,rng)
         # Avoid long unfillable slots and overly blocked grids.
         if any(len(cells)>10 for _,cells in slots_for(pattern)):
             continue
-        fill = fill_pattern(pattern,vocab,rng)
+        if edition=='large-print' and len(slots_for(pattern))>28:
+            continue
+        fill = fill_pattern(pattern,vocab,rng,
+                            word_usage=word_usage if attempt<100 else relaxed_usage,
+                            cancel=cancel,fresh_theme_preference=attempt<100)
         if fill is None:
             continue
         grid = [['' for _ in range(size)] for _ in range(size)]
@@ -238,13 +267,15 @@ def generate(theme, difficulty, rng):
                 clue = vocab.clues[word]
             entries.append(dict(answer=word,clue=clue,row=cells[0][0],col=cells[0][1],
                                 direction=direction,number=numbers[cells[0]],themed=themed))
-        return dict(theme=theme,difficulty=difficulty,grid=grid,
+        return dict(theme=theme,difficulty=difficulty,edition=edition,grid=grid,
                     checked_fraction=1.0,theme_answer_count=sum(e['themed'] for e in entries),
                     entries=sorted(entries,key=lambda e:(e['number'],e['direction'])))
     raise RuntimeError(f'Cannot fill a dense {difficulty} {theme} grid after 1000 attempts; try another seed or expand the word banks')
 
 
-def make_book(count=50, mode='incremental', theme='dogs', seed=1, progress=None):
+def make_book(count=50, mode='incremental', theme='dogs', seed=1, progress=None,
+              edition='standard', avoid_repeats=True, prior_usage=None,
+              excluded_grids=None, excluded_titles=None, cancel=None):
     from .pdf import plan_puzzle, PageFitError
     if not isinstance(count,int) or count<1:
         raise ValueError('Puzzle count must be a positive integer')
@@ -254,28 +285,34 @@ def make_book(count=50, mode='incremental', theme='dogs', seed=1, progress=None)
         raise ValueError('Unknown difficulty mode')
     if theme not in THEMES:
         raise ValueError('Unknown theme')
-    rng, puzzles, seen = random.Random(seed), [], set()
+    if edition not in EDITIONS:
+        raise ValueError('Unknown edition')
+    usage=Counter(prior_usage or {})
+    rng, puzzles, seen = random.Random(seed), [], set(excluded_grids or ())
     for i in range(count):
         level = tuple(LEVELS)[min(2,i*3//count)] if mode=='incremental' else mode
         for _ in range(30):
-            puzzle = generate(theme,level,rng)
+            puzzle = generate(theme,level,rng,edition=edition,
+                              word_usage=usage if avoid_repeats else None,cancel=cancel)
             try:
                 plan_puzzle(puzzle)
             except PageFitError:
                 # Select another complete fill instead of adding a clue page or
                 # shrinking type below the print layout's minimum size.
                 continue
-            signature = tuple(tuple(row) for row in puzzle['grid'])
+            signature = grid_signature(puzzle['grid'])
             if signature not in seen:
                 seen.add(signature)
                 puzzle['number']=i+1
                 puzzles.append(puzzle)
+                usage.update(e['answer'] for e in puzzle['entries'])
                 if progress:
                     progress(i+1,count)
                 break
         else:
             raise RuntimeError('Could not generate a unique puzzle that fits one page; try another seed or shorter clues')
     from .puzzle_titles import assign_puzzle_titles
-    book=dict(seed=seed,mode=mode,theme=theme,themes=[theme],grid_style='fully_checked',puzzles=puzzles)
-    assign_puzzle_titles(book)
+    book=dict(seed=seed,mode=mode,theme=theme,themes=[theme],edition=edition,
+              avoid_repeats=avoid_repeats,grid_style='fully_checked',puzzles=puzzles)
+    assign_puzzle_titles(book,excluded_titles=excluded_titles)
     return book

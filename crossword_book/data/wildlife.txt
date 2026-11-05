@@ -22,3 +22,79 @@ HABITAT|Natural home of an animal|Ecological setting occupied by a species
 MIGRATION|Seasonal travel by animals|Regular movement between breeding and nonbreeding ranges
 NOCTURNAL|Active mainly at night|Having a chiefly dark-phase activity cycle
 CAMOUFLAGE|Coloring that helps an animal hide|Concealment through resemblance to surroundings
+DEER|Hoofed woodland animal that may grow antlers|Ruminant of the family Cervidae
+FAWN|A young deer|Juvenile cervid, often born with spots
+STAG|An adult male deer|Antlered male cervid
+DOE|A female deer|Female of several deer species
+CARIBOU|North American reindeer|Migratory deer of the genus Rangifer
+REINDEER|Northern deer associated with sleighs|Rangifer with antlered females as well as males
+GAZELLE|Small, swift antelope|Slender antelope of open grasslands
+IMPALA|African antelope known for leaping|Graceful antelope of the genus Aepyceros
+ANTELOPE|Swift, hoofed grazer|Bovid group distinct from cattle, sheep, and goats
+IBEX|Wild mountain goat with curved horns|Sure-footed caprine of the genus Capra
+CHAMOIS|Small goat-antelope of European mountains|Alpine bovid that gave a leather its name
+BOAR|A wild pig|Tusker of the species Sus scrofa
+WARTHOG|African wild pig with facial bumps|Savanna pig with prominent tusks and facial warts
+JACKAL|Wild canine of Africa and Asia|Small opportunistic canid of the Old World
+DINGO|Wild Australian dog|Free-ranging Australian canid
+DHOLE|Wild Asian dog that hunts in packs|Social canid of the genus Cuon
+COUGAR|Large American cat also called a puma|Big cat of the Americas outside the genus Panthera
+PUMA|Another name for a cougar|American cat also called a mountain lion
+OCELOT|Spotted wild cat of the Americas|Small rosette-marked feline of tropical America
+SERVAL|Long-legged African wild cat|Large-eared feline of the genus Leptailurus
+CARACAL|Wild cat with long black ear tufts|Tuft-eared feline of Africa and western Asia
+JAGUAR|Large spotted cat of the Americas|New World's largest living feline
+LEOPARD|Spotted cat often seen resting in trees|Rosette-marked Panthera pardus
+PANTHER|Name often used for a black leopard or jaguar|Melanistic big cat, familiarly
+RABBIT|Long-eared burrowing mammal|Leporid with young born in a sheltered nest
+PIKA|Small mountain mammal related to rabbits|Short-eared lagomorph that gathers haypiles
+VOLE|Small, stocky rodent|Short-tailed rodent of the subfamily Arvicolinae
+SHREW|Tiny, pointed-snouted mammal|Small insectivore with a high metabolic rate
+MOLE|Burrowing mammal with broad digging paws|Subterranean insectivore of the family Talpidae
+DORMOUSE|Small rodent famous for winter sleep|Hibernating rodent of the family Gliridae
+HAMSTER|Small rodent with cheek pouches|Burrowing rodent that stores food beside its jaws
+GERBIL|Desert rodent with a long tail|Dry-country rodent of the subfamily Gerbillinae
+LEMMING|Small Arctic rodent|Tundra rodent known for fluctuating populations
+MUSKRAT|Semiaquatic rodent of marshes|Ondatra zibethicus, a lodge-building rodent
+NUTRIA|Large semiaquatic rodent|South American coypu
+CAPYBARA|Largest living rodent|Semiaquatic grazer of the genus Hydrochoerus
+WOLVERINE|Stocky northern relative of the weasel|Powerful mustelid of the genus Gulo
+MARTEN|Tree-climbing member of the weasel family|Slender forest mustelid of the genus Martes
+FISHER|North American forest mustelid|Pekania pennanti, despite its aquatic-sounding name
+STOAT|Small weasel that may turn white in winter|Mustela erminea
+ERMINE|White winter coat of a stoat|Winter-white mustelid with a black tail tip
+POLECAT|Strong-smelling relative of the ferret|Mustelid related to the domestic ferret
+SKUNK|Mammal known for its defensive spray|Striped or spotted member of Mephitidae
+OPOSSUM|American marsupial that may play dead|New World marsupial with a prehensile tail
+BAT|Mammal capable of true flight|Member of the order Chiroptera
+FLYINGFOX|Large fruit-eating bat|Megabat of the genus Pteropus
+POSSUM|Tree-dwelling Australasian marsupial|Arboreal marsupial distinct from the American opossum
+WALLABY|Small relative of the kangaroo|Macropod smaller than a typical kangaroo
+DUGONG|Seagrass-eating marine mammal|Sirenian of the Indo-Pacific
+MANATEE|Large, gentle aquatic plant-eater|Sirenian also called a sea cow
+SEAL|Marine mammal with flippers|Pinniped without an external ear flap
+WALRUS|Arctic marine mammal with long tusks|Large pinniped with elongated upper canines
+DOLPHIN|Intelligent marine mammal with a beaklike snout|Toothed cetacean of the family Delphinidae
+PORPOISE|Small marine mammal related to dolphins|Blunt-snouted cetacean of Phocoenidae
+ORCA|Black-and-white whale also called a killer whale|Largest member of the dolphin family
+DEN|Shelter used by a wild mammal|Resting or breeding refuge of a carnivore
+BURROW|Tunnel home dug by an animal|Subterranean passage used as a refuge
+TRACKS|Footprints left by an animal|Impressions used to identify passing wildlife
+SPOOR|Signs left by a wild animal|Tracks and other evidence followed by a tracker
+FORAGE|Search for food|Seek naturally available food in a habitat
+GRAZE|Feed on grass|Crop low-growing vegetation
+BROWSE|Feed on leaves and twigs|Eat woody vegetation rather than ground-level grass
+RUT|Breeding season of deer|Seasonal mating period of many ungulates
+ANTLERS|Branching structures on a deer's head|Bony growths shed and regrown by cervids
+HERD|Group of grazing mammals|Social aggregation of ungulates
+SCAT|Droppings left by a wild animal|Fecal evidence used in wildlife tracking
+TUNDRA|Treeless Arctic habitat|Cold biome with permafrost and a short growing season
+TAIGA|Northern coniferous forest|Boreal forest biome
+MARSH|Wet habitat with reeds and grasses|Wetland dominated by herbaceous vegetation
+MEADOW|Open grassy habitat|Grassland often rich in flowering plants
+WOODLAND|Habitat dominated by trees|Tree-covered landscape with an open canopy
+SAVANNA|Grassland with scattered trees|Tropical grassy biome with a seasonal dry period
+ESTUARY|Place where river and sea water mix|Partly enclosed coastal zone of brackish water
+WETLAND|Habitat where soil stays waterlogged|Ecosystem shaped by prolonged saturation
+DIURNAL|Active during the day|Having a chiefly daylight activity cycle
+HIBERNATE|Enter a long winter rest|Undergo prolonged seasonal metabolic depression

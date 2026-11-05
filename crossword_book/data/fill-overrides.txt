@@ -1,199 +1,1385 @@
-# Editorially written familiar fill clues; used in preference to dictionary glosses.
+# Editorial crossword clues; loaded directly at runtime.
 AAA|Small battery size
 ABC|First three letters of the alphabet
+ABLE|Capable
 ABS|Stomach muscles, informally
+ACE|Playing card with a single symbol
+ACID|Opposite of a base, in chemistry
+ACRE|Unit of land area
+ACT|Perform on stage
+ACTOR|Stage or screen performer
+ACTS|Parts of a play
 ADA|Computing pioneer Lovelace's first name
+ADAPT|Adjust to new conditions
 ADD|Find the total of
+ADMIT|Confess or let enter
+ADORE|Love deeply
+ADULT|Grown-up
+ADVENTURE|Exciting or unusual experience
+AFAR|At a great distance
+AFTER|Later than
+AGAIN|One more time
+AGENT|Person acting for another
 AGO|Before now
+AGREE|Share the same opinion
+AID|Help
+AIM|Point toward a target
+AIR|What we breathe
+AISLE|Passage between rows of seats
+ALARM|Warning signal
+ALBUM|Collection of songs or photos
 ALE|A type of beer
+ALERT|Watchful and ready
 ALI|Boxing great Muhammad
+ALIEN|Visitor from another planet, in fiction
+ALIKE|Similar to one another
+ALIVE|Living
+ALL|The whole amount
+ALONE|Without company
+ALSO|In addition
 ALT|Keyboard key beside the space bar
+ALTER|Make a change to
+AMAZING|Causing great surprise
+AMBER|Golden fossil resin
+AMONG|In the midst of
+AMP|Guitar sound booster, briefly
+AMPLE|More than enough
+ANGEL|Heavenly messenger
+ANGER|Strong displeasure
+ANGLE|Space between two meeting lines
+ANKLE|Joint above the foot
+ANT|Small social insect
+ANTI|Opposed to
+ANY|Whichever one
+APART|Separated from one another
+APE|Tailless primate
+APEX|Highest point
+APPLE|Fruit used in cider
 APR|Month before May, briefly
+APRON|Protective garment worn while cooking
+APT|Well suited
+ARC|Part of a circle
+ARCH|Curved support above an opening
 ARE|Verb in "You ___ here"
+AREA|Amount of surface space
+ARGUE|Disagree in words
+ARISE|Get up or come into being
 ARK|Noah's boat
+ARM|Limb between shoulder and hand
+AROMA|Pleasant smell
+ARROW|Bow's projectile
+ART|Creative work
+ASH|Powder left after burning
+ASIA|Largest continent
+ASK|Pose a question
+ASLEEP|Not awake
+ASSET|Valuable possession
 ATE|Had a meal
+ATLAS|Collection of maps
+ATOM|Basic unit of a chemical element
+ATTIC|Room beneath a roof
+AUNT|Parent's sister
+AUTO|Car, informally
+AWAIT|Wait for
+AWARE|Conscious of
+AWAY|Not here
+AXE|Wood-chopping tool
+BABY|Very young child
+BACK|Opposite of front
+BAD|Not good
+BAG|Container with handles
+BAKE|Cook in an oven
+BAKER|Maker of bread and pastries
+BALD|Without hair on the head
+BALL|Round object used in many games
 BAM|Sound of a sudden impact
+BAND|Group of musicians
+BANK|Place to keep money
+BAR|Long rigid piece
+BARE|Uncovered
+BARN|Farm building for animals or crops
+BASE|Bottom support
+BASIC|Simple and fundamental
+BASS|Low-pitched musical voice
+BAT|Flying mammal
+BATH|Wash in a tub
+BAY|Curved inlet of the sea
+BEAD|Small pierced ornament
+BEAM|Ray of light
+BEAN|Seed used to make baked beans
+BEAR|Large mammal with strong claws
+BEAT|Steady rhythm
+BED|Place to sleep
+BEE|Honey-making insect
+BEEF|Meat from cattle
+BEEN|Past participle of be
+BEER|Drink made with malt and hops
+BELL|Ringing instrument
+BELT|Band worn around the waist
 BEN|Big ___, London's famous bell
+BEND|Make a curve in
+BEST|Better than all the rest
+BET|Wager
+BIAS|Unfair preference
+BIKE|Two-wheeled pedal vehicle
+BILL|Invoice or a bird's beak
+BIND|Tie together
+BIRD|Animal with feathers
+BITE|Use the teeth to cut
+BLADE|Cutting part of a knife
+BLANK|Not filled in
+BLEND|Mix smoothly
+BLESS|Give a benediction to
+BLIND|Unable to see
+BLOCK|Solid piece with flat sides
+BLOOM|Flower or blossom
+BLUE|Color of a clear daytime sky
+BOARD|Flat piece of timber
+BOAT|Small watercraft
 BOB|Move gently up and down
+BODY|Physical form
+BOLD|Brave and confident
+BOLT|Fastener with a threaded shaft
+BOND|Close connection
+BONE|Hard part of a skeleton
 BOO|Sound made to scare someone
+BOOK|Bound collection of pages
+BOOM|Deep, loud sound
+BOOT|Footwear covering the ankle
+BORN|Brought into the world
 BOT|Automated computer program, briefly
+BOTH|The two together
+BOW|Weapon used to shoot arrows
+BOX|Container with flat sides
+BOY|Young male child
 BRA|Supportive undergarment
+BRAIN|Organ inside the skull
+BRAVE|Showing courage
+BREAD|Loaf food made from dough
+BREAK|Split into pieces
+BREW|Make tea or beer
+BRICK|Rectangular building block
+BRIDE|Woman on her wedding day
+BRIEF|Short in duration
+BRING|Carry to this place
+BROAD|Wide
+BROWN|Color of chocolate
+BUD|Unopened flower
+BUILD|Construct
+BULB|Onionlike plant storage organ
+BUMP|Small raised area
 BUN|Small bread roll
+BURN|Be consumed by fire
+BUSH|Woody plant smaller than a tree
+BUSY|Having plenty to do
+BUT|On the other hand
 BUY|Purchase
 BYE|Informal farewell
+CAB|Taxi
+CABIN|Small wooden house
+CAGE|Enclosure made of bars
+CAKE|Sweet baked dessert
+CALM|Peaceful and untroubled
 CAM|Short for a camera
+CAMP|Place to stay in tents
+CAN|Be able to
+CAP|Close-fitting head covering
+CAPE|Sleeveless outer garment
+CAR|Road vehicle with four wheels
+CARD|Stiff piece of paper
+CARE|Concern for another's welfare
+CART|Wheeled carrier
+CASE|Protective container
+CASH|Money in notes and coins
+CAST|Actors in a production
+CAT|Pet that purrs
+CAVE|Natural hollow in rock
 CDC|U.S. public health agency, briefly
+CELL|Small room or basic unit of life
+CENT|One hundredth of a dollar
 CEO|Company's top executive, briefly
+CHAIN|Series of linked rings
+CHAIR|Seat for one person
+CHALK|Soft material used on a blackboard
+CHARM|Appealing personal quality
+CHASE|Run after
+CHAT|Informal conversation
+CHEAP|Low in price
+CHEER|Shout of encouragement
+CHESS|Board game with kings and queens
+CHEST|Box with a lid
+CHEW|Work food with the teeth
 CHI|Greek letter after phi
+CHIEF|Person in charge
+CHILD|Young person
+CHIN|Part of the face below the mouth
+CHIP|Small piece broken off
+CHOIR|Group of singers
+CITY|Large urban area
+CLAIM|Assert as true
+CLAP|Strike the palms together
+CLAY|Soft earth used in pottery
+CLEAN|Free from dirt
+CLEAR|Easy to see through
+CLERK|Office or shop worker
+CLIP|Small fastener for holding papers together
+CLOSE|Shut
+CLOUD|Visible mass of tiny drops in the sky
+CLUB|Group with a shared interest
+CLUE|Hint toward an answer
+COAL|Black fuel mined from the ground
+COAST|Land beside the sea
+COAT|Outer garment
 COD|Fish often served with chips
+COIN|Piece of metal money
 COL|Military rank below general, briefly
+COLD|Opposite of hot
+COME|Move toward this place
+COMFORT|Feeling of ease and well-being
+COOK|Prepare food with heat
+COOL|Moderately cold
+COP|Police officer, informally
+CORN|Crop grown on cobs
+COST|Price paid
+COUCH|Long seat for several people
+COUGH|Sudden expulsion of air from the lungs
+COUNT|Find the total number of
+COUNTRY|Nation
+COURT|Place where trials are held
+COVER|Put something over
 COW|Farm animal that moos
 COX|Steer a rowing crew
 CPU|Computer's main processor, briefly
+CRAB|Sideways-walking crustacean
+CRAFT|Skill in making things
+CRANE|Tall lifting machine or long-legged bird
+CRASH|Sudden collision
+CREAM|Rich upper layer of milk
+CREEK|Small stream
+CREST|Top of a hill or wave
+CREW|People working on a ship
+CROP|Plants grown for harvest
+CROSS|Go from one side to the other
+CROWD|Large gathering of people
+CROWN|Royal headwear
+CRY|Shed tears
+CUB|Young bear or lion
+CUBE|Solid with six square faces
 CUE|Signal to begin
+CUP|Small drinking vessel
+CURE|Remedy for an illness
+CURIOUS|Eager to find out more
+CURL|Form a curved or spiral shape
+CUT|Divide with a blade
+DAD|Father, informally
+DAILY|Happening every day
+DAIRY|Place where milk products are made
+DAMP|Slightly wet
+DANCE|Move rhythmically to music
+DARE|Have the courage to
+DARK|Without much light
+DART|Small pointed throwing missile
+DASH|Run quickly over a short distance
+DATE|Day, month, and year
+DAWN|First light of day
+DAY|Twenty-four hours
+DEAL|Distribute playing cards
+DEAR|Beloved
+DEBT|Money owed
+DECK|Floor of a ship
+DEEP|Far below the surface
+DEER|Hoofed mammal that may grow antlers
+DELAY|Make happen later
 DEN|A wild animal's shelter
+DENSE|Closely packed
+DESK|Work table with space for papers
+DEW|Morning drops on grass
+DIAL|Numbered face of a clock
+DICE|Small cubes used in games
+DID|Performed in the past
+DIET|Usual food and drink
 DIG|Make a hole in the ground
 DIM|Not brightly lit
+DINE|Eat a meal
 DIP|Lower briefly into liquid
+DIRT|Loose earth
+DISCOVERY|Something newly found
+DISH|Plate or bowl
+DIVE|Plunge headfirst into water
 DOC|Physician, informally
+DOCK|Landing place for boats
 DOE|A female deer
+DOES|Performs
+DOG|Pet that barks
+DOLL|Toy figure of a person
+DONE|Finished
+DOOR|Movable entrance panel
+DOT|Small round mark
+DOUBT|Feeling of uncertainty
+DOWN|Opposite of up
+DRAW|Make a picture with a pencil
+DREAM|Images experienced during sleep
+DRESS|One-piece garment
+DRIFT|Move with a current
+DRILL|Tool for boring holes
+DRINK|Swallow a liquid
+DRIVE|Operate a motor vehicle
+DROP|Small amount of liquid
+DRUM|Percussion instrument
 DRY|Without moisture
 DUB|Give a nickname to
+DUCK|Waterbird with a broad bill
 DUG|Made a hole in the ground
+DULL|Not sharp
+DUNE|Hill of windblown sand
 DUO|A group of two
+DUSK|Time just before night
+DUST|Fine dry particles
+DUTY|Task one is obliged to do
 DVD|Disc used to store movies
 DYE|Change the color of fabric
+EACH|Every one separately
+EAGER|Keenly interested
+EAR|Organ used to hear
+EARN|Receive through work
+EARTH|Our home planet
+EASE|Freedom from difficulty
+EAST|Direction of sunrise
+EASY|Not difficult
+ECHO|Reflected sound
+EDGE|Outer boundary
+EDIT|Revise written material
+EIGHT|Number after seven
+ELBOW|Joint halfway along the arm
+ELDER|Older of two people
 ELF|Small mythical being with pointed ears
+ELSE|Otherwise
+EMPTY|Containing nothing
+END|Final part
+ENJOY|Take pleasure in
+ENTER|Go inside
+ENTRY|Way into a place
+EON|An extremely long time
+EQUAL|The same in amount
+ERA|A period in history
+ERROR|Mistake
 ESP|Supposed sixth sense, briefly
+EVEN|Divisible by two
+EVENING|Time between afternoon and night
+EVENT|Something that happens
+EVER|At any time
+EVERY|All, without exception
+EXACT|Precisely correct
+EXAM|School test, briefly
+EXIST|Have being
+EXIT|Way out
+EXTRA|More than usual
+EYE|Organ used to see
+FACE|Front of the head
+FACT|Something known to be true
+FADE|Gradually lose color
+FAIR|Just and impartial
+FAITH|Trust or belief
+FALL|Move downward
+FAME|Widespread recognition
+FAN|Devoted admirer
+FAR|At a great distance
+FARE|Price of a journey
+FARM|Land used to grow crops or raise animals
+FAST|Moving quickly
+FAT|Body's energy-storing tissue
+FATE|Destiny
 FAX|Send a document over a phone line
 FBI|U.S. federal investigation agency, briefly
+FEAR|Feeling of alarm or dread
+FEAST|Large celebratory meal
 FED|Gave food to
+FEED|Give food to
+FEEL|Experience by touch
+FENCE|Boundary made of posts or panels
+FERRY|Boat carrying people across water
 FEW|Not many
+FIELD|Open area of land
+FIERCE|Intensely aggressive
+FILE|Organized collection of documents
+FILL|Make full
+FILM|Movie
 FIN|Fish's swimming appendage
+FINANCES|Money available to manage or spend
+FIND|Discover the location of
+FINE|Very good
+FIRE|Heat and flames from burning
+FIRM|Solid and steady
+FIRST|Before all the others
+FIT|Of the right size
+FIVE|Number after four
+FIX|Repair
+FLAG|Fabric symbol of a nation
+FLAME|Visible tongue of fire
+FLAT|Level and smooth
+FLEET|Group of ships
+FLESH|Soft tissue of an animal's body
+FLOAT|Rest on the surface of water
+FLOOD|Water covering normally dry land
+FLOOR|Surface walked on indoors
+FLOW|Move steadily like water
+FLY|Travel through the air
+FOAM|Mass of tiny bubbles
+FOG|Cloud close to the ground
+FOLD|Bend one part over another
+FOLK|People, collectively
+FOOD|Something to eat
+FOOL|Unwise person
+FOOT|Body part below the ankle
+FOR|Intended to benefit
+FORCE|Push or pull
+FOREST|Large area covered with trees
+FORK|Eating utensil with prongs
+FORM|Shape or outline
+FORT|Defended military building
+FOUND|Discovered
+FOUR|Number after three
+FRAME|Border around a picture
+FREE|Without cost
+FREEDOM|State of being free
+FRESH|Newly made or gathered
+FRIENDLY|Warm and welcoming
+FRONT|Opposite of back
+FROST|Thin coating of ice crystals
+FRUIT|Edible seed-bearing part of many plants
 FRY|Cook in hot oil
+FULL|Containing as much as possible
+FUN|Enjoyment
+FUND|Money set aside for a purpose
+FUR|Animal's coat of hair
+FUSE|Device that breaks an overloaded circuit
+GAME|Activity played for enjoyment
+GAMES|Activities played for fun
+GAP|Space between two things
+GARDEN|Place to grow flowers or vegetables
+GAS|Matter that expands to fill its container
+GATE|Movable barrier in a fence
+GAVE|Handed over in the past
+GAZE|Look steadily
 GDP|Measure of a nation's economic output, briefly
+GEAR|Toothed wheel in a machine
 GEL|Jellylike substance
+GEM|Precious stone
 GEN|Generation, briefly
+GENTLE|Mild and caring
+GET|Receive
+GIFT|Present
 GIN|Spirit flavored with juniper
+GIRL|Young female child
+GIVE|Hand over
+GLAD|Pleased
+GLASS|Transparent material used in windows
+GLOBE|Spherical model of Earth
+GLOW|Shine softly
+GLUE|Sticky joining substance
 GMT|Time standard named for Greenwich, briefly
+GOAL|Something one aims to achieve
+GOAT|Hoofed farm animal that may have a beard
+GOLD|Precious yellow metal
+GONE|No longer here
+GOOD|Of high quality
+GOT|Received
 GPA|Student's grade average, briefly
+GRAB|Take hold of suddenly
+GRADE|Mark given for schoolwork
+GRAIN|Seed of a cereal plant
+GRAND|Impressive and magnificent
+GRANT|Give formally
+GRAPE|Small fruit grown in bunches
+GRASS|Low green plant of lawns
+GRAVE|Burial place
+GREAT|Very good or very large
+GREEN|Color of healthy grass
+GREET|Welcome with words or a gesture
+GREW|Became larger
+GRID|Pattern of crossing lines
+GRIN|Broad smile
+GRIP|Firm hold
+GROW|Become larger
+GUARD|Protect from harm
+GUESS|Answer without being certain
+GUIDE|Show the way
+GULF|Large arm of the sea
+GUM|Chewy sweet
+GUST|Sudden strong burst of wind
+HABIT|Regularly repeated behavior
+HAD|Possessed in the past
+HAIR|Strands growing from skin
+HALF|One of two equal parts
+HALL|Large room or passage
+HAND|Body part at the end of the arm
+HANG|Suspend from above
+HAPPINESS|State of feeling joyful
+HAPPY|Feeling pleasure
+HARD|Difficult or firm
+HARM|Damage or injury
+HARP|Stringed instrument played by plucking
+HAS|Possesses
+HAT|Head covering
+HATE|Dislike intensely
+HAVE|Possess
+HAY|Dried grass used as animal feed
+HAZE|Light mist
+HEAD|Body part containing the brain
+HEAL|Become healthy again
+HEAP|Pile
+HEAR|Perceive a sound
+HEART|Blood-pumping organ
+HEAT|Warmth
+HEAVY|Weighing a lot
+HEDGE|Boundary formed by shrubs
+HELP|Give assistance
+HEN|Female chicken
+HERB|Plant used for flavoring
+HERD|Group of grazing animals
+HERE|In this place
+HERO|Person admired for brave deeds
+HIDE|Put out of sight
+HIGH|Far above the ground
+HILL|Raised area of land
+HINT|Clue or suggestion
+HIRE|Employ for payment
+HIT|Strike
+HIVE|Home of a bee colony
 HOG|A farm pig
+HOLD|Keep in one's grasp
+HOLE|Hollow opening
+HOLIDAY|Time away from work or school
+HOME|Place where one lives
+HONOR|Great respect
+HOOD|Head covering attached to a coat
+HOOK|Curved fastener
+HOPE|Wish with an expectation
+HORN|Pointed growth on an animal's head
+HOST|Person who welcomes guests
+HOT|Having a high temperature
+HOUR|Sixty minutes
+HOUSE|Building used as a home
+HOW|Question asking in what way
 HUG|Put your arms around warmly
+HUGE|Very large
 HUM|Sing with your lips closed
+HUMAN|Member of our species
+HUNT|Search for wild game
+HURRY|Move with haste
+HURT|Cause pain to
+HUT|Small simple shelter
+ICE|Frozen water
+IDEA|Thought or suggestion
+IDLE|Not active
 ILL|Not well
+IMAGE|Picture or likeness
 IMF|International Monetary Fund, briefly
+IMP|Mischievous little creature
 INC|Company suffix meaning incorporated
+INCH|One twelfth of a foot
+INDEX|Alphabetical list of topics
+INK|Liquid used in a pen
+INNER|Farther inside
+INPUT|What is put into a system
+IRE|Anger
+IRON|Metal used in steel
 IRS|U.S. tax agency, briefly
+ISLE|Small island
+ITEM|One thing in a list
+IVY|Climbing plant often seen on walls
+JAM|Fruit preserve
+JAR|Wide-mouthed storage container
+JAW|Bony framework holding the teeth
 JET|A fast passenger plane
+JEWEL|Precious stone set in an ornament
+JOB|Paid occupation
+JOIN|Bring together
+JOKE|Something said to amuse
+JOURNEY|Trip from one place to another
+JOY|Great happiness
+JUDGE|Official who presides in court
+JUMP|Spring off the ground
+JURY|Group deciding a court verdict
+JUST|Fair and right
+KEEP|Retain possession of
+KEY|Tool for opening a lock
+KID|Child, informally
 KIN|Family members
+KIND|Caring and generous
+KINDNESS|Considerate treatment of others
+KING|Male monarch
+KISS|Touch with the lips affectionately
+KITCHEN|Room where meals are prepared
+KITE|Flying toy held by a string
+KNEE|Joint between thigh and shin
+KNIFE|Cutting tool with a blade
+KNOT|Tied loop in rope
+KNOW|Be aware of a fact
+LACE|Delicate openwork fabric
+LACK|Absence of something needed
+LAD|Boy, informally
+LAKE|Large inland body of water
+LAMB|Young sheep
+LAMP|Device that gives light
 LAN|Computer network within a building, briefly
+LAND|Earth's solid surface
+LANE|Narrow road
+LARGE|Big in size
+LARK|Songbird known for singing in flight
+LAST|Coming after all others
+LATE|After the expected time
+LAUGH|Make sounds of amusement
+LAWN|Area of closely cut grass
 LAY|Put down flat
 LEA|A grassy meadow
+LEAD|Show the way
+LEAF|Flat green part of a plant
+LEAK|Let liquid escape through a hole
+LEAN|Without much fat
+LEARN|Gain knowledge
+LEAST|Smallest in amount
+LEAVE|Go away from
 LED|Guided the way
 LEE|Sheltered side away from the wind
+LEFT|Opposite of right
+LEG|Limb used for walking
+LEND|Give temporarily
+LESS|A smaller amount
 LET|Allow
+LEVEL|Flat and even
+LIBRARY|Place to borrow books
+LID|Cover for a container
+LIE|An untrue statement
+LIFE|State of being alive
+LIFT|Raise upward
+LIGHT|What makes things visible
+LIKE|Enjoy or find pleasant
+LIME|Small green citrus fruit
+LINE|Long narrow mark
+LINK|Connecting part
+LION|Big cat whose males have manes
+LIST|Series of items written in order
 LIT|Set a candle burning
+LIVE|Be alive
+LOAD|Amount carried
+LOAN|Money borrowed
+LOCK|Device that secures a door
+LOG|Cut length of tree trunk
+LONE|Without companions
+LONG|Extending a great distance
+LOOK|Direct one's eyes toward
+LOOP|Curved shape that closes on itself
+LOSE|Fail to keep or win
+LOSS|Opposite of gain
+LOST|Unable to find the way
+LOT|A large amount
+LOUD|Making much noise
+LOVE|Deep affection
 LOW|Near the ground
+LUCK|Good or bad fortune
+LUMP|Small solid mass
+LUNG|Breathing organ
 MAC|Apple computer, informally
+MAIL|Letters sent through the postal system
+MAIN|Most important
+MAKE|Create
+MALE|Opposite of female
+MAN|Adult male person
+MANY|A large number
+MAP|Drawing that shows roads and places
 MAR|Spoil the appearance of
+MARK|Visible sign or spot
+MASK|Covering worn over the face
+MASS|Large quantity
+MAT|Small floor covering
+MATE|Companion or partner
 MAX|Greatest amount, briefly
+MAY|Month after April
+MAZE|Network of confusing paths
 MBA|Graduate business degree, briefly
+MEAL|Food eaten at one sitting
+MEAN|Signify
+MEAT|Animal flesh used as food
 MED|___ school, where future doctors study
+MEET|Come together
 MEG|___ Ryan, star of "You've Got Mail"
+MELT|Become liquid through warmth
+MEND|Repair
+MENU|List of dishes offered
+MERE|Nothing more than
+MESS|Disorderly state
+MET|Came face to face with
 MIL|A million, informally
+MILD|Gentle or not strong
+MILE|Unit equal to 5,280 feet
+MILK|White drink produced by mammals
+MIND|Seat of thoughts
+MINE|Place where minerals are extracted
+MINT|Herb used in some teas
+MIST|Fine droplets suspended in the air
 MIT|Cambridge technology university, briefly
 MIX|Blend together
+MOAN|Low sound of pain or dismay
 MOD|Game modification, briefly
+MODE|Way of doing something
 MOM|Mother, informally
 MON|Day after Sunday, briefly
+MOON|Earth's natural satellite
+MORE|A greater amount
+MORNING|Time before noon
+MOST|Greatest in amount
+MOTH|Insect often attracted to lights
+MOUNTAIN|Very high natural rise in the land
+MOVE|Change position
 MRI|Hospital scan using a powerful magnet
 MRS|Married woman's title
+MUCH|A large amount
+MUD|Wet earth
 MUG|Large cup with a handle
+MULE|Hybrid of a horse and a donkey
 MUM|Mother, in Britain
+MUST|Have to
 MVP|Award for a game's top player, briefly
+MYSTERY|Something not yet explained
+NAIL|Small metal fastener
+NAME|Word used to identify someone
 NAP|A short sleep
+NARROW|Not wide
+NATURAL|Found in nature
+NAVY|Nation's sea-based military force
+NEAR|Close by
+NEAT|Tidy
+NECK|Body part joining head and shoulders
+NEED|Require
+NEO|Prefix meaning new
+NEST|Bird's egg-holding structure
+NET|Mesh used for catching
+NEW|Not old
+NEWS|Recent information
+NEXT|Immediately following
+NICE|Pleasant
+NIGHT|Time between sunset and sunrise
+NINE|Number after eight
+NODE|Connection point in a network
+NOISE|Sound, especially an unwanted one
+NONE|Not any
+NORTH|Direction opposite south
+NOSE|Organ used to smell
+NOTE|Short written message
+NOUN|Word naming a person, place, or thing
+NOW|At this moment
+NUN|Woman belonging to a religious order
+NUT|Hard-shelled edible seed
+OAK|Tree that produces acorns
+OAR|Blade used to row a boat
+OAT|Grain used in porridge
+OCEAN|Vast body of salt water
+ODD|Not divisible by two
 OFF|Opposite of on
+OFFER|Present for acceptance
+OFTEN|Frequently
+OIL|Slippery liquid used as fuel or lubricant
+OLD|Having existed for a long time
+ONCE|One time
+ONE|Number before two
+ONLY|No others besides
+ONTO|To a position upon
+OPEN|Not closed
+OPERA|Stage work combining drama and singing
 OPT|Choose
+ORBIT|Path around a planet or star
+ORDER|Organized arrangement
+OTHER|Different from the one mentioned
+OUR|Belonging to us
 OUT|Opposite of in
+OUTER|Farther from the center
+OVAL|Egg-shaped outline
+OVEN|Enclosed cooking appliance
+OVER|Above
+OWL|Bird of prey often active at night
+OWN|Possess
+OWNER|Person who possesses something
+PACE|Speed of movement
+PACK|Bundle or group of wild dogs
+PACT|Agreement between two sides
+PAGE|One side of a sheet in a book
+PAID|Settled a bill
+PAIN|Physical discomfort
+PAIR|Two matching things
 PAL|A close friend
+PALE|Light in color
+PALM|Inner surface of the hand
+PAN|Shallow cooking vessel
+PANEL|Flat rectangular section
+PAPER|Material used for writing
+PARK|Public green space
+PART|Piece of a whole
+PASS|Go past
+PAST|Time before the present
 PAT|Touch gently with a flat hand
+PATH|Track for walking
+PAUSE|Brief stop
+PAY|Give money owed
+PEA|Small green seed in a pod
+PEACE|Freedom from conflict
+PEAK|Top of a mountain
+PEAR|Fruit with a narrow top and rounded base
+PEAT|Partly decayed plant material used as fuel
+PEEL|Remove the skin from fruit
+PEER|Person of equal standing
+PEN|Tool used to write in ink
 PEP|Lively energy
 PHD|Research doctorate, briefly
 PHI|Greek letter before chi
+PICK|Select
+PICTURE|Drawing or photograph
+PIE|Baked dish with a pastry crust
+PIECE|Part of a whole
+PILE|Heap
+PILL|Small solid dose of medicine
+PIN|Slender pointed fastener
+PINE|Evergreen tree with needles
+PINK|Pale red
+PIPE|Tube for carrying liquid
+PIT|Deep hole
+PITCH|How high or low a sound is
+PITY|Sympathy for another's suffering
+PLACE|Location
+PLAIN|Simple or unadorned
+PLAN|Outline of intended actions
+PLANE|Aircraft with fixed wings
+PLANT|Living thing with roots and leaves
+PLATE|Flat dish for food
+PLAY|Take part in a game
+PLEAD|Make an earnest request
+PLOT|Story's sequence of events
+PLOW|Farm tool for turning soil
+PLUG|Stopper for a hole
+PLUS|Addition sign
 POD|A pea's container
 POE|Author of "The Raven"
+POEM|Piece of verse
+POET|Writer of verse
+POINT|Sharp end
+POLE|Long slender rod
+POND|Small body of still water
+POOL|Place to swim
+POOR|Having little money
+PORT|Harbor
+POSE|Position held for a photograph
+POST|Upright support
+POT|Deep cooking vessel
+POUND|Unit of weight equal to 16 ounces
+POWER|Ability to do work
+PRESS|Push firmly
+PRICE|Amount charged
+PRIDE|Feeling of satisfaction in an achievement
+PRIME|First in importance
+PRINT|Produce words or images on paper
+PRIZE|Reward for winning
+PROOF|Evidence that something is true
+PROUD|Feeling satisfaction in an achievement
 PUB|British drinking establishment
+PULL|Draw toward oneself
+PULSE|Rhythm felt from the heartbeat
+PUMP|Device that moves liquid
+PURE|Not mixed with other substances
+PUSH|Move away by applying force
 PUT|Place in a position
+QUEEN|Female monarch
+QUERY|Question
+QUICK|Fast
+QUIET|Making little noise
+QUILT|Padded stitched bedcover
+QUIT|Stop doing something
+QUITE|To a considerable extent
+RACE|Speed contest
+RACK|Frame for holding things
 RAD|Excellent, in slang
 RAF|Britain's Royal Air Force, briefly
+RAFT|Flat floating platform
+RAGE|Intense anger
+RAIL|Bar forming part of a fence
+RAIN|Water falling from clouds
+RAINBOW|Colored arc that may follow rain
+RAISE|Lift upward
+RAN|Moved faster than a walk
+RANGE|Span between limits
+RANK|Position in an order
+RARE|Not common
+RATE|Speed or frequency
 RAW|Not cooked
+RAY|Beam of light
+REACH|Stretch out toward
+READ|Understand written words
+READY|Prepared
+REAL|Actually existing
+REAR|Back part
+REED|Tall wetland grass
+REEL|Cylinder for winding line or film
 REF|Sports official, informally
+REIGN|Period of a monarch's rule
+RELAX|Become less tense
+RELY|Depend on
+RENT|Payment for temporary use
 REP|Sales representative, briefly
+REST|Pause from activity
 REV|Engine-turning unit, briefly
 REX|Latin word for king
 RIB|Bone protecting the chest
+RICE|Grain served with many meals
+RICH|Having great wealth
+RIDE|Travel on a horse or bicycle
+RIGHT|Opposite of left
+RIM|Outer edge
+RING|Circular band
 RIO|Brazilian city famous for Carnival
 RIP|Tear apart
+RISE|Move upward
+RISK|Possibility of loss or harm
+RITE|Ceremonial act
+ROAD|Route for vehicles
+ROAM|Wander freely
+ROAR|Loud cry of a lion
+ROBE|Loose outer garment
+ROCK|Solid natural mineral material
+ROD|Long thin bar
+ROLE|Part played by an actor
+ROLL|Turn over and over
 ROM|Read-only computer memory, briefly
+ROOF|Top covering of a building
+ROOM|Part of a building enclosed by walls
+ROOT|Underground part of a plant
+ROPE|Thick twisted cord
+ROSE|Flower often given as a gift
+ROUGH|Not smooth
+ROUND|Circular
+ROW|Line of seats
+ROYAL|Relating to a king or queen
 RUB|Move a cloth back and forth over
 RUE|Feel regret about
+RUG|Small floor covering
+RULE|Instruction governing behavior
 RUM|Spirit made from sugarcane
+RUN|Move faster than a walk
+RUSH|Move with haste
+RUST|Reddish coating on iron
 RYE|Grain used in some dark breads
 SAC|A small pouch
+SAD|Unhappy
+SAFE|Free from danger
+SAGE|Herb used in stuffing
+SAIL|Sheet that catches wind on a boat
+SAKE|For the benefit of
+SALE|Selling event or reduced-price offer
+SALT|Common seasoning
 SAM|Uncle ___, symbol of the United States
+SAME|Identical
+SAND|Fine grains on a beach
 SAP|Liquid flowing through a tree
 SAT|Took a seat
+SAVE|Keep for later or rescue
+SAW|Cutting tool with teeth
 SAY|Speak aloud
+SCALE|Set of musical notes
+SCAN|Look over quickly
+SCAR|Mark left by a healed wound
+SCENE|Part of a play or film
+SCENT|Smell or fragrance
+SCORE|Points earned in a game
+SEA|A large body of salt water
+SEAL|Marine mammal or a tight closure
+SEAM|Line joining two pieces of fabric
+SEAT|Place to sit
 SEE|Use your eyes
+SEED|Part from which a plant grows
+SEEK|Try to find
+SEEM|Appear to be
+SEEN|Viewed in the past
+SELF|One's own person
+SELL|Give in exchange for money
 SEN|Member of the U.S. upper house, briefly
+SEND|Cause to go to another place
+SENSE|Ability to perceive
+SENT|Dispatched in the past
 SEP|Month after August, briefly
+SERVE|Provide food or help
+SEVEN|Number after six
+SHADE|Shelter from direct sunlight
+SHAKE|Move rapidly back and forth
+SHALL|Word expressing a future action
+SHAME|Painful feeling of embarrassment
+SHAPE|Outline or form
+SHARE|Portion allotted to someone
+SHARP|Having a keen edge
+SHE|Pronoun for a female person
+SHEET|Thin flat piece of material
+SHELF|Flat support for storing things
+SHELL|Hard outer covering
+SHELTER|Protection from bad weather or danger
+SHIFT|Move to a new position
+SHINE|Give off light
+SHIP|Large seagoing vessel
+SHIRT|Upper-body garment
+SHOCK|Sudden unpleasant surprise
+SHOE|Foot covering
+SHOP|Place where goods are sold
+SHORE|Land beside water
+SHORT|Not long
+SHOW|Display
+SHUT|Close
 SHY|Timid around strangers
 SIC|Editor's word meaning "as written"
+SICK|Unwell
+SIDE|One surface of an object
+SIGHT|Ability to see
+SIGN|Visible symbol or notice
+SILK|Fine fiber made by silkworms
+SILLY|Foolish in a playful way
+SINCE|From that time until now
+SING|Make music with the voice
+SINK|Go below the surface
+SIR|Polite form of address for a man
+SIT|Take a seat
+SITE|Location of an event or building
+SIX|Number after five
+SIZE|How big something is
 SKI|Glide down a snowy slope
+SKIN|Body's outer covering
+SKIP|Miss out or jump lightly
+SKY|Space seen above the Earth
+SLATE|Rock used for roof tiles
+SLEEP|Rest with eyes closed
+SLICE|Thin piece cut from something
+SLIDE|Move smoothly along a surface
+SLOPE|Slanting surface
+SLOW|Not fast
+SMALL|Little in size
+SMART|Clever
+SMELL|Detect with the nose
+SMILE|Expression of happiness
+SMOKE|Cloud from burning material
+SNAKE|Legless reptile
+SNAP|Break with a sharp sound
+SNOW|Frozen flakes falling from clouds
+SOAK|Leave in liquid
+SOAP|Substance used for washing
+SOAR|Fly high with little effort
+SOCK|Garment worn on the foot
+SOFT|Gentle to touch
+SOIL|Earth in which plants grow
 SOL|Note between fa and la
+SOLD|Exchanged for money in the past
+SOLE|Bottom of a foot or shoe
+SOME|An unspecified amount
+SON|Male child of a parent
+SONG|Piece of music with words
+SOON|Before long
+SORT|Arrange by category
+SOUL|Spiritual part of a person
+SOUND|Something heard
+SOUR|Sharp-tasting like a lemon
+SOUTH|Direction opposite north
+SOW|Plant seeds
 SOY|Bean used to make tofu
 SPA|Place offering massages
+SPACE|Room between things
+SPARE|Extra and available
+SPEAK|Use words aloud
+SPEED|Rate of motion
+SPELL|Write a word's letters in order
+SPEND|Use money or time
+SPICE|Aromatic seasoning
+SPIN|Turn around rapidly
+SPITE|Desire to annoy or hurt
+SPLIT|Divide into parts
+SPOT|Small mark or location
+SPRAY|Fine drops sent through the air
+SPUR|Encourage into action
+STAGE|Platform for a performance
+STAIR|Single step in a staircase
+STAKE|Pointed post driven into the ground
+STAMP|Small label used to pay postage
+STAND|Be upright on one's feet
+STAR|Bright object in the night sky
+STARE|Look fixedly
+START|Begin
+STATE|Condition or a region of a country
+STAY|Remain in place
+STEAM|Water vapor
+STEEL|Strong alloy of iron
+STEEP|Rising at a sharp angle
+STEER|Guide a vehicle's direction
+STEM|Main stalk of a plant
+STEP|Movement of one foot in walking
+STICK|Thin piece of wood
+STILL|Not moving
+STING|Sharp prick from an insect
+STIR|Mix with a circular motion
+STOCK|Goods kept for sale
+STONE|Small piece of rock
+STOOD|Was upright on one's feet
+STOOL|Seat without a back
+STOP|Come to a halt
+STORE|Shop or a place to keep supplies
+STORM|Violent weather
+STORY|Account of events
+STOVE|Cooking appliance
+STRAP|Narrow strip used to fasten something
+STRAW|Dried cereal stalks
+STRIKING|Eye-catching
+STRIP|Long narrow piece
+STUDY|Spend time learning
+STUFF|Unspecified material or things
+STYLE|Distinctive manner
 SUE|Take someone to court
+SUGAR|Sweet substance added to drinks
+SUIT|Matching jacket and trousers
+SUM|Result of addition
+SUN|Star at the center of our solar system
+SUNSHINE|Light from the sun
+SUPER|Excellent, informally
+SURE|Certain
 SUV|Roomy sports utility vehicle, briefly
+SWAN|Large white waterbird
+SWEET|Sugary in taste
+SWELL|Grow larger
+SWIM|Move through water
+SWING|Move back and forth
+SYRIA|Country whose capital is Damascus
 TAB|Restaurant bill
+TABLE|Furniture with a flat top
 TAD|A small amount
+TAKE|Get hold of
+TALE|Story
+TALK|Speak with someone
+TALL|High in stature
+TAME|Accustomed to people
+TANK|Large container for liquid
+TAP|Touch lightly
+TAPE|Narrow adhesive strip
+TASK|Piece of work to be done
+TASTE|Sense used to detect flavor
+TAUGHT|Gave instruction in the past
+TAX|Money paid to support government
+TEA|Hot drink brewed from leaves
+TEACH|Give instruction
+TEACHER|Person who leads a classroom
+TEAM|Group working together
+TEAR|Drop from the eye
 TED|___ Lasso, TV soccer coach
+TEE|Small support for a golf ball
+TEETH|Hard structures used for biting
+TELL|Give information to
+TEN|Number after nine
+TEND|Look after
+TENT|Portable fabric shelter
+TERM|Word with a particular meaning
+TEST|Check of knowledge or performance
+TEXT|Written words
+THAN|Word used in comparisons
+THANK|Express gratitude to
+THAT|Word pointing to a particular thing
+THE|Definite article
+THEIR|Belonging to them
+THEM|Those people, as an object
+THEN|At that time
+THERE|In that place
+THESE|Plural of this
+THICK|Having considerable depth
+THIN|Not thick
+THING|Object
+THINK|Use the mind
+THIRD|Coming after second
+THIS|Word pointing to something nearby
+THOSE|Plural of that
+THREE|Number after two
+THREW|Sent through the air in the past
+THROW|Send through the air by hand
+THUS|As a result
+TICK|Repeated clock sound
+TIDE|Regular rise and fall of the sea
+TIDY|Neat and orderly
+TIE|Fasten with a knot
+TIGHT|Firmly fastened
+TILE|Flat piece used to cover a floor
+TIME|What clocks measure
+TIN|Metal often used to coat cans
+TINY|Very small
+TIP|Pointed end
+TIRE|Rubber covering around a wheel
+TITLE|Name of a book or puzzle
+TOAD|Squat, warty-skinned amphibian
+TOAST|Browned bread
+TODAY|The present day
+TOE|One of five digits on a foot
+TOLD|Gave information in the past
+TONE|Quality of a sound
+TOO|Also
+TOOK|Got hold of in the past
+TOOL|Device used for a task
+TOP|Highest part
+TOPIC|Subject of discussion
 TOR|A rocky hilltop
+TORCH|Portable flame or flashlight
+TOTAL|Complete amount
+TOUCH|Make physical contact
+TOUGH|Hard to break or deal with
+TOUR|Journey visiting several places
+TOW|Pull a vehicle along
+TOWN|Settlement smaller than a city
+TOY|An object for a child to play with
+TRACE|Small sign of something
+TRACK|Path or trail
+TRADE|Exchange goods
+TRAIL|Path through the countryside
+TRAIN|Connected railway carriages
+TRAP|Device for catching animals
+TRAY|Flat carrier with raised edges
+TREASURE|Something greatly valued
+TREAT|Something enjoyable or a reward
+TREE|Tall woody plant
+TRIAL|Formal court examination
+TRICK|Clever act or deception
+TRIED|Made an attempt in the past
+TRIM|Cut into a neat shape
+TRIP|Journey
+TRUE|Correct and factual
+TRUNK|Main stem of a tree
+TRUST|Firm belief in someone's reliability
+TRUTH|What is factual
+TRY|Make an attempt
+TUBE|Long hollow cylinder
+TUNE|Melody
+TURN|Change direction
+TWICE|Two times
+TWIN|One of two children born together
+TWO|Number after one
+TYPE|Kind or category
+UNCLE|Parent's brother
+UNDER|Below
+UNION|Joining together
+UNIT|Single part of a larger whole
+UNTIL|Up to a particular time
+UPON|On top of
+UPPER|Higher in position
+UPSET|Disturbed or unhappy
+URGE|Strongly encourage
 URL|Web address, briefly
+USE|Put to work
+USUAL|Normal or customary
 UTC|Coordinated Universal Time, briefly
+UTTER|Speak aloud
+VALUE|Worth
+VAN|Roomy road vehicle
+VARY|Change or differ
+VASE|Container for cut flowers
+VAST|Very large in extent
 VAT|A large liquid-holding tank
+VEIL|Thin face covering
+VEIN|Blood vessel returning blood to the heart
+VENT|Opening that lets air escape
+VERSE|Line or passage of poetry
+VERY|To a high degree
+VEST|Sleeveless garment
+VIA|By way of
+VIEW|Scene seen from a place
+VINE|Climbing plant
 VIP|Special guest, briefly
+VISIT|Go to see someone
+VOICE|Sound produced in speaking
+VOTE|Formal choice in an election
 VOW|A solemn promise
+WAGE|Pay for work
+WAIT|Remain until something happens
+WAKE|Stop sleeping
+WALK|Travel on foot
+WALL|Vertical side of a room
 WAN|Pale and tired-looking
+WANT|Desire
+WAR|Armed conflict
+WARM|Moderately hot
+WARN|Alert to danger
+WAS|Past tense of is
+WASH|Clean with water
+WASTE|Use carelessly
+WATCH|Look at attentively
+WATER|Liquid essential to life
+WAVE|Ridge moving across water
+WAY|Route or method
+WEAK|Not strong
+WEAR|Have clothing on
+WEATHER|Conditions outdoors
+WEAVE|Make fabric by interlacing threads
+WEB|Spider's woven trap
 WED|Get married
 WEE|Very small
+WEEK|Seven days
+WELL|In good health
+WENT|Traveled in the past
+WERE|Past tense of are
+WEST|Direction of sunset
+WET|Covered with water
+WHALE|Large marine mammal
+WHAT|Question asking which thing
+WHEEL|Circular part that turns on an axle
+WHEN|Question asking at what time
+WHERE|Question asking in what place
+WHICH|Question asking for a choice
+WHILE|During the time that
+WHITE|Color of fresh snow
+WHO|Question asking which person
+WHOLE|Complete
+WHOSE|Belonging to whom
 WHY|Question asking for a reason
+WIDE|Broad from side to side
+WIFE|Married woman
+WILD|Not domesticated
+WILDLIFE|Animals living in their natural habitats
+WILL|Determination to act
+WIN|Be victorious
+WIND|Moving air
+WINE|Drink made from fermented grapes
+WING|Bird's flight limb
+WIRE|Thin strand of metal
+WISE|Showing good judgment
+WISH|Hope for something
+WITH|Accompanied by
+WOLF|Wild canine that lives in packs
+WOMAN|Adult female person
 WON|Came first in a contest
+WONDER|Feeling of amazement
+WOOD|Hard material from trees
+WOOL|Fiber from a sheep's coat
+WORD|Unit of language
+WORK|Activity requiring effort
+WORLD|The Earth and its inhabitants
+WORM|Long soft-bodied invertebrate
+WORN|Having been used a lot
+WORRY|Feel anxious
+WORSE|Less good
+WORST|Least good
+WORTH|Value
+WOULD|Past tense of will
+WOUND|Injury to body tissue
 WOW|Exclamation of amazement
+WRAP|Cover by folding material around
+WRITE|Form words on a page
+WRONG|Not correct
+YARD|Unit of length equal to three feet
+YARN|Thread used for knitting
 YAY|Cheer of delight
 YEA|An affirmative vote
+YEAR|Twelve months
+YELL|Shout loudly
+YES|Affirmative reply
+YET|Up to now
+YOU|Person being addressed
+YOUNG|Not old
+YOUR|Belonging to you
+YOUTH|Time of being young
+ZERO|Nothing, numerically
 ZIP|Fasten a jacket
-HAS|Possesses
-HAD|Possessed in the past
-WAS|Past tense of is
-DID|Performed in the past
-DOES|Performs
-GET|Receive
-GOT|Received
-MET|Came face to face with
-SIT|Take a seat
-RUN|Move faster than a walk
-RAN|Moved faster than a walk
-SAW|Cutting tool with teeth
-LIE|An untrue statement
-USE|Put to work
-VIA|By way of
-ERA|A period in history
-EON|An extremely long time
-IRE|Anger
-TEE|Small support for a golf ball
-SEA|A large body of salt water
-TEA|Hot drink brewed from leaves
-ACE|Playing card with a single symbol
-TOE|One of five digits on a foot
-EAR|Organ used to hear
-EYE|Organ used to see
-ARM|Limb between shoulder and hand
-LEG|Limb used for walking
-PEN|Tool used to write in ink
-INK|Liquid used in a pen
-ICE|Frozen water
-NUN|Woman belonging to a religious order
-MAP|Drawing that shows roads and places
-ACT|Perform on stage
-TOY|An object for a child to play with
-BASS|Low-pitched musical voice
-NOUN|Word naming a person, place, or thing
-SYRIA|Country whose capital is Damascus
-ASIA|Largest continent
-ANTI|Opposed to
-CLIP|Small fastener for holding papers together
-PACT|Agreement between two sides
-KISS|Touch with the lips affectionately
-SHOE|Footwear that covers the foot
-GAMES|Activities played for fun
+ZONE|Area with a particular use
+ZOOM|Move very quickly

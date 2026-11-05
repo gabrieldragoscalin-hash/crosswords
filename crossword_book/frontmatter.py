@@ -71,11 +71,14 @@ def paragraph(c,text,x,top,width,size=12,leading=None,font='Book',align=0,max_he
 
 def title_page(c,book,title,draw_grid):
     publisher,_=publication_details(book)
+    large=book.get('edition')=='large-print'
     frame(c)
     for x in (226,266,306,346,386): motif(c,book['theme'],x,690,17)
     c.setFillGray(0)
     c.setFont('BookBold',8)
-    c.drawCentredString(306,654,'T H E M E D   C R O S S W O R D   C O L L E C T I O N')
+    c.drawCentredString(306,654,'L A R G E   P R I N T   E D I T I O N' if large else 'T H E M E D   C R O S S W O R D   C O L L E C T I O N')
+    if book.get('volume'):
+        c.setFont('BookBold',10); c.drawCentredString(306,634,f"VOLUME {book['volume']}")
     for size in (42,38,34,30,26):
         try:
             paragraph(c,escape(title.upper()),86,621,440,size=size,leading=size*1.12,
@@ -84,10 +87,12 @@ def title_page(c,book,title,draw_grid):
         except ValueError:
             if size==26: raise
     c.setLineWidth(.8)
-    c.line(110,463,284,463); c.line(328,463,502,463)
-    motif(c,book['theme'],306,463,15)
+    divider=480 if large else 463
+    c.line(110,divider,284,divider); c.line(328,divider,502,divider)
+    motif(c,book['theme'],306,divider,15)
     subtitle=book.get('subtitle') or SUBTITLES[book['theme']]
-    paragraph(c,escape(subtitle),96,441,420,size=12.5,font='BookItalic',align=1,max_height=44)
+    paragraph(c,escape(subtitle),86 if large else 96,455 if large else 441,440 if large else 420,
+              size=16 if large else 12.5,leading=20 if large else None,font='BookItalic',align=1,max_height=40 if large else 44)
     c.setLineWidth(1)
     c.roundRect(206,217,200,190,10,stroke=1,fill=0)
     puzzle=book['puzzles'][0]
@@ -99,7 +104,7 @@ def title_page(c,book,title,draw_grid):
     mode='EASY TO HARD' if book['mode']=='incremental' else ('MEDIUM' if book['mode']=='normal' else book['mode'].upper())
     badge=f'{count} {"PUZZLE" if count == 1 else "PUZZLES"}  |  {mode}  |  SOLUTIONS INCLUDED'
     c.roundRect(133,168,346,29,14,stroke=1,fill=0)
-    c.setFont('BookBold',8.3)
+    c.setFont('BookBold',10 if large else 8.3)
     c.drawCentredString(306,178,badge)
     c.line(221,117,391,117)
     paragraph(c,escape(publisher.upper()),86,103,440,size=17,leading=20,
@@ -114,6 +119,7 @@ def copyright_page(c,book):
         f'Copyright © {year} {name}. All rights reserved in the original book design, editorial content, and compilation.',
         'No part of the original material may be reproduced, distributed, or transmitted without the publisher’s prior written permission, except for personal use of the puzzles by the purchaser or as permitted by law.',
         'Third-party dictionary material is used under its respective licenses. Attribution and license notices appear in Dictionary Credits at the back of this book. Those licenses govern that material.',
+        *([f"Series: {escape(book['series'])}. Volume {book['volume']}."] if book.get('series') else []),
         'First edition.',
     ]
     for text in texts:
@@ -121,21 +127,23 @@ def copyright_page(c,book):
 
 
 def how_to_page(c,book,footer):
+    large=book.get('edition')=='large-print'
+    size,leading=(16,23) if large else (11.5,17)
     c.setFont('BookBold',25); c.drawCentredString(306,716,'HOW TO PLAY')
-    top=paragraph(c,'A little curiosity and a few crossing letters can go a long way.',
-                  66,666,480,size=12,leading=18)-23
+    top=paragraph(c,'Use the clues and crossing letters to complete each grid.',
+                  66,666,480,size=size,leading=leading)-22
     steps=[
-        ('Follow the numbers.', 'Match a clue’s number to the small number in the grid. Across answers read left to right; Down answers read top to bottom.'),
-        ('One square, one letter.', 'Write in the white and shaded squares. Leave black squares empty. Answers have no spaces or punctuation.'),
-        ('Let the crossings help.', 'Every letter belongs to both an Across answer and a Down answer. Use letters you already know to solve another clue.'),
-        ('Spot the theme answers.', 'Light gray squares belong to answers about this book’s theme. Their clues begin with an asterisk (*). Other answers provide general English crossing words.'),
-        ('Check the answer length.', 'The number in parentheses after each clue tells you how many letters to write. If you get stuck, try another clue and come back later.'),
+        ('Follow the numbers.', 'Match each clue to its grid number. Across reads left to right; Down reads top to bottom.'),
+        ('One square, one letter.', 'Write in white and shaded squares. Leave black squares empty. Omit spaces and punctuation.'),
+        ('Use the crossings.', 'Each letter belongs to two answers. A letter you know can help you solve another clue.'),
+        ('Spot the theme.', 'Gray squares mark theme answers; their clues start with *. Other answers are general crossing words.'),
+        ('Check the length.', 'The number in parentheses is the answer length. If stuck, skip a clue and return later.'),
     ]
     for i,(heading,body) in enumerate(steps,1):
-        top=paragraph(c,f'<b>{i}. {heading}</b> {body}',66,top,480,size=11.5,leading=17)-17
+        top=paragraph(c,f'<b>{i}. {heading}</b> {body}',66,top,480,size=size,leading=leading)-16
     solution_page=len(book['puzzles'])+4
     paragraph(c,f'<b>Need a hand?</b> Solutions begin on page {solution_page}.',
-              66,top-7,480,size=12,leading=18)
+              66,top-7,480,size=size,leading=leading)
     footer('How to Play')
 
 
@@ -147,6 +155,7 @@ def opening_pages(c,book,title,draw_grid,footer):
 
 def thank_you_page(c,book,footer):
     publisher,_=publication_details(book)
+    large=book.get('edition')=='large-print'
     frame(c)
     for x in (266,306,346): motif(c,book['theme'],x,662,21)
     c.setFont('BookBold',34); c.drawCentredString(306,598,'THANK YOU')
@@ -154,11 +163,11 @@ def thank_you_page(c,book,footer):
     top=paragraph(c,f'Thank you for choosing <b>{escape(publisher)}</b>.',
                   96,530,420,size=15,leading=22,align=1)-26
     top=paragraph(c,'We hope these crosswords brought you a few discoveries, satisfying answers, and plenty of enjoyable puzzle time.',
-                  106,top,400,size=13,leading=21,align=1)-31
+                  106,top,400,size=16 if large else 13,leading=23 if large else 21,align=1)-31
     top=paragraph(c,'Keep your curiosity sharp.<br/>There is always another clue to explore.',
-                  106,top,400,size=13,leading=21,font='BookItalic',align=1)-40
+                  106,top,400,size=16 if large else 13,leading=23 if large else 21,font='BookItalic',align=1)-40
     paragraph(c,'If you enjoyed this book, an honest review can help other puzzle lovers discover it.',
-              116,top,380,size=11,leading=18,align=1)
+              116,top,380,size=16 if large else 11,leading=23 if large else 18,align=1)
     c.setLineWidth(.8); c.line(221,143,391,143)
     paragraph(c,escape(publisher.upper()),86,126,440,size=17,leading=20,
               font='BookBold',align=1,max_height=40)

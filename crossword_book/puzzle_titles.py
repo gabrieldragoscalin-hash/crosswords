@@ -41,12 +41,13 @@ def titles_for(theme, count, seed):
     return result
 
 
-def assign_puzzle_titles(book):
+def assign_puzzle_titles(book, excluded_titles=None):
     """Also upgrade saved books; preserve existing user-edited titles."""
     existing=[p['title'] for p in book['puzzles'] if p.get('title')]
     used={title.casefold() for title in existing}
     if len(used)!=len(existing):
         raise ValueError('Puzzle titles must be unique within a book')
+    used.update(title.casefold() for title in (excluded_titles or ()))
     candidates=iter(titles_for(book['theme'],len(book['puzzles'])+len(used),book.get('seed',1)))
     for puzzle in book['puzzles']:
         if not puzzle.get('title'):

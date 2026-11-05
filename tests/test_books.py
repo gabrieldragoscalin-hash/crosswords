@@ -17,7 +17,7 @@ from crossword_book.puzzle_titles import titles_for, assign_puzzle_titles
 class CrosswordTests(unittest.TestCase):
     def assert_valid(self,puzzle):
         grid,entries = puzzle['grid'],puzzle['entries']
-        size = LEVELS[puzzle['difficulty']][0]
+        size = 8 if puzzle.get('edition')=='large-print' else LEVELS[puzzle['difficulty']][0]
         self.assertEqual(len(grid),size)
         self.assertTrue(all(len(row)==size for row in grid))
         pattern = [''.join('.' if c else '#' for c in row) for row in grid]

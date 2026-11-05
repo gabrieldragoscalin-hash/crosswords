@@ -22,3 +22,80 @@ TOUCAN|Tropical bird with a very large bill|Neotropical member of Ramphastidae
 KINGFISHER|Bird that dives to catch fish|Diving specialist of the family Alcedinidae
 WOODPECKER|Bird that taps on tree trunks|Tree-drilling member of Picidae
 NIGHTINGALE|Small bird famous for its beautiful song|Luscinia megarhynchos
+ALBATROSS|Large ocean bird with long wings|Soaring seabird of the family Diomedeidae
+AVOCET|Wading bird with an upturned bill|Long-legged shorebird of the genus Recurvirostra
+BITTERN|Heron relative known for a booming call|Camouflaged marsh bird of the family Ardeidae
+BLACKBIRD|Songbird whose males are often black|Common name for Turdus merula and some icterids
+BLUEBIRD|Small North American songbird|Thrush of the genus Sialia
+BUNTING|Small seed-eating songbird|Passerine name shared by emberizids and some cardinalids
+BUZZARD|Broad-winged bird of prey|Raptor commonly placed in the genus Buteo
+CANARY|Small yellow songbird often kept as a pet|Domesticated finch named for Atlantic islands
+CARDINAL|North American bird with a red crested male|Crested songbird of the genus Cardinalis
+CHICKADEE|Small bird named for its call|North American tit of the genus Poecile
+CONDOR|Very large New World vulture|Soaring scavenger with Andean and Californian species
+COOT|Dark waterbird with a pale bill|Rail of the genus Fulica
+CORMORANT|Dark diving bird that catches fish|Fish-eating seabird often seen drying its wings
+CUCKOO|Bird whose call sounds like its name|Bird family including many brood parasites
+CURLEW|Shorebird with a long downcurved bill|Wader of the genus Numenius
+DOVE|Bird often used as a symbol of peace|Member of the pigeon family Columbidae
+DUCK|Waterbird with a broad flat bill|Short-necked member of the family Anatidae
+FINCH|Small bird with a seed-cracking beak|Seed-eating passerine of Fringillidae
+FLAMINGO|Pink wading bird with long legs|Filter-feeding bird with a bent bill
+GANNET|Large seabird that dives from the air|Plunge-diving member of the genus Morus
+GOOSE|Large waterbird related to ducks|Long-necked member of the family Anatidae
+GOLDFINCH|Small finch with bright yellow markings|Seed-eating finch associated with thistles
+GROUSE|Plump game bird of northern habitats|Ground-dwelling galliform with feathered nostrils
+GULL|Common coastal bird|Seabird of the family Laridae
+HAWK|Sharp-eyed daytime bird of prey|Raptor name applied especially to accipitrids
+HOOPOE|Crested bird with a long curved bill|Upupa epops, named for its repeated call
+HUMMINGBIRD|Tiny bird that hovers near flowers|Nectar-feeding bird of the family Trochilidae
+IBIS|Wading bird with a long curved bill|Wader sacred in ancient Egypt
+JACKDAW|Small crow with a pale nape|Eurasian corvid often nesting in buildings
+JAY|Often colorful member of the crow family|Corvid name associated with acorn caching
+KESTREL|Small falcon that may hover while hunting|Falcon commonly seen watching roadside grass
+KITE|Bird of prey with a forked tail in some species|Raptor name shared by Milvus and several other genera
+LAPWING|Crested wading bird of fields and wetlands|Shorebird of the subfamily Vanellinae
+LARK|Small bird famous for singing in flight|Ground-nesting passerine of Alaudidae
+LOON|Diving waterbird with a haunting call|Northern waterbird of the genus Gavia
+MAGPIE|Long-tailed bird often colored black and white|Corvid famed in folklore for collecting shiny objects
+MALLARD|Common duck with a green-headed male|Anas platyrhynchos
+MARTIN|Swallow relative that catches flying insects|Aerial insectivore often nesting in colonies
+MERLIN|Small, fast falcon|Falco columbarius
+MOORHEN|Dark wetland bird with a red frontal shield|Rail of the genus Gallinula
+NUTHATCH|Small bird that climbs headfirst down trunks|Tree-climbing passerine of the genus Sitta
+ORIOLE|Songbird often colored yellow or orange|Bird name shared by Old World oriolids and some icterids
+PARAKEET|Small or medium parrot with a long tail|Long-tailed parrot, broadly speaking
+PARTRIDGE|Plump, ground-dwelling game bird|Galliform often associated with farmland
+PEACOCK|Male bird with a showy fan of tail feathers|Male peafowl with an elongated train
+PEREGRINE|Falcon famous for its fast diving attacks|Falco peregrinus
+PHEASANT|Long-tailed game bird|Galliform of the family Phasianidae
+PIGEON|Common city bird related to doves|Columbid descended in many cities from the rock dove
+PLOVER|Small shorebird with a short bill|Wader of the subfamily Charadriinae
+QUAIL|Small, plump game bird|Ground-dwelling galliform with Old and New World groups
+RAVEN|Large black member of the crow family|Corvid associated with the genus Corvus
+REDSTART|Small songbird often showing a reddish tail|Flycatcher or warbler name meaning red tail
+ROOK|Black crow relative with a bare face|Eurasian corvid with pale skin around its bill
+SANDPIPER|Small wading bird of shores and mudflats|Shorebird of the family Scolopacidae
+SISKIN|Small finch with yellow-green markings|Finch often placed in the genus Spinus
+SKYLARK|Songbird that sings while hovering high above fields|Alauda arvensis
+SNIPE|Marsh bird with a long straight bill|Cryptically patterned wader of wet ground
+STARLING|Glossy, speckled songbird|Passerine of the family Sturnidae
+SWAN|Large waterbird with a long curved neck|Graceful member of the genus Cygnus
+TERN|Slender seabird with pointed wings|Often plunge-diving member of the subfamily Sterninae
+THRUSH|Songbird often known for a rich voice|Passerine of the family Turdidae
+TIT|Small active songbird|Member of the family Paridae
+WARBLER|Small songbird often heard in spring|Name shared by several insect-eating passerine families
+WAXWING|Crested bird with red waxlike wing tips|Fruit-eating passerine of the genus Bombycilla
+WHEATEAR|Small ground-feeding bird with a white rump|Chat of the genus Oenanthe
+WREN|Small songbird that often cocks its tail|Passerine of the family Troglodytidae
+FEATHER|Light structure covering a bird's body|Keratinous structure unique to birds
+BEAK|A bird's hard mouthparts|Avian bill
+WING|Body part used by a bird for flight|Avian forelimb modified for aerial movement
+NEST|Structure where a bird lays eggs|Avian breeding site built to hold eggs or young
+EGG|Shell-covered structure from which a chick hatches|Avian reproductive structure incubated before hatching
+FLEDGLING|Young bird just learning to fly|Juvenile that has recently left the nest
+PLUMAGE|A bird's coat of feathers|Collective term for avian feathers
+MOLT|Shed old feathers and grow new ones|Renew avian plumage
+ROOST|Place where birds settle to rest|Communal or solitary avian resting site
+FLOCK|Group of birds together|Social aggregation of avians
+MIGRATE|Travel between seasonal homes|Move between breeding and nonbreeding ranges

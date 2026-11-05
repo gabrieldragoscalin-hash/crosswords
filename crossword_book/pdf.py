@@ -35,7 +35,7 @@ def register_fonts():
         pdfmetrics.registerFontFamily('Book',normal='Book',bold='BookBold',italic='BookItalic')
 
 
-def draw_grid(c,puzzle,x,top,cell,solution=False):
+def draw_grid(c,puzzle,x,top,cell,solution=False,large_print=False):
     numbers = {(p['row'],p['col']):p['number'] for p in puzzle['entries']}
     highlighted = theme_cells(puzzle)
     c.setLineWidth(.5)
@@ -48,7 +48,7 @@ def draw_grid(c,puzzle,x,top,cell,solution=False):
             if char:
                 c.setFillGray(0)
                 if not solution and (r,col) in numbers:
-                    c.setFont('Book',max(4,cell*.26))
+                    c.setFont('Book',max(9 if large_print else 4,cell*.26))
                     c.drawString(px+1.2,py+cell*.7,str(numbers[r,col]))
                 if solution:
                     c.setFont('Book',cell*.63)
@@ -78,13 +78,15 @@ def plan_puzzle(puzzle):
             text = f"<b>{marker}{entry['number']}.</b> {escape(entry['clue'])} ({len(entry['answer'])})"
             blocks.append((direction, False, text))
     size = len(puzzle['grid'])
-    for font_size in (10, 9.5, 9, 8.5):
-        body = ParagraphStyle('clue', fontName='Book', fontSize=font_size, leading=font_size*1.12)
+    large=puzzle.get('edition')=='large-print'
+    for font_size in ((17,16) if large else (10,9.5,9,8.5)):
+        body = ParagraphStyle('clue', fontName='Book', fontSize=font_size, leading=font_size*(1.18 if large else 1.12))
         heading = ParagraphStyle('direction', fontName='BookBold', fontSize=font_size+1,
                                  leading=font_size+3)
-        for desired_grid in (330, 312, 294, 276, 258, 240):
-            side = min(desired_grid, size*32)
-            regions = [(42,714,164), (224,714-side-16,164), (406,714-side-16,164)]
+        for desired_grid in ((264,248,232,224) if large else (330,312,294,276,258,240)):
+            side = min(desired_grid, size*(40 if large else 32))
+            regions = ([(42,714,228),(288,714-side-16,282)] if large else
+                       [(42,714,164),(224,714-side-16,164),(406,714-side-16,164)])
             drawn, index = [], 0
             for x, top, width in regions:
                 y = top
@@ -110,7 +112,7 @@ def plan_puzzle(puzzle):
                     y -= gap
                     index += 1
                 if index == len(blocks):
-                    return dict(grid_x=397-side/2,grid_top=714,cell=side/size,
+                    return dict(grid_x=(429 if large else 397)-side/2,grid_top=714,cell=side/size,
                                 font_size=font_size,clues=drawn)
     raise PageFitError('Clues cannot fit on one page at a readable size; shorten the clues or generate another grid')
 
@@ -124,44 +126,57 @@ def fitted_heading(c,text,x,y,width,size,minimum):
     c.drawString(x,y,text)
 
 
-def write_pdf(book,path,title):
+def write_pdf(book,path,title,cancel=None):
+    from .errors import check_cancel
+    check_cancel(cancel)
     register_fonts()
     assign_puzzle_titles(book)
+    large=book.get('edition')=='large-print'
+    if large and any(p.get('edition')!='large-print' for p in book['puzzles']):
+        raise ValueError('Large-print books require large-print grids; generate a new large-print book')
     c = canvas.Canvas(str(path),pagesize=letter,invariant=1)
     c.setTitle(title)
     c.setAuthor(publication_details(book)[0])
 
     def footer(text):
         c.setFillColorRGB(0,0,0)
-        c.setFont('Book',8)
+        c.setFont('Book',10 if large else 8)
         c.drawCentredString(306,30,text)
         c.drawRightString(570,30,str(c.getPageNumber()))
 
     opening_pages(c,book,title,draw_grid,footer)
     for puzzle in book['puzzles']:
+        check_cancel(cancel)
         layout = plan_puzzle(puzzle)
         difficulty=puzzle['difficulty'].title()
         heading_width=528-pdfmetrics.stringWidth(difficulty,'Book',10)-18
-        fitted_heading(c,f"Puzzle {puzzle['number']}: {puzzle['title']}",42,744,heading_width,17,12)
+        fitted_heading(c,f"Puzzle {puzzle['number']}: {puzzle['title']}",42,744,heading_width,18 if large else 17,16 if large else 12)
         c.setFont('Book',10)
         c.drawRightString(570,744,puzzle['difficulty'].title())
-        c.setFont('Book',8)
+        c.setFont('Book',10 if large else 8)
         c.drawString(42,727,'Shaded squares and * clues mark theme answers.')
-        draw_grid(c,puzzle,layout['grid_x'],layout['grid_top'],layout['cell'])
+        draw_grid(c,puzzle,layout['grid_x'],layout['grid_top'],layout['cell'],large_print=large)
         for para,x,y in layout['clues']:
             para.drawOn(c,x,y)
         footer(f"Puzzle {puzzle['number']} | {puzzle['difficulty'].title()}")
         c.showPage()
-    for start in range(0,len(book['puzzles']),4):
-        c.setFont('BookBold',17)
+    per_page=2 if large else 4
+    for start in range(0,len(book['puzzles']),per_page):
+        check_cancel(cancel)
+        c.setFont('BookBold',20 if large else 17)
         c.drawString(54,744,'Solutions')
-        for offset,puzzle in enumerate(book['puzzles'][start:start+4]):
-            x,top = 54+(offset%2)*264,700-(offset//2)*320
-            fitted_heading(c,f"{puzzle['number']}. {puzzle['title']}",x,top,230,10,8.5)
-            rows,cols = len(puzzle['grid']),len(puzzle['grid'][0])
-            cell = min(18,230/cols,270/rows)
-            draw_grid(c,puzzle,x,top-16,cell,solution=True)
-        footer(f'Solutions {start+1}-{min(start+4,len(book["puzzles"]))}')
+        for offset,puzzle in enumerate(book['puzzles'][start:start+per_page]):
+            if large:
+                x,top=54,704-offset*320
+                fitted_heading(c,f"{puzzle['number']}. {puzzle['title']}",x,top,504,16,16)
+            else:
+                x,top=54+(offset%2)*264,700-(offset//2)*320
+                fitted_heading(c,f"{puzzle['number']}. {puzzle['title']}",x,top,230,10,8.5)
+            rows,cols=len(puzzle['grid']),len(puzzle['grid'][0])
+            cell=min(32,270/rows,504/cols) if large else min(18,230/cols,270/rows)
+            grid_x=(612-cols*cell)/2 if large else x
+            draw_grid(c,puzzle,grid_x,top-(25 if large else 16),cell,solution=True,large_print=large)
+        footer(f'Solutions {start+1}-{min(start+per_page,len(book["puzzles"]))}')
         c.showPage()
     c.setFont('BookBold',17)
     c.drawString(54,744,'Dictionary credits')

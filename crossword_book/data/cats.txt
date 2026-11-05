@@ -44,3 +44,64 @@ CARRIER|Portable container for taking a cat to the vet|Enclosed transport used f
 CATFLAP|Small pet door for a feline|Hinged opening permitting independent feline entry
 CATTREE|Climbing furniture made for indoor cats|Multilevel feline structure combining perches and scratching areas
 LITTERBOX|Indoor toilet tray for a cat|Container holding absorbent substrate for feline elimination
+ANGORA|Silky-coated cat named for Ankara|Turkish breed bearing Ankara's old name
+BOMBAY|Sleek black cat breed|Domestic breed developed to resemble a small black panther
+BURMILLA|Silver-coated British cat breed|Breed from a Burmese and chinchilla Persian pairing
+CHARTREUX|Blue-gray French cat breed|French breed with a woolly coat and copper eyes
+CYMRIC|Long-haired relative of the Manx|Long-haired tailless breed with a Welsh name
+DEVONREX|Curly-coated cat with very large ears|Pixielike rex breed originating in Devon
+HAVANA|Chocolate-brown cat breed|Brown feline breed named for Cuba's capital
+LAPERM|Cat breed with a curly coat|Rex-type breed whose name evokes a permanent wave
+MANX|Cat breed known for a very short or absent tail|Breed native to the Isle of Man
+MUNCHKIN|Cat breed with short legs|Short-legged breed named for Oz's little people
+NEBELUNG|Long-haired blue-gray cat breed|Misty-named relative of the Russian Blue
+PETERBALD|Slender Russian cat with little or no hair|Hair-sparse breed developed in Saint Petersburg
+PIXIEBOB|Domestic breed with a bobcatlike look|Short-tailed breed named for its foundation cat Pixie
+RAGAMUFFIN|Large, long-haired companion cat|Plush-coated breed developed from Ragdoll lines
+SAVANNAH|Tall spotted cat breed|Breed developed from domestic cats and the serval
+SELKIRK|Cat breed with a plush curly coat|Rex breed with dominant curly-coat inheritance
+SNOWSHOE|Pointed cat with white feet|American breed combining points and white paws
+TONKINESE|Cat breed related to Siamese and Burmese|Breed combining two Southeast Asian feline lineages
+BICOLOR|Cat coat with two colors|Feline pattern combining white and another color
+TORBIE|Cat with tabby and tortoiseshell markings|Coat nickname blending two feline patterns
+KITTENS|Young cats|Juvenile domestic felines
+FUR|Soft hair covering a cat|Feline insulating coat
+PAWS|A cat's feet|Feline weight-bearing extremities
+CLAW|Sharp hook on a cat's toe|Retractile keratin tool of a feline digit
+HISS|Angry sound made by a cat|Feline warning made through an open mouth
+YOWL|Long, loud feline cry|Drawn-out cat vocalization
+TRILL|Short chirping greeting from a cat|Feline greeting between a meow and a purr
+CHIRP|Birdlike sound a cat may make|Brief high-pitched feline vocalization
+KNEAD|Push the paws alternately against a soft surface|Feline action informally called making biscuits
+RUB|Press the cheek against a person or object|Feline scent-marking action using the face
+SHED|Lose loose fur|Release old coat hairs, as a cat does
+BRUSH|Tool for removing loose cat hair|Grooming implement for a feline coat
+COMB|Toothed tool used on a cat's fur|Tool used to remove feline tangles
+COLLAR|Band worn around a cat's neck|Support for a feline identification tag
+BELL|Small ringing item on some cat collars|Collar attachment intended to announce a cat's approach
+BOWL|Dish for a cat's food or water|Feline feeding vessel
+KIBBLE|Dry pieces of cat food|Pelleted food in a feline feeding dish
+SCRATCHER|Surface provided for a cat's claws|Enrichment item for stretching and claw maintenance
+TUNNEL|Tube-shaped play space for a cat|Enclosed passage used in feline enrichment
+TEASER|Wand toy that tempts a cat to chase|Interactive feline toy often tipped with feathers
+FEATHER|Light toy attachment a cat may chase|Avian structure often used on a feline teaser
+WINDOW|Viewing spot enjoyed by many indoor cats|Glass-fronted stage for watching outdoor wildlife
+BALANCE|Skill that helps cats walk along narrow edges|Feline ability aided by tail and inner ear
+LEAP|Jump from one surface to another|Feline spring from a perch
+CLIMB|Go up a tree or scratching post|Ascend using feline claws
+HUNT|Search for and catch prey|Predatory activity of a feline
+PREY|Animal pursued by a hunting cat|Quarry of a feline predator
+STRETCH|Extend the body and legs after a nap|Feline warm-up often paired with a yawn
+YAWN|Open the mouth widely when sleepy|Post-catnap gape
+NURSE|Feed kittens with milk|Provide maternal nourishment to young felines
+WEAN|Move kittens from milk to solid food|End a kitten's reliance on maternal milk
+GROOMING|Cleaning and maintaining the coat|Coat care performed with a papilla-covered tongue
+SANDBOX|Informal name for a cat's litter tray|Feline toilet container, colloquially
+PET|Companion animal such as a house cat|Animal kept chiefly for companionship
+RESCUE|Save a neglected or stray cat|Animal-welfare effort that rehomes felines
+STRAY|Cat living without a known owner|Unowned or lost domestic feline
+FERAL|Describing a domestic cat living wild|Domestic in ancestry but unsocialized to people
+ADOPT|Give a shelter cat a permanent home|Bring a rescue feline into a household
+FOSTER|Care for a cat until permanent placement|Offer temporary housing to a rescue feline
+MICROCHIP|Tiny implanted pet identification device|Scannable identifier beneath a cat's skin
+VET|Doctor who treats a sick cat|Feline clinician, informally

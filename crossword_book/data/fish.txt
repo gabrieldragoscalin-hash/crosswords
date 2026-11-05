@@ -22,3 +22,84 @@ CLOWNFISH|Orange-and-white fish living among anemones|Anemone-associated fish of
 GOLDFISH|Common orange pet fish|Domesticated Carassius auratus
 GUPPY|Small live-bearing aquarium fish|Poecilia reticulata
 STURGEON|Large fish known for producing caviar|Scute-bearing fish of the family Acipenseridae
+ANGELFISH|Aquarium fish with tall, trailing fins|Name shared by cichlids and marine pomacanthids
+BETTA|Colorful aquarium fish also called a fighting fish|Labyrinth fish of the genus Betta
+BREAM|Deep-bodied freshwater or coastal fish|Fish name shared by cyprinids and sparids
+BRILL|Flatfish related to the turbot|Scophthalmus rhombus
+BURBOT|Freshwater relative of the cod|Lota lota
+CHAR|Cold-water fish related to trout|Salmonid of the genus Salvelinus
+CHINOOK|Largest Pacific salmon|Oncorhynchus tshawytscha
+CHUB|Stocky freshwater fish related to carp|Fish name applied to several cyprinids
+CICHLID|Freshwater fish family including tilapia|Member of the family Cichlidae
+CISCO|Cold-water fish of northern lakes|Coregonine salmonid also called a lake herring
+COBIA|Large, dark coastal game fish|Rachycentron canadum
+COHO|Pacific salmon also called silver salmon|Oncorhynchus kisutch
+CONGER|Large marine eel|Eel of the family Congridae
+DACE|Small freshwater fish related to carp|Slender cyprinid of flowing waters
+DANIO|Small schooling aquarium fish|Cyprinid genus including the zebrafish
+DISCUS|Round, flattened aquarium fish|South American cichlid of the genus Symphysodon
+DOGFISH|Small shark|Common name for several small sharks
+DORY|Deep-bodied sea fish|Fish name associated with Zeus faber
+DRUM|Fish named for the sound it makes|Croaking member of the family Sciaenidae
+EEL|Long fish with a snakelike body|Elongated fish of the order Anguilliformes
+GOBY|Small bottom-dwelling fish|Fish of the family Gobiidae
+GRAYLING|Freshwater fish with a large dorsal fin|Salmonid of the genus Thymallus
+GROUPER|Large reef fish with a broad mouth|Robust predatory serranid
+GURNARD|Sea fish with fingerlike fin rays|Bottom-dwelling fish of the family Triglidae
+HAKE|Codlike marine food fish|Fish commonly placed in the genus Merluccius
+HOGFISH|Reef fish with a piglike snout|Lachnolaimus maximus
+IDE|European freshwater fish related to carp|Leuciscus idus
+JACK|Fast-swimming marine game fish|Member of the family Carangidae
+KILLIFISH|Small egg-laying fish often kept in aquariums|Common name for many cyprinodontiform fishes
+KOI|Colorful ornamental carp|Decorative domesticated Cyprinus carpio
+LAMPREY|Jawless fish with a round sucking mouth|Jawless vertebrate of the order Petromyzontiformes
+LING|Long-bodied marine fish related to cod|Molva molva
+LOACH|Small bottom-dwelling freshwater fish|Barbel-bearing fish often found in streams
+MAHI|First half of a name for a colorful game fish|Repeated name for Coryphaena hippurus
+MAKO|Fast-swimming shark|Shark of the genus Isurus
+MANTA|Large ray with winglike fins|Giant filter-feeding mobulid ray
+MINNOW|Small freshwater fish|Common name for many small cyprinids
+MOLLY|Popular live-bearing aquarium fish|Poecilia species commonly kept in community tanks
+MONKFISH|Broad-headed sea fish|Anglerfish commonly placed in the genus Lophius
+MORAY|Reef-dwelling eel|Eel of the family Muraenidae
+MULLET|Coastal fish with a blunt head|Fish of the family Mugilidae
+NEONTETRA|Small aquarium fish with a bright blue stripe|Paracheirodon innesi
+PADDLEFISH|Fish with a long paddlelike snout|Filter-feeding relative of sturgeons
+PARROTFISH|Reef fish with a beaklike mouth|Coral-grazing fish with fused dental plates
+PERMIT|Deep-bodied tropical game fish|Trachinotus falcatus
+PIRANHA|South American fish with sharp teeth|Toothed characid of tropical South American rivers
+PLAICE|Flatfish with orange spots|Pleuronectes platessa
+POLLOCK|Marine fish often used in fish sticks|Cod relative known from the genera Pollachius and Gadus
+PUFFER|Fish that inflates when threatened|Inflating member of the family Tetraodontidae
+RAINBOW|First word in a colorful trout's name|Describes Oncorhynchus mykiss before trout
+RAY|Flat fish with winglike pectoral fins|Batoid cartilaginous fish
+ROACH|European freshwater fish related to carp|Rutilus rutilus
+ROCKFISH|Marine fish often found near rocky bottoms|Common name for many fishes of the genus Sebastes
+RUDD|Freshwater fish with reddish fins|Scardinius erythrophthalmus
+SHAD|Herring relative that may enter rivers|Fish of the genus Alosa
+SHARK|Predatory fish with a cartilage skeleton|Elasmobranch with exposed lateral gill slits
+SKATE|Flat cartilaginous fish that lays egg cases|Batoid of the family Rajidae
+SMELT|Small silvery fish|Fish of the family Osmeridae
+SNAPPER|Reef fish with a large toothed mouth|Member of the family Lutjanidae
+SOLE|Flatfish prized as food|Flatfish name associated especially with Soleidae
+SQUEAKER|Catfish named for its sound|Common name for several Synodontis catfishes
+STICKLEBACK|Small fish with spines along its back|Fish of the family Gasterosteidae
+SURGEONFISH|Reef fish with a sharp tail-base spine|Member of the family Acanthuridae
+TARPON|Large silvery game fish|Leaping fish of the genus Megalops
+TENCH|Freshwater fish with small scales|Tinca tinca
+TETRA|Small schooling aquarium fish|Common name for many small characins
+TILAPIA|Freshwater fish commonly raised for food|Cichlid group widely used in aquaculture
+TRIGGERFISH|Reef fish with a locking dorsal spine|Member of the family Balistidae
+TURBOT|Large round flatfish|Scophthalmus maximus
+WAHOO|Fast tropical game fish|Acanthocybium solandri
+WALLEYE|Freshwater game fish with reflective eyes|Sander vitreus
+WRASSE|Often colorful reef fish|Member of the family Labridae
+ZANDER|Large European fish related to perch|Sander lucioperca
+FIN|Fish's swimming appendage|Locomotor or stabilizing structure on a fish
+GILL|Organ that lets a fish breathe in water|Aquatic respiratory structure
+SCALE|Small plate covering a fish's skin|Protective dermal structure in many fishes
+SPAWN|Release eggs or sperm into water|Reproduce by depositing gametes externally
+SHOAL|Group of fish swimming together|Aggregation of fishes
+SCHOOL|Coordinated group of fish|Fish aggregation with synchronized movement
+FRY|Very young fish|Newly hatched or juvenile fishes
+ROE|Fish eggs|Unfertilized or ripe fish eggs used as food
